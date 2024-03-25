@@ -177,3 +177,19 @@
 
 + [Docker进阶：Docker-compose 实现服务弹性伸缩](https://blog.csdn.net/qq_41840843/article/details/136997370)
 
++ [使用GaLore在本地GPU进行高效的LLM调优](https://blog.csdn.net/m0_46510245/article/details/137004388)
+
++ [2024三掌柜赠书活动第十八期：Excel高效办公：人力资源管理（AI版）](https://blog.csdn.net/CC1991_/article/details/136991227)
+
++ [【Linux】网络编程套接字一](https://blog.csdn.net/fight_p/article/details/136801085)
+
++ [GaussDB WDR分析之节点篇与点评分析](https://blog.csdn.net/GaussDB/article/details/137003955)
+
++ [网络原理(6)——IP协议](https://blog.csdn.net/cool_tao6/article/details/136975902)
+
++ [信号处理--使用EEGNet进行BCI脑电信号的分类](https://blog.csdn.net/YINTENAXIONGNAIER/article/details/136990284)
+
++ [文献学习-22-Surgical-VQLA：具有门控视觉语言嵌入的转换器，用于机器人手术中的视觉问题本地化回答](https://blog.csdn.net/Metaphysicist/article/details/137014093)
+
++ [vue.js——学习计划表](https://blog.csdn.net/weixin_74878822/article/details/136985744)
+
