@@ -65,3 +65,5 @@
 
 + [记某SRC站点前端JS加解密到获得漏洞报送证书](https://www.freebuf.com/vuls/384800.html)
 
++ [国家网信办公布《促进和规范数据跨境流动规定》](https://www.freebuf.com/articles/395806.html)
+
