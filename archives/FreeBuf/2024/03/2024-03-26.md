@@ -47,3 +47,5 @@
 
 + [FreeBuf 早报 | 外交部称不能将网络安全问题政治化；美国上千万卡车容易受蠕虫攻击](https://www.freebuf.com/news/395814.html)
 
++ [Discord 机器人平台源代码遭遇黑客“投毒”](https://www.freebuf.com/news/395869.html)
+
