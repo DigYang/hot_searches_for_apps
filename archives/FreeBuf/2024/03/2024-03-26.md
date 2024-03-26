@@ -43,3 +43,7 @@
 
 + [分析发现勒索软件数据泄露主要依靠滥用合法软件](https://www.freebuf.com/articles/network/393874.html)
 
++ [信息安全管理——网络与基础架构安全管理](https://www.freebuf.com/articles/compliance/395305.html)
+
++ [FreeBuf 早报 | 外交部称不能将网络安全问题政治化；美国上千万卡车容易受蠕虫攻击](https://www.freebuf.com/news/395814.html)
+
