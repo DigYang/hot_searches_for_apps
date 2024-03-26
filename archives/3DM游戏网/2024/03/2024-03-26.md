@@ -245,3 +245,9 @@
 
 + [《龙之信条2》玩家进妓院玩 大嘴巴随从会到处说](https://www.3dmgame.com/news/202403/3891389.html)
 
++ [美国巴尔的摩港口货船碰撞大桥坍塌 20人失踪正在搜救](https://www.3dmgame.com/news/202403/3891397.html)
+
++ [《Fractal Sailor》PC平台免费发布 环境重视恐怖新游](https://www.3dmgame.com/news/202403/3891399.html)
+
++ [全年PC销量狂跌20%！戴尔宣布裁员并限制招聘](https://www.3dmgame.com/news/202403/3891398.html)
+
