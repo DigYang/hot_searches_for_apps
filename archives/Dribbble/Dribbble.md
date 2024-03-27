@@ -95,3 +95,9 @@
 
 + [Windows to the world Illustrations for Food & Wine Magazine](https://dribbble.com/shots/)
 
++ [Do not touch wild animals](https://dribbble.com/shots/)
+
++ [Matthew Alvarado Pictorial Mark](https://dribbble.com/shots/)
+
++ [Klaipeda and Palanga Icons](https://dribbble.com/shots/)
+

@@ -47,3 +47,5 @@
 
 + [FreeBuf 早报 | 超大型养老院因网络攻击申请破产；欧美100多家组织遭恶意软件攻击](https://www.freebuf.com/news/395990.html)
 
++ [数据安全治理学习——前期安全规划和安全管理体系建设](https://www.freebuf.com/articles/database/393311.html)
+
