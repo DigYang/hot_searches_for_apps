@@ -73,3 +73,17 @@
 
 + [D&D Alignment Badge Illustrations](https://dribbble.com/shots/)
 
++ [Beauty](https://dribbble.com/shots/)
+
++ [Face](https://dribbble.com/shots/)
+
++ [????????????????????????????????????](https://dribbble.com/shots/)
+
++ [CEL](https://dribbble.com/shots/)
+
++ [besties!](https://dribbble.com/shots/)
+
++ [Music & Film Logo Collection](https://dribbble.com/shots/)
+
++ [Sticker Designs](https://dribbble.com/shots/)
+
