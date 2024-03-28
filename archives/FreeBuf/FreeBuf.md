@@ -51,3 +51,5 @@
 
 + [FreeBuf 早报 | 数千家使用Ray的公司面临攻击威胁；攻击者利用人工智能生成虚假讣告](https://www.freebuf.com/news/396133.html)
 
++ [印度国防、能源部门遭遇黑客攻击，起因竟是一张虚假空军邀请函？](https://www.freebuf.com/news/396179.html)
+
