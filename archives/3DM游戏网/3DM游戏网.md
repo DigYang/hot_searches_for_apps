@@ -125,3 +125,5 @@
 
 + [战术撤离游戏新作《Project L33T》两小时实机演示](https://www.3dmgame.com/news/202403/3891744.html)
 
++ [成为新一代许愿池 网友喊话雷军生产一下相机](https://www.3dmgame.com/news/202403/3891748.html)
+
