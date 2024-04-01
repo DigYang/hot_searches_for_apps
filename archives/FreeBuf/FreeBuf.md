@@ -43,3 +43,7 @@
 
 + [技术详解 | 黑客如何通过PDF文件分发恶意软件](https://www.freebuf.com/articles/network/394052.html)
 
++ [常见的反沙箱反虚拟机思路](https://www.freebuf.com/articles/system/395742.html)
+
++ [FreeBuf 早报 | NIST成立新联盟来运营其国家漏洞数据库；Hot Topic 遭到网络攻击](https://www.freebuf.com/news/396462.html)
+
