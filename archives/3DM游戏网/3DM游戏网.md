@@ -119,3 +119,7 @@
 
 + [苍蓝雷霆开发商愚人节发布2D新作《精灵机弗烈利特》](https://www.3dmgame.com/news/202404/3891774.html)
 
++ [《寂静岭2：重制版》被ESRB评为成人级 血腥暴力有性内容](https://www.3dmgame.com/news/202404/3891783.html)
+
++ [愚人节整蛊！Capcom宣布进军航空业推出直升机](https://www.3dmgame.com/news/202404/3891784.html)
+

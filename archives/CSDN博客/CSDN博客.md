@@ -145,3 +145,9 @@
 
 + [【Linux】详解文件系统以及周边知识](https://blog.csdn.net/m0_74265792/article/details/137168435)
 
++ [语音识别：基于HMM](https://blog.csdn.net/cyz_2014/article/details/137169335)
+
++ [第十一篇【传奇开心果系列】Python自动化办公库技术点案例示例：深度解读Python自动化操作PDF文件转Word文档](https://blog.csdn.net/jackchuanqi/article/details/137186780)
+
++ [手写简易操作系统(十七)--编写键盘驱动](https://blog.csdn.net/weixin_43903639/article/details/137179543)
+
