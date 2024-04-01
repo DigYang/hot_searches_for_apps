@@ -47,3 +47,5 @@
 
 + [FreeBuf 早报 | NIST成立新联盟来运营其国家漏洞数据库；Hot Topic 遭到网络攻击](https://www.freebuf.com/news/396462.html)
 
++ [《大语言模型（LLM）攻防实战手册》第一章：提示词注入（LLM01）-概述](https://www.freebuf.com/articles/database/396596.html)
+
