@@ -209,3 +209,23 @@
 
 + [“iii计划”游戏展示会参展名单公布 包含多款国产游戏](https://www.3dmgame.com/news/202404/3891972.html)
 
++ [《黑神话：悟空》获2000万发行经费 国内玩家期待该作](https://www.3dmgame.com/news/202404/3891983.html)
+
++ [中国航天科工发布“谛听 S10” 工业级四足机器人](https://www.3dmgame.com/news/202404/3891984.html)
+
++ [Bungie将于4月10日公开《命运2：终焉之形》实机预告](https://www.3dmgame.com/news/202404/3891986.html)
+
++ [美剧《辐射》最新预告 4月12日正式发售](https://www.3dmgame.com/news/202404/3891979.html)
+
++ [城市建造游戏《蒸汽世界：建造》全新DLC“Mechanized”公布 4月4日发售](https://www.3dmgame.com/news/202404/3891980.html)
+
++ [《Rusty“s Retirement》4月26日登陆Steam 放置系种田](https://www.3dmgame.com/news/202404/3891982.html)
+
++ [Apple Arcade版《Samba de Amigo：出发去摇摇派对》新增多首曲目！](https://www.3dmgame.com/news/202404/3891975.html)
+
++ [专业数据站新报告 鸟山明作品IP移动游戏10年收入约100亿美元](https://www.3dmgame.com/news/202404/3891976.html)
+
++ [生存建造版中华小当家？国风联机游戏《无径之林》现已发售！](https://www.3dmgame.com/news/202404/3891977.html)
+
++ [KK对战平台明星创作者专访“随手发布，还真能被泼天的流量砸中。”](https://www.3dmgame.com/news/202404/3891978.html)
+
