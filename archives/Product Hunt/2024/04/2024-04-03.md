@@ -159,3 +159,7 @@
 
 + [CallStar](https://www.producthunt.com/posts/callstar)
 
++ [Netlify Platform Primitives](https://www.producthunt.com/posts/netlify-platform-primitives)
+
++ [Rizz.AI](https://www.producthunt.com/posts/rizz-ai)
+
