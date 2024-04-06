@@ -69,3 +69,11 @@
 
 + [Harry Potter Poster](https://dribbble.com/shots/)
 
++ [Agua de Iquitos Label Design](https://dribbble.com/shots/)
+
++ [Skateboarding Spot Illustrations](https://dribbble.com/shots/)
+
++ [Nomint logotype design concept](https://dribbble.com/shots/)
+
++ [Still no pickles!](https://dribbble.com/shots/)
+
