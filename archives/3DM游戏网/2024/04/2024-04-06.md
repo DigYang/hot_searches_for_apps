@@ -145,3 +145,9 @@
 
 + [MOD团队要为《星球大战：前线2》打造非官方平台](https://www.3dmgame.com/news/202404/3892139.html)
 
++ [《盗贼之海》是微软第一方登陆其他平台的关键测试](https://www.3dmgame.com/news/202404/3892141.html)
+
++ [《模拟人生4》嘿咻速通新纪录 十分之一秒优势夺冠](https://www.3dmgame.com/news/202404/3892142.html)
+
++ [清明哪个景区看起来都像有1亿人：天水、淄博受欢迎](https://www.3dmgame.com/news/202404/3892140.html)
+
