@@ -143,3 +143,5 @@
 
 + [B社此前曾拒绝《辐射》多个改编影视作品提案](https://www.3dmgame.com/news/202404/3892137.html)
 
++ [MOD团队要为《星球大战：前线2》打造非官方平台](https://www.3dmgame.com/news/202404/3892139.html)
+
