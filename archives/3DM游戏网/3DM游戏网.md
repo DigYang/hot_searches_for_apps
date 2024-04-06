@@ -115,3 +115,11 @@
 
 + [《星球大战：法外狂徒》故事宣传片将于4月10日首播](https://www.3dmgame.com/news/202404/3892119.html)
 
++ [独立佳作《恶魔轮盘》现已登录Steam 限时首发特惠！](https://www.3dmgame.com/news/202404/3892128.html)
+
++ [故意降低iPhone性能！苹果在加拿大开通电池门理赔通道](https://www.3dmgame.com/news/202404/3892126.html)
+
++ [益智解谜游戏新作《Linkito》即将登陆抢先体验平台](https://www.3dmgame.com/news/202404/3892127.html)
+
++ [数毛社分析《星刃》试玩版 性能与帧率表现不错](https://www.3dmgame.com/news/202404/3892125.html)
+
