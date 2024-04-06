@@ -139,3 +139,7 @@
 
 + [动视详细解释《使命召唤》匹配机制：以延迟为主](https://www.3dmgame.com/news/202404/3892135.html)
 
++ [2024年4月总票房破10亿！宫崎骏奥斯卡最佳动画夺冠](https://www.3dmgame.com/news/202404/3892138.html)
+
++ [B社此前曾拒绝《辐射》多个改编影视作品提案](https://www.3dmgame.com/news/202404/3892137.html)
+
