@@ -29,3 +29,7 @@
 
 + [高通骁龙 8s Gen3 芯片尺寸 8.40 x 10.66mm，小于骁龙 8 Gen3](https://m.ithome.com/html/760290.htm)
 
++ [智己 L6 轿车 4 月 8 日发布：首搭“光年”固态电池，续航超 1000km](https://m.ithome.com/html/760293.htm)
+
++ [三天突破 8.34 亿，2024 清明档票房创我国影史新高](https://m.ithome.com/html/760297.htm)
+
