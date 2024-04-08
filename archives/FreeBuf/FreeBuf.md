@@ -47,3 +47,9 @@
 
 + [FreeBuf 早报 | 美国卫生部警告医院黑客攻击IT服务台；全新恶意软件 JSOutProx 曝光](https://www.freebuf.com/news/397038.html)
 
++ [美国环境保护局遭黑客攻击，850万用户数据泄露](https://www.freebuf.com/articles/397144.html)
+
++ [Rhadamanthys 针对石油和天然气行业发起网络钓鱼攻击](https://www.freebuf.com/news/397145.html)
+
++ [StrelaStealer恶意软件2024年攻击活动分析](https://www.freebuf.com/articles/database/396016.html)
+
