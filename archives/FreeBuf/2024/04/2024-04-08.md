@@ -43,3 +43,7 @@
 
 + [OpenVAS源码分析| NASL解释器实现](https://www.freebuf.com/vuls/396550.html)
 
++ [2024年伊始，StrelaStealer恶意软件就再掀波澜](https://www.freebuf.com/articles/database/396016.html)
+
++ [FreeBuf 早报 | 美国卫生部警告医院黑客攻击IT服务台；全新恶意软件 JSOutProx 曝光](https://www.freebuf.com/news/397038.html)
+
