@@ -123,3 +123,9 @@
 
 + [《地狱之刃2》售前直播探讨精神病女主经历](https://www.3dmgame.com/news/202404/3892305.html)
 
++ [迪士尼游戏部门领导层扩容 迎来前暴雪和育碧高管](https://www.3dmgame.com/news/202404/3892311.html)
+
++ [扎导力作《月球叛军2》新海报曝光 九大角色登场亮相](https://www.3dmgame.com/news/202404/3892310.html)
+
++ [CDPR仍然愿意为《赛博朋克2077》提供更多新内容](https://www.3dmgame.com/news/202404/3892309.html)
+
