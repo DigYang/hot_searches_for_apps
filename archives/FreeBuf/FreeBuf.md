@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 黑客可使用AI幻觉传播恶意软件；入侵iPhone的破解工具采购价飙升](https://www.freebuf.com/articles/397166.html)
 
++ [随手分享的APP链接，可能会让你“大型社死”](https://www.freebuf.com/articles/neopoints/397225.html)
+
++ [倒计时两天 | FreeBuf 企业安全俱乐部·广州站](https://www.freebuf.com/fevents/397141.html)
+
