@@ -237,3 +237,5 @@
 
 + [《魔兽世界》设计师将考迪克做成地精Boss 放进游戏](https://www.3dmgame.com/news/202404/3892362.html)
 
++ [博主称小米SU7产能将提升：日产拉到400台以上 月产1.2万节奏](https://www.3dmgame.com/news/202404/3892366.html)
+
