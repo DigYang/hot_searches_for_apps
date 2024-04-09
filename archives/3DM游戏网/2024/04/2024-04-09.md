@@ -129,3 +129,29 @@
 
 + [CDPR仍然愿意为《赛博朋克2077》提供更多新内容](https://www.3dmgame.com/news/202404/3892309.html)
 
++ [集英社官方警告 《火影忍者》岸本齐史本人没有发布任何SNS](https://www.3dmgame.com/news/202404/3892324.html)
+
++ [MMORPG《寻路者》因更换发行商而暂时从Steam平台下架](https://www.3dmgame.com/news/202404/3892323.html)
+
++ [《无主之地》真人电影新剧照 六大主演集体亮相](https://www.3dmgame.com/news/202404/3892322.html)
+
++ [《刺客信条：幻景》1.08更新即将上线 完善现有内容](https://www.3dmgame.com/news/202404/3892321.html)
+
++ [电影《登月大计划》首支预告 7月12日正式上映](https://www.3dmgame.com/news/202404/3892320.html)
+
++ [《猩球崛起4：新世界》新预告发布 新世界谁将主宰！](https://www.3dmgame.com/news/202404/3892319.html)
+
++ [制片人表示《刺猬索尼克》电影系列向“复仇者联盟级别”看齐](https://www.3dmgame.com/news/202404/3892318.html)
+
++ [《胜利女神》新女神贝依4月11日登场 新外传故事上线](https://www.3dmgame.com/news/202404/3892317.html)
+
++ [光荣特库摩起诉游族侵犯版权 要求停止侵权赔偿损失](https://www.3dmgame.com/news/202404/3892316.html)
+
++ [板卡厂商预测：RTX 5090/5080今年Q4上市](https://www.3dmgame.com/news/202404/3892315.html)
+
++ [消息称暴雪国服回归将于本周官宣 国内玩家高兴吗？](https://www.3dmgame.com/news/202404/3892314.html)
+
++ [《盗贼之海》PS5版本周开启BETA封测 需预购游戏](https://www.3dmgame.com/news/202404/3892313.html)
+
++ [日本去年有18家街机厅破产 街机没人玩了吗？](https://www.3dmgame.com/news/202404/3892312.html)
+
