@@ -119,3 +119,9 @@
 
 + [Creators inc. | Logo creation](https://dribbble.com/shots/)
 
++ [3D Can Mockup Tutorial](https://dribbble.com/shots/)
+
++ [Cat Logo](https://dribbble.com/shots/)
+
++ [Back to nature](https://dribbble.com/shots/)
+
