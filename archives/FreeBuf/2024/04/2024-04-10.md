@@ -63,3 +63,5 @@
 
 + [我参加了 OpenAI 红队的活动，并带来了一些笔记](https://www.freebuf.com/news/397407.html)
 
++ [颠覆大众认知，苹果“强制”收集用户数据](https://www.freebuf.com/news/397382.html)
+
