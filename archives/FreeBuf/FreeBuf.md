@@ -57,3 +57,9 @@
 
 + [XZ后门检测工具和脚本最新汇总](https://www.freebuf.com/sectool/397401.html)
 
++ [hideNsneak：一款功能强大的渗透测试基础设施管理工具](https://www.freebuf.com/sectool/393144.html)
+
++ [网传桌面版telegram RCE 0day](https://www.freebuf.com/articles/system/397422.html)
+
++ [我参加了 OpenAI 红队的活动，并带来了一些笔记](https://www.freebuf.com/news/397407.html)
+
