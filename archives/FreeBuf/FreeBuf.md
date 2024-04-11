@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 上万台LG电视机容易被黑客控制；微信宣布打击租售微信账号行为](https://www.freebuf.com/news/397535.html)
 
++ [FreeBuf 观察 | 网络安全行业政策法规（3 月）](https://www.freebuf.com/articles/neopoints/396801.html)
+
