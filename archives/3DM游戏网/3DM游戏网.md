@@ -115,3 +115,15 @@
 
 + [《古墓丽影三部曲合集》更新追加性感劳拉豹纹皮肤](https://www.3dmgame.com/news/202404/3892577.html)
 
++ [CDPR对多人游戏有兴趣 但坚持认为单人游戏仍是王道](https://www.3dmgame.com/news/202404/3892588.html)
+
++ [陶德一直在拒绝《上古卷轴》改编成电视剧 必须保持保水准](https://www.3dmgame.com/news/202404/3892587.html)
+
++ [《最终幻想7：重生》1.03版更新上线修复Bug 补丁大小4.9GB](https://www.3dmgame.com/news/202404/3892586.html)
+
++ [《波斯王子：Rogue》配置及新预告片公布](https://www.3dmgame.com/news/202404/3892585.html)
+
++ [《指环王：夏尔的传说》预告片将于4/22公布](https://www.3dmgame.com/news/202404/3892584.html)
+
++ [《遗迹2》DLC“被遗忘的王国”4月23日推出](https://www.3dmgame.com/news/202404/3892583.html)
+
