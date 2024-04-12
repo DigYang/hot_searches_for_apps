@@ -43,3 +43,7 @@
 
 + [网络罪犯耍阴招：回顾体育界的10起网络攻击事件](https://www.freebuf.com/news/397282.html)
 
++ [企业安全 | 浅谈数据安全治理主要过程](https://www.freebuf.com/articles/es/397153.html)
+
++ [FreeBuf早报 | 谷歌云联合GenAI创建网络安全强国；消费电子制造商 boAt 遭攻击](https://www.freebuf.com/news/397631.html)
+
