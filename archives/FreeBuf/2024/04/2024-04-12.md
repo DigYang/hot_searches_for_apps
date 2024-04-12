@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 谷歌云联合GenAI创建网络安全强国；消费电子制造商 boAt 遭攻击](https://www.freebuf.com/news/397631.html)
 
++ [CISA ：恶意软件分析平台Malware Next-Gen全新升级](https://www.freebuf.com/news/397708.html)
+
++ [机器人攻击仍然是2024年的最大威胁](https://www.freebuf.com/news/397714.html)
+
