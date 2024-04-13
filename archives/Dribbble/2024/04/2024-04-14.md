@@ -81,3 +81,9 @@
 
 + [Still no pickles!](https://dribbble.com/shots/)
 
++ [Noah Kahan Patch Designs for 2024 World Tour](https://dribbble.com/shots/)
+
++ [Horse](https://dribbble.com/shots/)
+
++ [Havana](https://dribbble.com/shots/)
+
