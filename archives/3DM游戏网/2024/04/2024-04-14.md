@@ -109,3 +109,5 @@
 
 + [《星际公民》PC系统配置更新 需要100G空间](https://www.3dmgame.com/news/202404/3892704.html)
 
++ [新《神鬼寓言》开发疑似接近尾声 多个高级开发者离开](https://www.3dmgame.com/news/202404/3892708.html)
+
