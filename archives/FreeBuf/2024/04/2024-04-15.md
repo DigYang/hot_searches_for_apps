@@ -51,3 +51,9 @@
 
 + [CISA 就 Sisense 数据泄露事件发出警告](https://www.freebuf.com/news/397912.html)
 
++ [Cyera 获得 3 亿美元融资，以推动人工智能的安全应用](https://www.freebuf.com/news/397915.html)
+
++ [新发现，37% 的公开共享文件正在泄露敏感信息](https://www.freebuf.com/news/397926.html)
+
++ [应急响应 | 扑朔迷离的黑链](https://www.freebuf.com/articles/network/397134.html)
+
