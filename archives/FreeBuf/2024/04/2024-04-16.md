@@ -43,3 +43,9 @@
 
 + [OWASP发布10大开源软件风险清单](https://www.freebuf.com/articles/network/397888.html)
 
++ [江苏省数据局发布《江苏省数据条例（草案）》 （征求意见稿）](https://www.freebuf.com/news/397997.html)
+
++ [有手就会？记一次绕过防重放的漏洞挖掘](https://www.freebuf.com/vuls/397142.html)
+
++ [FreeBuf早报 | Cyera 获得 3 亿美元融资；国安部披露5起国家安全领域典型案例](https://www.freebuf.com/news/397934.html)
+
