@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | Cyera 获得 3 亿美元融资；国安部披露5起国家安全领域典型案例](https://www.freebuf.com/news/397934.html)
 
++ [号外！号外！唯品会招人啦](https://www.freebuf.com/jobs/398087.html)
+
++ [针对全球 320 个组织，新型隐写术攻击曝光](https://www.freebuf.com/news/398051.html)
+
