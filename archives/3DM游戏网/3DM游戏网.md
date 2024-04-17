@@ -279,3 +279,9 @@
 
 + [联想小新Pro 16 2024独显版上市 首发价7999元](https://www.3dmgame.com/news/202404/3892990.html)
 
++ [《对马岛之鬼》PC配置公开 极高特效需RTX 4080](https://www.3dmgame.com/news/202404/3892994.html)
+
++ [英伟达新显卡驱动发布 优化《恶意不息》《庄园领主》](https://www.3dmgame.com/news/202404/3892993.html)
+
++ [英伟达携手合作伙伴打造小型游戏PC新生态 RTX 4060系列率先支持](https://www.3dmgame.com/news/202404/3892992.html)
+
