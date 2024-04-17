@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 第二届全球人工智能安全峰会将举办；乌克兰黑客入侵俄无人机开发商](https://www.freebuf.com/news/398063.html)
 
++ [网安标委发布《网络安全技术 网络安全运维实施指南（征求意见稿）》等三项国家标准](https://www.freebuf.com/news/398156.html)
+
