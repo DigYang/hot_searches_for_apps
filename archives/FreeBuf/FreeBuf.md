@@ -47,3 +47,9 @@
 
 + [FreeBuf早报 | 联合健康因勒索攻击损失8.72亿美元；攻击者冒充微软进行网络钓鱼](https://www.freebuf.com/news/398246.html)
 
++ [超详细分享 | 你真的懂零信任么？](https://www.freebuf.com/articles/database/377593.html)
+
++ [美国最大的医疗服务提供商因网络攻击损失 8.72 亿美元](https://www.freebuf.com/news/398310.html)
+
++ [Meta 审查不力，亲俄宣传广告席卷欧盟](https://www.freebuf.com/news/398315.html)
+
