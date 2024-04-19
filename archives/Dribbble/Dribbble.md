@@ -49,3 +49,29 @@
 
 + [Chill Wheel](https://dribbble.com/shots/)
 
++ [Dune Shift Alternative Logo](https://dribbble.com/shots/)
+
++ [Tuxedo](https://dribbble.com/shots/)
+
++ [Brookfield Properties (Illustration Branding)](https://dribbble.com/shots/)
+
++ [Abducted By Aliens](https://dribbble.com/shots/)
+
++ [Fallout](https://dribbble.com/shots/)
+
++ [GeoShapes icon set](https://dribbble.com/shots/)
+
++ [Boston General Store (Safety Matches)](https://dribbble.com/shots/)
+
++ [Agumbe bus ride](https://dribbble.com/shots/)
+
++ [The Red October Ghoul.](https://dribbble.com/shots/)
+
++ [Blacksmith House](https://dribbble.com/shots/)
+
++ [Barnhaus](https://dribbble.com/shots/)
+
++ [NIGHTLIFE BREWING CO](https://dribbble.com/shots/)
+
++ [Everything is stardust](https://dribbble.com/shots/)
+
