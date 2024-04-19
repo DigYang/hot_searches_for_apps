@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 黑客组织“沙虫”神秘面纱被揭开；美国政府天眼数据泄露](https://www.freebuf.com/news/398367.html)
 
++ [市场监管总局印发《市场监督管理行政执法电子数据取证暂行规定》](https://www.freebuf.com/news/398462.html)
+
++ [黑客组织利用 Carbanak 后门“瞄准”美国汽车行业](https://www.freebuf.com/news/398441.html)
+
