@@ -47,3 +47,5 @@
 
 + [FreeBuf 周报 | 37%的公开文件正在泄露信息；全球互联网流量竟有一半来自机器人](https://www.freebuf.com/articles/398486.html)
 
++ [攻防演练 | 浅谈蜜罐(hfish)的攻与防](https://www.freebuf.com/defense/376919.html)
+
