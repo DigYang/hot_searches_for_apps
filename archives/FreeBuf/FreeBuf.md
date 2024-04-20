@@ -43,3 +43,7 @@
 
 + [深信服西部天威战队：impacket中横向工具的深入分析](https://www.freebuf.com/articles/system/331639.html)
 
++ [通过GitHub传播窃密木马的攻击活动分析](https://www.freebuf.com/articles/network/395369.html)
+
++ [FreeBuf 周报 | 37%的公开文件正在泄露信息；全球互联网流量竟有一半来自机器人](https://www.freebuf.com/articles/398486.html)
+
