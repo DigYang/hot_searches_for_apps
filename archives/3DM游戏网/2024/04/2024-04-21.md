@@ -109,3 +109,15 @@
 
 + [《星际争霸2》原设计师预告新RTS 夏季游戏节揭晓](https://www.3dmgame.com/news/202404/3893240.html)
 
++ [腾讯多人FPS新作《竞技场突围：无限》公布 登陆PC、5月初封测](https://www.3dmgame.com/news/202404/3893246.html)
+
++ [《DogDogDog》登陆Steam 狗狗主题恐怖冒险](https://www.3dmgame.com/news/202404/3893247.html)
+
++ [日本环球影城大金刚国度区域将延期至下半年开放](https://www.3dmgame.com/news/202404/3893248.html)
+
++ [11年测试终于完结《七日杀》官方宣布6月推出正式版](https://www.3dmgame.com/news/202404/3893245.html)
+
++ [《辐射76》Steam同时在线峰值已超过6万人](https://www.3dmgame.com/news/202404/3893243.html)
+
++ [基利安·墨菲可能将在《孤岛惊魂7》中饰演大反派](https://www.3dmgame.com/news/202404/3893244.html)
+
