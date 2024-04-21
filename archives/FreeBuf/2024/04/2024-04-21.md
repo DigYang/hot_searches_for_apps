@@ -49,3 +49,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/398526.html)
 
++ [XZ后门故事：初始分析](https://www.freebuf.com/articles/network/398177.html)
+
