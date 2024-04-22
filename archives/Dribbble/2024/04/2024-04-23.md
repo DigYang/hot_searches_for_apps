@@ -65,3 +65,13 @@
 
 + [Fallout](https://dribbble.com/shots/)
 
++ [P for Paradise](https://dribbble.com/shots/)
+
++ [Candy pattern for client](https://dribbble.com/shots/)
+
++ [Breathe and go for a walk ????](https://dribbble.com/shots/)
+
++ [Agumbe bus ride](https://dribbble.com/shots/)
+
++ [Cryptocurrency](https://dribbble.com/shots/)
+
