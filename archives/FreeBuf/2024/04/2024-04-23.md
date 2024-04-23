@@ -43,3 +43,7 @@
 
 + [一次收获颇丰的Google漏洞挖掘旅程](https://www.freebuf.com/articles/paper/398295.html)
 
++ [不太常见的Windows本地提权方法一览](https://www.freebuf.com/defense/397357.html)
+
++ [FreeBuf早报 | Akira团伙勒索4200万美元；美国政府成功举办第九次网络风暴演习](https://www.freebuf.com/news/398658.html)
+
