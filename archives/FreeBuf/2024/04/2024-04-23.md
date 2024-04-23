@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | Akira团伙勒索4200万美元；美国政府成功举办第九次网络风暴演习](https://www.freebuf.com/news/398658.html)
 
++ [俄黑客组织“沙虫”发力，乌克兰关基设施被破坏](https://www.freebuf.com/news/398980.html)
+
