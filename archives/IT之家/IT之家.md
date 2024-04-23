@@ -25,3 +25,7 @@
 
 + [哪吒 L 上市：号称“充电速度最快的增程车型”，12.99 万元起](https://m.ithome.com/html/763469.htm)
 
++ [铁路 12306：不存在纵容“买长乘短”的情况](https://m.ithome.com/html/763459.htm)
+
++ [水月雨首款手机外观公布：提供 3.5mm、4.4mm 耳机孔，4 月 25 日上市](https://m.ithome.com/html/763475.htm)
+
