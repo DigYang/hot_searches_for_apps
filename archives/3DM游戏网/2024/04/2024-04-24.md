@@ -113,3 +113,11 @@
 
 + [《飞向月球》确认登陆任天堂Switch 预告片曝光](https://www.3dmgame.com/news/202404/3893449.html)
 
++ [虚幻引擎5.4全新功能曝光 为游戏开发注入强大动力](https://www.3dmgame.com/news/202404/3893457.html)
+
++ [开发者表示《觉醒计划》并未取消 正在努力开发中](https://www.3dmgame.com/news/202404/3893456.html)
+
++ [酒店建造管理游戏《酒店建筑师》年内推出EA版](https://www.3dmgame.com/news/202404/3893455.html)
+
++ [《堡垒之夜》加入多首碧丽艾莉许热门歌曲](https://www.3dmgame.com/news/202404/3893454.html)
+
