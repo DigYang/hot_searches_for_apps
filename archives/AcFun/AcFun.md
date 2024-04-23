@@ -75,3 +75,9 @@
 
 + [【红伊】Young and beautiful](http://www.acfun.cn/v/ac44381664)
 
++ [【自翻】Chiikawa第157话「看我/啧啧啧」ちいかわ](http://www.acfun.cn/v/ac44380369)
+
++ [吉利要出漂移车?叫我帮忙调校?](http://www.acfun.cn/v/ac44377446)
+
++ [温柔翻唱「你-林依晨」 风轻轻 我听见你声音](http://www.acfun.cn/v/ac44380973)
+
