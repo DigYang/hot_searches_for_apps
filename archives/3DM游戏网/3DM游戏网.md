@@ -249,3 +249,13 @@
 
 + [《辐射》电视剧观众希望能在《辐射5》中保留马特·贝瑞配音版的巧手先生](https://www.3dmgame.com/news/202404/3893604.html)
 
++ [“SEGA黄金周大促”火热进行中 《人中之龙８》《女神异闻录３ Reload》首促！](https://www.3dmgame.com/news/202404/3893616.html)
+
++ [《超级猴子球 香蕉大乱斗》公开最新多人游戏预告片！](https://www.3dmgame.com/news/202404/3893615.html)
+
++ [《碧蓝幻想：Relink》11天销量破百万 80%销量来自日本以外](https://www.3dmgame.com/news/202404/3893614.html)
+
++ [拜登签署强制要求字节出售或封禁海外版抖音法令](https://www.3dmgame.com/news/202404/3893613.html)
+
++ [德普狠批好莱坞砸钱拍无新意烂片：观众们早已厌倦](https://www.3dmgame.com/news/202404/3893612.html)
+
