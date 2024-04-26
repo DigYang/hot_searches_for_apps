@@ -59,3 +59,7 @@
 
 + [PlugX又有新变种，感染250万个服务器](https://www.freebuf.com/news/399440.html)
 
++ [如何使用bof-launcher在CC++Zig应用程序中执行Beacon对象文件（BOF）](https://www.freebuf.com/sectool/393148.html)
+
++ [app小程序攻防 | 外挂？！记一次艰难的sign绕过](https://www.freebuf.com/articles/web/398447.html)
+
