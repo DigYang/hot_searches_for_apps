@@ -43,3 +43,7 @@
 
 + [经验分享 | 记一次通过子域模糊测试识别漏洞并获取高额赏金的经历](https://www.freebuf.com/articles/network/396858.html)
 
++ [生成式人工智能系统的蠕虫病毒风险](https://www.freebuf.com/articles/paper/398032.html)
+
++ [FreeBuf早报 | 多家输入法厂商发现漏洞；美医保巨头支付赎金后再发数据泄露](https://www.freebuf.com/news/399349.html)
+
