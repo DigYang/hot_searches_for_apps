@@ -245,3 +245,7 @@
 
 + [NS《喧哗番长 乙女 Double Pack》角色介绍&发售日公开！7月25日重返高中生活](https://www.3dmgame.com/news/202404/3893740.html)
 
++ [三星Galaxy C55开启预售 搭载第一代骁龙7移动平台](https://www.3dmgame.com/news/202404/3893742.html)
+
++ [《活侠传》将于6月19日发售](https://www.3dmgame.com/news/202404/3893707.html)
+
