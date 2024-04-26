@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 多家输入法厂商发现漏洞；美医保巨头支付赎金后再发数据泄露](https://www.freebuf.com/news/399349.html)
 
++ [从10到1000，“教父”系列银行木马变种近两年内疯狂激增](https://www.freebuf.com/news/399446.html)
+
++ [WP Automatic WordPress 插件遭遇数百万次 SQL 注入攻击](https://www.freebuf.com/news/399427.html)
+
