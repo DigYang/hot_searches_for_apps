@@ -47,3 +47,5 @@
 
 + [FreeBuf 周报 | 乌克兰关基设施被破坏；GPT-4 会自己发起漏洞攻击](https://www.freebuf.com/news/399481.html)
 
++ [OWASP 发布十大开源软件风险清单（详解版）](https://www.freebuf.com/news/398276.html)
+
