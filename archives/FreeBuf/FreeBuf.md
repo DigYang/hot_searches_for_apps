@@ -43,3 +43,7 @@
 
 + [RSAC 2024创新沙盒｜Mitiga：新一代云和SaaS 事件响应解决方案](https://www.freebuf.com/articles/neopoints/399516.html)
 
++ [鉴源实验室丨智能网联汽车协议模糊测试技术概述](https://www.freebuf.com/articles/network/398229.html)
+
++ [FreeBuf 周报 | 乌克兰关基设施被破坏；GPT-4 会自己发起漏洞攻击](https://www.freebuf.com/news/399481.html)
+
