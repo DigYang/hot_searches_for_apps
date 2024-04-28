@@ -49,3 +49,5 @@
 
 + [FreeBuf早报 | 朝鲜黑客组织攻击数十家韩国国防公司；美国国会通过法案禁止TikTok](https://www.freebuf.com/news/399397.html)
 
++ [渗透测试 | 通读审计之HadSky](https://www.freebuf.com/vuls/398535.html)
+
