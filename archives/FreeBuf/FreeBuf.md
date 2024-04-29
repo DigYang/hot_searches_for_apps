@@ -41,3 +41,15 @@
 
 + [RSAC 2024创新沙盒｜Mitiga：新一代云和SaaS 事件响应解决方案](https://www.freebuf.com/articles/neopoints/399516.html)
 
++ [Thoma Bravo以 53亿美元收购网络安全AI公司Darktrace](https://www.freebuf.com/articles/399711.html)
+
++ [数千台 Qlik Sense 服务器受 Cactus 勒索软件攻击](https://www.freebuf.com/news/399688.html)
+
++ [特斯拉通过国家汽车数据安全要求](https://www.freebuf.com/news/399696.html)
+
++ [信息安全管理 | 应用系统安全管理](https://www.freebuf.com/articles/web/399234.html)
+
++ [FreeBuf早报 | LockBit 勒索软件团伙再度来袭；中央网信办宣布打击违法信息外链](https://www.freebuf.com/news/399627.html)
+
++ [渗透新思路 | 仿真环境下内存转储分析和模糊测试的全记录](https://www.freebuf.com/articles/system/398343.html)
+
