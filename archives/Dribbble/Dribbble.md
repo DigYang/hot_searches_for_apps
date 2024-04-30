@@ -83,3 +83,9 @@
 
 + [Ehemericana](https://dribbble.com/shots/)
 
++ [Flower pattern exploration](https://dribbble.com/shots/)
+
++ [Sketchbook Dump 2](https://dribbble.com/shots/)
+
++ [Anxious and Tired – lettering t-shirt print](https://dribbble.com/shots/)
+
