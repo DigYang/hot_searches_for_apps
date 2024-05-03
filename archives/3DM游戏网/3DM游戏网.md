@@ -129,3 +129,7 @@
 
 + [EA在Steam开启发行商特卖 大量大作降价幅度超80%](https://www.3dmgame.com/news/202405/3894127.html)
 
++ [《辐射4》大型MOD《Vault 13》今夏发布试玩 初代3D重现](https://www.3dmgame.com/news/202405/3894134.html)
+
++ [索尼和阿波罗联合出资260亿美元 想要全现金收购派拉蒙](https://www.3dmgame.com/news/202405/3894133.html)
+
