@@ -213,3 +213,5 @@
 
 + [2024年4月Steam硬件调查报告 RTX 3060继续霸榜](https://www.3dmgame.com/news/202405/3894297.html)
 
++ [《绝地潜兵2》玩家跑到《三国杀》求助 希望诚信互刷](https://www.3dmgame.com/news/202405/3894299.html)
+
