@@ -123,3 +123,9 @@
 
 + [打造最佳寿司餐厅《东京料理》即将登陆Switch](https://www.3dmgame.com/news/202405/3894311.html)
 
++ [韩媒称《星刃》销量600万份 PC版要2年后才会推出](https://www.3dmgame.com/news/202405/3894318.html)
+
++ [《塔罗斯的法则2》资料片或在制作中 期待吗？](https://www.3dmgame.com/news/202405/3894317.html)
+
++ [《GTA6》或于2025年秋季推出 有双持和肢解功能](https://www.3dmgame.com/news/202405/3894316.html)
+
