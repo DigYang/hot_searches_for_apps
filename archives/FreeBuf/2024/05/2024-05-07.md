@@ -43,3 +43,7 @@
 
 + [AI伦理和安全风险管理终极指南](https://www.freebuf.com/articles/paper/400036.html)
 
++ [记一次EDU运气加成的高危漏洞挖掘](https://www.freebuf.com/vuls/399938.html)
+
++ [FreeBuf早报 | 微软推出零信任DNS；阿联酋遭遇史上最大规模的网络攻击](https://www.freebuf.com/news/399995.html)
+
