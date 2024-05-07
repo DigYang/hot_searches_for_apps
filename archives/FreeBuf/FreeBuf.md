@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 微软推出零信任DNS；阿联酋遭遇史上最大规模的网络攻击](https://www.freebuf.com/news/399995.html)
 
++ [观点 | 数据分类分级，是中国网安集体编织的“皇帝新衣”](https://www.freebuf.com/news/400129.html)
+
++ [Reality Defender 夺冠，RSAC 2024 创新沙盒大赛结果出炉](https://www.freebuf.com/news/400051.html)
+
