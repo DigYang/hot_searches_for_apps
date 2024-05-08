@@ -47,3 +47,9 @@
 
 + [自动化安全运营实操案例:Wazuh X 雷池WAF X 飞书](https://www.freebuf.com/articles/es/399740.html)
 
++ [黑客利用WordPress插件漏洞获取超额权限，500万个网站面临安全威胁](https://www.freebuf.com/news/400200.html)
+
++ [hvv在即，我们整理了 2024 年部分勒索漏洞清单](https://www.freebuf.com/news/399743.html)
+
++ [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
+
