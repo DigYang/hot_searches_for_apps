@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 可监听几乎所有VPN的黑客技术曝光； 英国立法禁止弱密码](https://www.freebuf.com/news/400298.html)
 
++ [专访赵军利 | 困难级开局，如何从0到1建设安全体系](https://www.freebuf.com/articles/people/399681.html)
+
