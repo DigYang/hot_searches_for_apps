@@ -43,3 +43,7 @@
 
 + [恶意软件正劫持安全软件更新进行分发](https://www.freebuf.com/articles/network/400194.html)
 
++ [等保2.0 | 物联网安全扩展要求](https://www.freebuf.com/articles/network/400199.html)
+
++ [FreeBuf早报 | CISA 启动漏洞强化计划；Zscaler 将 “测试环境 ”下线](https://www.freebuf.com/news/400399.html)
+
