@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | CISA 启动漏洞强化计划；Zscaler 将 “测试环境 ”下线](https://www.freebuf.com/news/400399.html)
 
++ [FreeBuf 观察 | 网络安全行业政策法规（4 月）](https://www.freebuf.com/articles/neopoints/399313.html)
+
++ [影响4900万客户！戴尔数据遭泄露，涉及姓名、住址等信息](https://www.freebuf.com/news/400446.html)
+
