@@ -49,3 +49,7 @@
 
 + [FreeBuf早报 | 2023年中国网安上市公司平均薪酬发布；波音拒支付2亿美元赎金](https://www.freebuf.com/news/400514.html)
 
++ [欧洲刑警组织疑遭入侵，机密信息数据泄露](https://www.freebuf.com/news/400570.html)
+
++ [财政部、国家网信办发布《会计师事务所数据安全管理暂行办法》](https://www.freebuf.com/news/400561.html)
+
