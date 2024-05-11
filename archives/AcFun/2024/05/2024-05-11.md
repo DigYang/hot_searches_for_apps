@@ -73,3 +73,7 @@
 
 + [【柯基】朝鲜歌曲《胜利的五月》](http://www.acfun.cn/v/ac44498313)
 
++ [来自安娜玩家的雾子cos](http://www.acfun.cn/v/ac44502518)
+
++ [《关于我的铲屎官是狗这件事》](http://www.acfun.cn/v/ac44503688)
+
