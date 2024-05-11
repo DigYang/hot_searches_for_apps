@@ -65,3 +65,7 @@
 
 + [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
 
++ [如何应对专线攻击；总部与分支机构的安全责任划分 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/400591.html)
+
++ [厂商看过来 | FreeBuf会员体系2.0正式发布](https://www.freebuf.com/news/400694.html)
+
