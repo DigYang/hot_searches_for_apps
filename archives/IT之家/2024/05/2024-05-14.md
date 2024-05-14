@@ -27,3 +27,5 @@
 
 + [小米米家无线洗车机 2 上架：无线锂电设计，众筹价 279 元](https://m.ithome.com/html/767505.htm)
 
++ [旗下第一款“相机”，vivo X100 Ultra 手机亮相](https://m.ithome.com/html/767648.htm)
+
