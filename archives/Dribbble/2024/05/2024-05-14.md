@@ -101,3 +101,7 @@
 
 + [diversity of views](https://dribbble.com/shots/)
 
++ [Mid-Century Inspired Cocktail Illustrations](https://dribbble.com/shots/)
+
++ [Paris City Guide Web Design](https://dribbble.com/shots/)
+
