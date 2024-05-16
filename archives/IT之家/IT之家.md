@@ -65,3 +65,7 @@
 
 + [李佳琦谈 2024 年 618：今年大促难但要逼自己一把](https://m.ithome.com/html/768461.htm)
 
++ [苹果 iPhone 16 Pro Max 机模曝光，对比显示机身尺寸增加](https://m.ithome.com/html/768275.htm)
+
++ [前脸“大嘴”变“小嘴”，华为余承东称问界新 M7 新版本很快发布](https://m.ithome.com/html/768442.htm)
+
