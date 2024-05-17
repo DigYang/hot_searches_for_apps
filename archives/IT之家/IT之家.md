@@ -39,3 +39,7 @@
 
 + [3788 元 / 2099 元起，华为 P60 / nova11 官方翻新机开售](https://m.ithome.com/html/768504.htm)
 
++ [“药丸”要完：消息称 3D 人脸识别 2027 年实现单孔 / 全屏下，苹果华为终见曙光](https://m.ithome.com/html/768663.htm)
+
++ [联想拯救者、YOGA、小新 AI 元启版笔记本新品发布](https://m.ithome.com/html/768525.htm)
+
