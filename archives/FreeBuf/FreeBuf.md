@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 超百亿元投资与网络安全相关；Foxit PDF 阅读器存在设计“缺陷”](https://www.freebuf.com/news/401146.html)
 
++ [悬赏 500 万美元，美国征集涉及就业欺诈的朝鲜 IT 员工信息](https://www.freebuf.com/news/401209.html)
+
++ [新的 Wi-Fi 漏洞通过降级攻击进行网络窃听](https://www.freebuf.com/news/401222.html)
+
