@@ -53,3 +53,9 @@
 
 + [破解Android App流量加密的通用方法及工具化实现](https://www.freebuf.com/articles/mobile/400766.html)
 
++ [PMapper：助你在AWS中实现IAM权限快速安全评估](https://www.freebuf.com/sectool/400551.html)
+
++ [黑客滥用微软“快速助手”，展开网络钓鱼攻击活动](https://www.freebuf.com/news/401225.html)
+
++ [筑牢数据安全防线：全面解读《会计师事务所数据安全管理暂行办法》](https://www.freebuf.com/articles/neopoints/400533.html)
+
