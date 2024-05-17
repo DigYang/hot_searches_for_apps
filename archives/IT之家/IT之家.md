@@ -43,3 +43,7 @@
 
 + [联想拯救者、YOGA、小新 AI 元启版笔记本新品发布](https://m.ithome.com/html/768525.htm)
 
++ [无 5G 信号时可接入其他运营商 5G，我国四大运营商启动 5G 异网漫游商用推广](https://m.ithome.com/html/768613.htm)
+
++ [腾讯视频《庆余年 2》上线首日正片播放量超 2900 万，创今年新高](https://m.ithome.com/html/768631.htm)
+
