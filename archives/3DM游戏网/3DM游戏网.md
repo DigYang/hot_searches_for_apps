@@ -175,3 +175,5 @@
 
 + [索尼影业CEO：《毒液3》将是系列最后一部电影](https://www.3dmgame.com/news/202405/3895282.html)
 
++ [消息称特斯拉寻求在华建立数据中心，用于 FSD 完全自动驾驶](https://www.3dmgame.com/news/202405/3895284.html)
+
