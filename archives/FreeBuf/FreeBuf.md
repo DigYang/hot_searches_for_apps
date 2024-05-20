@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 欧洲银行巨头数据泄露；首届全球网安能力建设高级别圆桌会议举办](https://www.freebuf.com/news/401188.html)
 
++ [安全AI未来 C3安全大会·2024盛大召开——数据驱动 AI原生](https://www.freebuf.com/news/401348.html)
+
