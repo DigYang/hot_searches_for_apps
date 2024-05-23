@@ -99,3 +99,7 @@
 
 + [Share it with me!](https://dribbble.com/shots/)
 
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
++ [California Root Fest: Merch Full Preview](https://dribbble.com/shots/)
+
