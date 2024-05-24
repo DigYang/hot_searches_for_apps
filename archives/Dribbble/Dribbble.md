@@ -77,3 +77,9 @@
 
 + [California Roots Fest - Scraf](https://dribbble.com/shots/)
 
++ [Purple Mecha](https://dribbble.com/shots/)
+
++ [Bagel Friends](https://dribbble.com/shots/)
+
++ [Paris City Guide Mobile Website](https://dribbble.com/shots/)
+
