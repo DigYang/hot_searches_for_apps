@@ -169,3 +169,7 @@
 
 + [索尼给了《绝地潜兵2》额外5年的开发时间](https://www.3dmgame.com/news/202405/3895836.html)
 
++ [《刺客信条：影》官推宣传游戏 评论区再度翻车了](https://www.3dmgame.com/news/202405/3895838.html)
+
++ [土耳其工作室Shadowdfall Studios成为SIE官方合作伙伴](https://www.3dmgame.com/news/202405/3895837.html)
+
