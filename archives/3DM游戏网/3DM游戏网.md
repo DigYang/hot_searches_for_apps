@@ -143,3 +143,7 @@
 
 + [《东京咖啡》7月登陆Steam 咖啡馆经营模拟](https://www.3dmgame.com/news/202405/3895821.html)
 
++ [沉浸式电影感体验 《地狱之刃2》非官方VR mod发布](https://www.3dmgame.com/news/202405/3895825.html)
+
++ [《DRINKRIME》PC试玩发布 推理侦探冒险](https://www.3dmgame.com/news/202405/3895824.html)
+
