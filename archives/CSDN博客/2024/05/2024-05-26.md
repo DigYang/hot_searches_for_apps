@@ -147,3 +147,5 @@
 
 + [【DevOps】深入浅出：Jenkins 性能监控全解析](https://blog.csdn.net/benshu_001/article/details/139130506)
 
++ [2024年中国电机工程学会杯数学建模思路 - 案例：最短时间生产计划安排](https://blog.csdn.net/math_assistant/article/details/139155305)
+
