@@ -167,3 +167,5 @@
 
 + [宫崎骏又在准备新片了 可能是怀旧冒险活剧风格](https://www.3dmgame.com/news/202405/3895835.html)
 
++ [索尼给了《绝地潜兵2》额外5年的开发时间](https://www.3dmgame.com/news/202405/3895836.html)
+
