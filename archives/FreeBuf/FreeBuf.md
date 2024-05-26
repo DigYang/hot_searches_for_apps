@@ -47,3 +47,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/401809.html)
 
++ [漏洞分析 | kkFileView远程代码执行漏洞](https://www.freebuf.com/vuls/401307.html)
+
