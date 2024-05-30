@@ -217,3 +217,7 @@
 
 + [微软发布DirectSR预览版 统一英伟达AMDIntel超分技术](https://www.3dmgame.com/news/202405/3896154.html)
 
++ [《原神》克洛琳德角色PV——「最终保险」](https://www.3dmgame.com/news/202405/3896157.html)
+
++ [《绝地求生》被疑抽奖概率造假 遭到韩国公正委员会调查](https://www.3dmgame.com/news/202405/3896158.html)
+
