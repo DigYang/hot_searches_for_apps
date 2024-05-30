@@ -35,3 +35,7 @@
 
 + [腾讯《王者荣耀》官宣 10v10 众星峡谷模式：全新地图、重复职业、独立段位](https://m.ithome.com/html/771580.htm)
 
++ [部分地区 1786 元：京东 iPad 2021 款限时清仓新低（日常 2599 元）](https://m.ithome.com/html/771472.htm)
+
++ [自定义 GPT 等 GPT-4o 新功能现已向 ChatGPT 全体用户免费开放](https://m.ithome.com/html/771647.htm)
+
