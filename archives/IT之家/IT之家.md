@@ -51,3 +51,7 @@
 
 + [苹果 iPhone 16 / Pro 系列手机壳首曝！果然多个洞，全新拍照按键？](https://m.ithome.com/html/772089.htm)
 
++ [王化否认“小米逼供应商买车”传闻：法务部又有新收获](https://m.ithome.com/html/772001.htm)
+
++ [消息称小米 15 系列手机“两款杯型”均配定制豪威主摄，全系标配 50MP 1/1.3 英寸方案](https://m.ithome.com/html/772007.htm)
+
