@@ -71,3 +71,17 @@
 
 + [Converse Warsaw](https://dribbble.com/shots/)
 
++ [Web design for SAS Design Studio](https://dribbble.com/shots/)
+
++ [Hiking for the win (PSE '24)](https://dribbble.com/shots/)
+
++ [Sendero Tag Label](https://dribbble.com/shots/)
+
++ [Lighthouse](https://dribbble.com/shots/)
+
++ [Foo Fighters Graphic](https://dribbble.com/shots/)
+
++ [Spirit of the forest](https://dribbble.com/shots/)
+
++ [City Pop City Food](https://dribbble.com/shots/)
+
