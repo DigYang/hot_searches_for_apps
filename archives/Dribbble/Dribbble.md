@@ -91,3 +91,9 @@
 
 + [Heyo is turning one!](https://dribbble.com/shots/)
 
++ [Case Study: Paris City Guide Website](https://dribbble.com/shots/)
+
++ [Crow grid](https://dribbble.com/shots/)
+
++ [Double Phoenix](https://dribbble.com/shots/)
+
