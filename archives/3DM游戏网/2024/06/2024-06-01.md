@@ -159,3 +159,15 @@
 
 + [《世上英雄》正式定档6月14日发售 原价29元](https://www.3dmgame.com/news/202406/3896324.html)
 
++ [谷歌高管：AI不准确的原因是用户提的某些问题太愚蠢](https://www.3dmgame.com/news/202406/3896335.html)
+
++ [2024年5月电影票房榜出炉：《末路狂花钱》夺冠](https://www.3dmgame.com/news/202406/3896333.html)
+
++ [阿里巴巴与世卫组织合作 全球推广AI癌症筛查技术](https://www.3dmgame.com/news/202406/3896334.html)
+
++ [《寂静岭2：重制版》战斗系统和解谜都有一定改动](https://www.3dmgame.com/news/202406/3896332.html)
+
++ [电影《重返寂静岭》首曝预告 上映日期待定](https://www.3dmgame.com/news/202406/3896331.html)
+
++ [《8号出口》正式续作《8号站台》现已登陆Steam](https://www.3dmgame.com/news/202406/3896330.html)
+
