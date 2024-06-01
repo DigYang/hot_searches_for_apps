@@ -147,3 +147,15 @@
 
 + [和《血源》无关！PS1复古《梦魇卡丁车》正式推出](https://www.3dmgame.com/news/202406/3896323.html)
 
++ [消息称英伟达新一代GPU流片！RTX 5090性能恐怖](https://www.3dmgame.com/news/202406/3896329.html)
+
++ [复古射击游戏《Selaco》登陆抢先体验 收获特别好评](https://www.3dmgame.com/news/202406/3896328.html)
+
++ [《女神全部锁定我》Steam页面上线 年内发售](https://www.3dmgame.com/news/202406/3896327.html)
+
++ [《命运2：终焉之形》服务器维护25小时 更新需近300G](https://www.3dmgame.com/news/202406/3896326.html)
+
++ [传《疯狂出租车》和《街头涂鸦》重启项目大幅延期](https://www.3dmgame.com/news/202406/3896325.html)
+
++ [《世上英雄》正式定档6月14日发售 原价29元](https://www.3dmgame.com/news/202406/3896324.html)
+
