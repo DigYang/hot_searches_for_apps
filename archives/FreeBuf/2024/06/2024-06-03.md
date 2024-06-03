@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 普华永道海量内部文件曝光；英国BBC员工数据泄露](https://www.freebuf.com/news/402336.html)
 
++ [盗版Office软件“打包”多款恶意程序入侵用户系统](https://www.freebuf.com/news/402477.html)
+
