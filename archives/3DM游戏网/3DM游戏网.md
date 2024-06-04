@@ -209,3 +209,5 @@
 
 + [城市建造游戏《凯撒朋克》现已推出试玩Demo 2024年第三季度发行](https://www.3dmgame.com/news/202406/3896493.html)
 
++ [灭霸演员乔什·布洛林也将加入《利刃出鞘3》](https://www.3dmgame.com/news/202406/3896503.html)
+
