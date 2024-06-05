@@ -43,3 +43,7 @@
 
 + [大模型供应链安全 | 加载数据集或模型可能就中毒](https://www.freebuf.com/articles/web/402217.html)
 
++ [看我如何还原黑客真实通信](https://www.freebuf.com/articles/endpoint/402469.html)
+
++ [FreeBuf早报 | 纽交所IT系统出现重大技术故障；微软Copilot+新功能存在严重安全隐患](https://www.freebuf.com/news/402665.html)
+
