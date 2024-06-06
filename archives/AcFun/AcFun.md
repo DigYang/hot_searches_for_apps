@@ -85,3 +85,7 @@
 
 + [【A站独家】20多岁小伙xing侵60多岁果园大爷](http://www.acfun.cn/v/ac44702832)
 
++ [歌手纯享版【ACFUN声唱2024】六一选手分组抽签直播](http://www.acfun.cn/v/ac44747338)
+
++ [九刺还是九西？从金道锡行到西史辨伪](http://www.acfun.cn/v/ac44745116)
+

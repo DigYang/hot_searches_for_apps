@@ -167,3 +167,11 @@
 
 + [【Python数据类型的奥秘】：构建程序基石，驾驭信息之海](https://blog.csdn.net/dh45498/article/details/139482837)
 
++ [图神经网络实战（12）——图同构网络(Graph Isomorphism Network, GIN)](https://blog.csdn.net/LOVEmy134611/article/details/139487511)
+
++ [03--nginx架构实战](https://blog.csdn.net/qq_43387908/article/details/139361988)
+
++ [爬山算法的详细介绍](https://blog.csdn.net/2301_79262050/article/details/139469122)
+
++ [生命在于学习——Python人工智能原理（3.2）](https://blog.csdn.net/qq_15131581/article/details/139390654)
+
