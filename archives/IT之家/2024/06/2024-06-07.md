@@ -33,3 +33,13 @@
 
 + [苹果 iPhone 16 四款机型“身材”参数曝光：Pro Max 边框预定“全球最窄”](https://m.ithome.com/html/773530.htm)
 
++ [2024Q1 国内 600 美元以上手机排名：苹果降 25%、华为增 67%、荣耀增 67%、小米降 43%、三星降 12%](https://m.ithome.com/html/773684.htm)
+
++ [小米米家商务双肩包上架：分层收纳、可放 15.6 英寸笔记本，249 元](https://m.ithome.com/html/773683.htm)
+
++ [小米胡馨心宣布调整 Civi 4 Pro 手机新品发布时间，预计为迪士尼联名版](https://m.ithome.com/html/773649.htm)
+
++ [长安汽车董事长朱华荣：汽车行业卷出中国品牌新高度，卷出了四个老汉](https://m.ithome.com/html/773512.htm)
+
++ [小米 6A 亲肤硅胶数据线 2m 上架：USB-A 转 C、120W 快充，首发 49 元](https://m.ithome.com/html/773642.htm)
+
