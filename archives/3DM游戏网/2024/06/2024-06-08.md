@@ -191,3 +191,5 @@
 
 + [《黑神话：悟空》Xbox Series版跳票 尚需优化](https://www.3dmgame.com/news/202406/3896864.html)
 
++ [《Unknown 9: Awakening》故事预告 2024年秋季发售](https://www.3dmgame.com/news/202406/3896872.html)
+
