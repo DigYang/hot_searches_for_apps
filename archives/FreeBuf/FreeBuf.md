@@ -47,3 +47,7 @@
 
 + [FreeBuf 周报 | Telegram泄露3.61亿条记录；纽交所IT系统出现重大技术故障](https://www.freebuf.com/articles/403092.html)
 
++ [记一次攻防演练中的若依（thymeleaf 模板注入）getshell](https://www.freebuf.com/vuls/401958.html)
+
++ [企业安全实践 | 从零开始学做整体安全规划](https://www.freebuf.com/articles/es/385547.html)
+
