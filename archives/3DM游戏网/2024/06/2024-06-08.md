@@ -171,3 +171,23 @@
 
 + [《无畏契约》即将登陆主机平台 6月14日开始封测](https://www.3dmgame.com/news/202406/3896852.html)
 
++ [夏日游戏节：《三角洲行动》新预告 7月全球PC测试](https://www.3dmgame.com/news/202406/3896871.html)
+
++ [太空狼人杀《Among Us》动画剧集预告 播出时间待定](https://www.3dmgame.com/news/202406/3896870.html)
+
++ [夏日游戏节：中世纪砍杀肉鸽《钢铁之泪》首次宣布](https://www.3dmgame.com/news/202406/3896869.html)
+
++ [《无主之地》真人电影首曝片段 莉莉丝、罗兰枪战疯子](https://www.3dmgame.com/news/202406/3896868.html)
+
++ [夏日游戏节：《七日世界》7月10日全球公测 限时试玩](https://www.3dmgame.com/news/202406/3896867.html)
+
++ [卡普空新作《祇：女神之道》预售 国区售价248元](https://www.3dmgame.com/news/202406/3896866.html)
+
++ [《席德·梅尔的文明®VII》将于2025年初推出](https://www.3dmgame.com/news/202406/3896865.html)
+
++ [《怪物猎人：荒野》支持跨平台联机 大量全新截图](https://www.3dmgame.com/news/202406/3896863.html)
+
++ [《第一后裔》官宣7月2日正式发售 游戏预告片欣赏](https://www.3dmgame.com/news/202406/3896862.html)
+
++ [《黑神话：悟空》Xbox Series版跳票 尚需优化](https://www.3dmgame.com/news/202406/3896864.html)
+
