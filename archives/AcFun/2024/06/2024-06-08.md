@@ -67,3 +67,7 @@
 
 + [【葱】ラビットホール 舞蹈动作采集【初音未来 Sour暄式 MMD】](http://www.acfun.cn/v/ac44721762)
 
++ [电抛壳的Ruger mini14，但很抽象](http://www.acfun.cn/v/ac44767615)
+
++ [【红伊】Make me wanna die【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44700956)
+
