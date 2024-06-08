@@ -65,3 +65,5 @@
 
 + [比亚迪李云飞：原材料降价不在车价中体现，是对消费者的不道德](https://m.ithome.com/html/773960.htm)
 
++ [300W！Redmi 后又一家，realme 真我欲“卷”出手机快充新高度](https://m.ithome.com/html/774007.htm)
+
