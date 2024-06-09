@@ -49,3 +49,21 @@
 
 + [This weeks draggin' ????](https://dribbble.com/shots/)
 
++ [Jodar Farms Logo Design](https://dribbble.com/shots/)
+
++ [Luncheonette Food Packaging Branding](https://dribbble.com/shots/)
+
++ [Guts #2](https://dribbble.com/shots/)
+
++ [untitled (Madder Spirit)](https://dribbble.com/shots/)
+
++ [Nerdy Nuts](https://dribbble.com/shots/)
+
++ [Elections in Mexico](https://dribbble.com/shots/)
+
++ [AFJS logo concept](https://dribbble.com/shots/)
+
++ [Cat Robot](https://dribbble.com/shots/)
+
++ [Hard Work Pays Off – lettering and illustration print](https://dribbble.com/shots/)
+
