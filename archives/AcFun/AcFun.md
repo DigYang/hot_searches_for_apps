@@ -109,3 +109,7 @@
 
 + [这是碳基生物能想出来的剧情吗](http://www.acfun.cn/v/ac44790109)
 
++ [【小子贼疯】夜奔（cover：黄诗扶）【ACFUN声唱云参赛2024】](http://www.acfun.cn/v/ac44789480)
+
++ [被“催眠术”催眠了](http://www.acfun.cn/v/ac44789032)
+
