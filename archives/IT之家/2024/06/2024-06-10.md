@@ -27,3 +27,7 @@
 
 + [小米 15 Pro 手机影像规格曝光：后置 50MP 三摄，主摄采用豪威 OV50K](https://m.ithome.com/html/774187.htm)
 
++ [男子 3.7 万元法拍 8888 手机靓号又悔拍，自称没看清公告内容](https://m.ithome.com/html/774186.htm)
+
++ [“考后喜提新机”话题登微博热搜，你高考后第一部手机是什么？](https://m.ithome.com/html/774193.htm)
+
