@@ -59,3 +59,7 @@
 
 + [体态僵硬，男子藏 50 台手机入境被海关查获](https://m.ithome.com/html/774275.htm)
 
++ [消息称苹果 iOS 18 依然兼容 iPhone XR / XS / XS Max 机型](https://m.ithome.com/html/774290.htm)
+
++ [华为回应“投资柔宇”：未有此计划，也未提出投资要求](https://m.ithome.com/html/774286.htm)
+
