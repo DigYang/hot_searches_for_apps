@@ -43,3 +43,5 @@
 
 + [苹果 iOS 18 拥抱个性化：像 2008 年以来安卓系统一样定制主屏幕](https://m.ithome.com/html/774317.htm)
 
++ [【一图知】苹果 WWDC24 开发者大会：iOS 18、Apple Intelligence、Vision Pro 国行发布](https://m.ithome.com/html/774359.htm)
+
