@@ -53,3 +53,5 @@
 
 + [白帽报告苹果Vision Pro 特有漏洞，或可导致空间计算黑客攻击](https://www.freebuf.com/news/403303.html)
 
++ [代码审计：必须要知道的注入型漏洞风险参数来源](https://www.freebuf.com/articles/web/402219.html)
+
