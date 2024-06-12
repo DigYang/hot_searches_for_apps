@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 公安部网安局公布常见高考网络谣言；niconico 动画弹幕网站服务中断](https://www.freebuf.com/news/403146.html)
 
++ [国家能源局印发《电力网络安全事件应急预案》](https://www.freebuf.com/news/403231.html)
+
