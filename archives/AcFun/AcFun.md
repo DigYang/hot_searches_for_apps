@@ -71,3 +71,7 @@
 
 + [20240612 专解明朝疑难杂症备用 在a战直播(视频简介有直播地址)](http://www.acfun.cn/v/ac44812914)
 
++ [人间魅魔套装：乳胶衣！简直犯规了啊～](http://www.acfun.cn/v/ac44780683)
+
++ [【东方】Fortunate Kitten - remix【Electro Swing】](http://www.acfun.cn/v/ac44784420)
+
