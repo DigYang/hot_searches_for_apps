@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 黑客疑似已掌握黑莓公司34万亿文件；纽约时报发生重大数据泄露事故](https://www.freebuf.com/news/403416.html)
 
++ [数据收集和分析公司 Rawdamental 错误配置，多家公司受影响](https://www.freebuf.com/news/403553.html)
+
