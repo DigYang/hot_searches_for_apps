@@ -47,3 +47,5 @@
 
 + [FreeBuf 周报 | 白帽报告苹果Vision Pro特有漏洞；欧盟各政党遭受 DDoS 攻击](https://www.freebuf.com/news/403591.html)
 
++ [Chrome 恶意扩展盗取百万美金解惑](https://www.freebuf.com/articles/blockchain-articles/402749.html)
+
