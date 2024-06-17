@@ -81,3 +81,13 @@
 
 + [Case Study: Music App Design](https://dribbble.com/shots/)
 
++ [Characters in Transit - 1](https://dribbble.com/shots/)
+
++ [Lahore Travel Poster](https://dribbble.com/shots/)
+
++ [Hats](https://dribbble.com/shots/)
+
++ [Bank](https://dribbble.com/shots/)
+
++ [Condors](https://dribbble.com/shots/)
+
