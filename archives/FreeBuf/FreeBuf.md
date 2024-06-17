@@ -47,3 +47,9 @@
 
 + [FreeBuf早报 | 电信诈骗盯上高考考生；微软告密者称公司将商业利益置于安全之上](https://www.freebuf.com/news/403601.html)
 
++ [渗透测试 | 通用型漏洞挖掘实战经验分享](https://www.freebuf.com/articles/web/403529.html)
+
++ [黑客入侵 Tile 内部工具，数百万用户数据或被泄露](https://www.freebuf.com/news/403699.html)
+
++ [新型 TIKTAG 攻击曝光，专门针对谷歌浏览器和 Linux 系统](https://www.freebuf.com/news/403690.html)
+
