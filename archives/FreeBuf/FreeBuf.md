@@ -49,3 +49,5 @@
 
 + [FreeBuf早报 | 日本立法强制苹果开放第三方应用商店；新型 TIKTAG 攻击曝光](https://www.freebuf.com/news/403702.html)
 
++ [黑客竟能用表情符号控制恶意软件？](https://www.freebuf.com/news/403792.html)
+
