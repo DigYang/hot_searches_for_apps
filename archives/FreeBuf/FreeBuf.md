@@ -65,3 +65,7 @@
 
 + [网安人必备！开源网络安全工具TOP 10（附下载地址）](https://www.freebuf.com/sectool/403842.html)
 
++ [漏洞挖掘 | 挖SRC的新思路？一文详解国内AI场景漏洞挖掘](https://www.freebuf.com/articles/web/398688.html)
+
++ [美国多个城市遭勒索软件攻击，部分市政府功能被迫关闭](https://www.freebuf.com/news/403795.html)
+
