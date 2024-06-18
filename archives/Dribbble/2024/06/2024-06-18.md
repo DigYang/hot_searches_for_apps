@@ -107,3 +107,5 @@
 
 + [Life like a puppet](https://dribbble.com/shots/)
 
++ [Laughlin Leather Co. Master Logo](https://dribbble.com/shots/)
+
