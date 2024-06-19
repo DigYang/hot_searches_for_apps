@@ -215,3 +215,11 @@
 
 + [《马力欧派对：空前盛会》将是迄今最大的马趴作品](https://www.3dmgame.com/news/202406/3897678.html)
 
++ [前索尼全球工作室主席：游戏公司急着裁员毫无耐心](https://www.3dmgame.com/news/202406/3897685.html)
+
++ [《绝地潜兵2》差评披风真实存在并已完成制作 Arrowhead正在寻找发布时机](https://www.3dmgame.com/news/202406/3897684.html)
+
++ [宫崎英高透露个人最喜欢游戏：《黑暗之魂》和《血源诅咒》](https://www.3dmgame.com/news/202406/3897683.html)
+
++ [《街头霸王6》维加角色指南 6月26日参战](https://www.3dmgame.com/news/202406/3897682.html)
+
