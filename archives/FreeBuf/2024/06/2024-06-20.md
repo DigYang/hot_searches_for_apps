@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 近五分之一SQL已终止支持；加密劫持活动正针对公开的Docker API](https://www.freebuf.com/news/403943.html)
 
++ [CDK Global 遭遇攻击导致系统中断，影响数千家美国汽车经销商](https://www.freebuf.com/news/403975.html)
+
++ [苹果公司遭黑客入侵，部分工具源代码被盗](https://www.freebuf.com/news/403976.html)
+
