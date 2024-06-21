@@ -261,3 +261,7 @@
 
 + [微软：Copilot+ PC在游戏方面会越来越好](https://www.3dmgame.com/news/202406/3897887.html)
 
++ [余承东：鸿蒙生态设备超9亿台 纯血鸿蒙性能提升30%](https://www.3dmgame.com/news/202406/3897891.html)
+
++ [《头脑特工队2》上映两周 全球票房有望超6亿美元](https://www.3dmgame.com/news/202406/3897890.html)
+
