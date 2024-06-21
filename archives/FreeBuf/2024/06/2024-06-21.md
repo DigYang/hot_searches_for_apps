@@ -43,3 +43,7 @@
 
 + [RedTail 僵尸网络积极利用新漏洞发起攻击](https://www.freebuf.com/articles/network/402454.html)
 
++ [渗透测试 | 记一次Cobalt Strike的上线学习](https://www.freebuf.com/articles/network/403618.html)
+
++ [FreeBuf早报 | 关于侵害用户权益行为的APP（SDK）通报；葡萄牙某银行客户数据泄露](https://www.freebuf.com/news/404038.html)
+
