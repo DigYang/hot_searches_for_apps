@@ -47,3 +47,9 @@
 
 + [FreeBuf早报 | 关于侵害用户权益行为的APP（SDK）通报；葡萄牙某银行客户数据泄露](https://www.freebuf.com/news/404038.html)
 
++ [Phoenix UEFI 固件曝出严重漏洞，数百款英特尔 PC受影响](https://www.freebuf.com/news/404073.html)
+
++ [CrowdStrike市值将破千亿美元，美国网络安全巨头正成为市场支柱](https://www.freebuf.com/news/404098.html)
+
++ [出于安全考虑，拜登下令禁用卡巴斯基杀毒软件](https://www.freebuf.com/news/404079.html)
+
