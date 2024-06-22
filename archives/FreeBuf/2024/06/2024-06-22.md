@@ -47,3 +47,5 @@
 
 + [FreeBuf 周报 | 有 92% 的企业曾遭遇社工攻击；拜登下令禁用卡巴斯基杀毒软件](https://www.freebuf.com/news/404097.html)
 
++ [渗透测试 | 通用型漏洞挖掘实战经验分享](https://www.freebuf.com/articles/web/403529.html)
+
