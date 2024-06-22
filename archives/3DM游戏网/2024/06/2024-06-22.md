@@ -201,3 +201,13 @@
 
 + [索尼为PlayStation新作寻找演员：跨性别黑女 刀具专家](https://www.3dmgame.com/news/202406/3897939.html)
 
++ [《邪恶力量》“温家弟弟”将出演《黑袍纠察队》](https://www.3dmgame.com/news/202406/3897946.html)
+
++ [因出轨丑闻 古谷彻辞演《名侦探柯南》《海贼王》](https://www.3dmgame.com/news/202406/3897947.html)
+
++ [《最终幻想16》发售一周年 正全力准备PC版](https://www.3dmgame.com/news/202406/3897948.html)
+
++ [苹果寻求与中国本土企业合作 为iPhone提供AI服务](https://www.3dmgame.com/news/202406/3897944.html)
+
++ [《龙腾世纪》系列Steam新史低特卖 《审判》仅19.8元](https://www.3dmgame.com/news/202406/3897945.html)
+
