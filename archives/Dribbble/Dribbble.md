@@ -71,3 +71,15 @@
 
 + [❤️ The Journey](https://dribbble.com/shots/)
 
++ [Food is a political and revolutionary act.](https://dribbble.com/shots/)
+
++ [Accelerate ESG](https://dribbble.com/shots/)
+
++ [Kite](https://dribbble.com/shots/)
+
++ [Simms Fishing Products - Artist Series](https://dribbble.com/shots/)
+
++ [Smoke city](https://dribbble.com/shots/)
+
++ [Just a simple cat  (PSE '24)](https://dribbble.com/shots/)
+
