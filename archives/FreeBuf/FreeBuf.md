@@ -47,3 +47,5 @@
 
 + [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/404188.html)
 
++ [疑似Kimsuky（APT-Q-2）以军工招聘为饵攻击欧洲](https://www.freebuf.com/articles/paper/404047.html)
+
