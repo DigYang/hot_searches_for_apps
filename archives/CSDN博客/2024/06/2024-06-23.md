@@ -147,3 +147,5 @@
 
 + [鸿蒙 HarmonyOS NEXT星河版APP应用开发—上篇](https://blog.csdn.net/weixin_45793745/article/details/139888913)
 
++ [HarmonyOS NEXT Beta 版开发者及先锋用户招募（第一期）报名答题题库（持续更新中，仅供学习分享使用）](https://blog.csdn.net/qq_45875242/article/details/139878781)
+
