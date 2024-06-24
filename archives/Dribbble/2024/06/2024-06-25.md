@@ -79,3 +79,9 @@
 
 + [doom floppy](https://dribbble.com/shots/)
 
++ [Simms Fishing Apparel Design](https://dribbble.com/shots/)
+
++ [Smoke city](https://dribbble.com/shots/)
+
++ [Jackson Offshore Safety Poster](https://dribbble.com/shots/)
+
