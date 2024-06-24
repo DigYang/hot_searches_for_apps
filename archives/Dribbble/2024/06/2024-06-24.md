@@ -95,3 +95,5 @@
 
 + [Coffee & Tea Logo Collection](https://dribbble.com/shots/)
 
++ [Laughlin Leather Co. Master Logo](https://dribbble.com/shots/)
+
