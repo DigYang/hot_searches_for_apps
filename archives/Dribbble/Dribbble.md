@@ -65,3 +65,13 @@
 
 + [HHC Living Branded Graphic #3](https://dribbble.com/shots/)
 
++ [Food is a political and revolutionary act.](https://dribbble.com/shots/)
+
++ [Coffee & Tea Logo Collection](https://dribbble.com/shots/)
+
++ [Buckeye Illustration](https://dribbble.com/shots/)
+
++ [Gentry Brand - Branding](https://dribbble.com/shots/)
+
++ [Lofi pattern for music label](https://dribbble.com/shots/)
+
