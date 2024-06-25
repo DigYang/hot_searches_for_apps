@@ -25,3 +25,9 @@
 
 + [Telegram 自称仅有 30 名工程师，专家视其为“安全噩梦”](https://m.ithome.com/html/777640.htm)
 
++ [比亚迪仰望 U8 登月保障车队，现身嫦娥六号月球探测器返回着陆现场](https://m.ithome.com/html/777472.htm)
+
++ [小米 Redmi Note 14 Pro 手机有望采用 1.5K 居中单孔双微曲屏，50MP 大底“居中类椭圆镜头”](https://m.ithome.com/html/777593.htm)
+
++ [三菱电机空调、中央空调接入米家 App：支持小米澎湃智联、小爱同学控制](https://m.ithome.com/html/777484.htm)
+

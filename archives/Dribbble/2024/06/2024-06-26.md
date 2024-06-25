@@ -49,3 +49,25 @@
 
 + [Just a simple cat  (PSE '24)](https://dribbble.com/shots/)
 
++ [Configuration](https://dribbble.com/shots/)
+
++ [The three stages of coffee](https://dribbble.com/shots/)
+
++ [soccer](https://dribbble.com/shots/)
+
++ [Minsk T-shirt Design](https://dribbble.com/shots/)
+
++ [Kite](https://dribbble.com/shots/)
+
++ [HHC Living Branded Graphic #3](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [Be brave](https://dribbble.com/shots/)
+
++ [Creative Works West](https://dribbble.com/shots/)
+
++ [The Archer](https://dribbble.com/shots/)
+
++ [Illustrated Icons - American Home Shield](https://dribbble.com/shots/)
+
