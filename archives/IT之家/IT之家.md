@@ -47,3 +47,5 @@
 
 + [苹果对 iOS 上的 PC 模拟器说不](https://m.ithome.com/html/777422.htm)
 
++ [消息称 iQOO 13 手机首批搭载骁龙 8 Gen 4，延续 iQOO 12 外观设计](https://m.ithome.com/html/777391.htm)
+
