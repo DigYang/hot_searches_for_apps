@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 马斯克深度伪造视频骗局在网上泛滥；美国制裁12名卡巴斯基实验室高管](https://www.freebuf.com/news/404271.html)
 
++ [澳大利亚 Ticketek 发生云泄露，约 3000 万人受影响](https://www.freebuf.com/articles/404400.html)
+
++ [网安标委发布《网络安全标准实践指南— 一键停止收集车外数据指引（征求意见稿）》](https://www.freebuf.com/news/404368.html)
+
