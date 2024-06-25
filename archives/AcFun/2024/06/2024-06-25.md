@@ -141,3 +141,17 @@
 
 + [A站反手剑唯一指定代言人](http://www.acfun.cn/v/ac44914058)
 
++ [开 启 自 瞄 ！！！欢乐八点档-961](http://www.acfun.cn/v/ac44914904)
+
++ [【OC原创曲】Pale Blue｜假若能让大家幸福的话【手书PV】](http://www.acfun.cn/v/ac44916834)
+
++ [一个老白T，40多个彩蛋！艺术家原稿，老白人头T【ABQ好物】](http://www.acfun.cn/v/ac44916926)
+
++ [【付小远】深圳学生有属于自己的《那些年》！付小远原创歌曲Official MV《盛夏七月》](http://www.acfun.cn/v/ac44916564)
+
++ [只是长胖](http://www.acfun.cn/v/ac44915199)
+
++ [亚门最强一战！尤贝尔现身！游戏王GX骚气回顾第17期！](http://www.acfun.cn/v/ac44915233)
+
++ [【扒】孩子的朋友超有钱，带我去舞台上看演唱会《辛普森一家》之金钱试炼](http://www.acfun.cn/v/ac44915688)
+

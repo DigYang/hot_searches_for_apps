@@ -57,3 +57,7 @@
 
 + [富士康停产风波让苹果一头扎进 iPhone 生产自动化：组装工锐减 50%、全面替代仍存挑战](https://m.ithome.com/html/777409.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统输入能力升级：支持剪切板识别、智能关联输入信息](https://m.ithome.com/html/777400.htm)
+
++ [2023 年度国家科学技术奖励公布：共评出 250 个项目，华为、比亚迪、科大讯飞等公司获奖](https://m.ithome.com/html/777399.htm)
+
