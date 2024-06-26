@@ -281,3 +281,7 @@
 
 + [开VIP还有SVIP 大结局再收费：视频平台吃相难看](https://www.3dmgame.com/news/202406/3898235.html)
 
++ [罗技推出G515 LIGHTSPEED TKL无线游戏键盘 超薄紧凑设计](https://www.3dmgame.com/news/202406/3898241.html)
+
++ [《街霸6》Year 2首个追加角色“维加”现已上线](https://www.3dmgame.com/news/202406/3898240.html)
+
