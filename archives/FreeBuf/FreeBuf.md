@@ -47,3 +47,9 @@
 
 + [APT 组织也在利用云存储进行攻击](https://www.freebuf.com/articles/network/403674.html)
 
++ [LockBit ”盯上“了印度尼西亚，索要 800 万美元](https://www.freebuf.com/news/404491.html)
+
++ [曾针对七国安卓用户发起攻击，Medusa银行木马变种“卷土重来”](https://www.freebuf.com/news/404489.html)
+
++ [安全设计 | 企业安全开发生命周期（SDL）实践](https://www.freebuf.com/articles/es/385850.html)
+
