@@ -145,3 +145,11 @@
 
 + [ONLYOFFICE 桌面编辑器 8.1 发布：全新 PDF 编辑器、幻灯片版式、增强 RTL 支持及更多本地化选项](https://blog.csdn.net/Srlua/article/details/139927320)
 
++ [【深度学习】菜品目标检测软件系统](https://blog.csdn.net/oBoLuoChuiXue12/article/details/139933398)
+
++ [【PyTorch单点知识】神经元网络模型剪枝prune模块介绍（上，非结构化剪枝）](https://blog.csdn.net/m0_49963403/article/details/139896440)
+
++ [正则表达式与文本处理器](https://blog.csdn.net/qq_74956938/article/details/139962526)
+
++ [【云计算】阿里云、腾讯云、华为云平台数据库对比](https://blog.csdn.net/qq_37822090/article/details/139960052)
+
