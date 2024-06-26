@@ -31,3 +31,9 @@
 
 + [三菱电机空调、中央空调接入米家 App：支持小米澎湃智联、小爱同学控制](https://m.ithome.com/html/777484.htm)
 
++ [37.99 万元起，吉利“陆地空客”MPV 翼真 L380 正式上市](https://m.ithome.com/html/777638.htm)
+
++ [华为鸿蒙 HarmonyOS NEXT 升级 HiCar：类车机 UI 布局、应用 / 通知无缝流转](https://m.ithome.com/html/777652.htm)
+
++ [时隔 3 年，腾讯《王者荣耀》手游再次开放 iPad Pro 机型极高帧率](https://m.ithome.com/html/777661.htm)
+

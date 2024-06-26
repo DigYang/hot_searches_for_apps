@@ -103,3 +103,9 @@
 
 + [Unacademy Languages App](https://www.producthunt.com/posts/unacademy-languages-app)
 
++ [Acronymaker](https://www.producthunt.com/posts/acronymaker)
+
++ [Insights Hub](https://www.producthunt.com/posts/insights-hub)
+
++ [City Chase](https://www.producthunt.com/posts/city-chase)
+
