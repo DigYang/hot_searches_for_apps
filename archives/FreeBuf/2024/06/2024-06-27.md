@@ -49,3 +49,9 @@
 
 + [FreeBuf早报 | AI工具恶意应用榜单出炉；新加坡公民身份被盗的暗网活动激增230%](https://www.freebuf.com/news/404551.html)
 
++ [LockBit造谣，美联储数据并未遭窃](https://www.freebuf.com/news/404624.html)
+
++ [售价 15 万美元，影响 Linux 内核的 UAF 零日漏洞在暗网出售](https://www.freebuf.com/news/404615.html)
+
++ [现已修复！AirPods 最新固件曝出蓝牙漏洞，可能导致设备被窃听](https://www.freebuf.com/news/404605.html)
+
