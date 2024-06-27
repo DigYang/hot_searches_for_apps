@@ -117,3 +117,15 @@
 
 + [动画《机动战士高达：银灰幻影》将推出VR游戏](https://www.3dmgame.com/news/202406/3898251.html)
 
++ [AMD将展示神经纹理块压缩技术 减少游戏体积](https://www.3dmgame.com/news/202406/3898260.html)
+
++ [《龙腾世纪：影障守护者》新情报 游戏专精职业介绍](https://www.3dmgame.com/news/202406/3898261.html)
+
++ [《暗喻幻想》地下城有多个难度 玩家可自由选择](https://www.3dmgame.com/news/202406/3898256.html)
+
++ [合作越狱游戏《逃出生天》销量突破900万套](https://www.3dmgame.com/news/202406/3898257.html)
+
++ [3v3团战VR动作游戏《勇拳冲锋》7/18推出](https://www.3dmgame.com/news/202406/3898258.html)
+
++ [游戏开发者：游戏画面越来越逼真 导致开发时间也变长](https://www.3dmgame.com/news/202406/3898259.html)
+
