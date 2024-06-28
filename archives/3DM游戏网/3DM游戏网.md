@@ -207,3 +207,5 @@
 
 + [GTAOL加入付费会员专属功能 引发对《GTA6》担忧](https://www.3dmgame.com/news/202406/3898400.html)
 
++ [雅达利经典竞速游戏复活作《NeoSprint》现已在Steam平台正式发售](https://www.3dmgame.com/news/202406/3898402.html)
+
