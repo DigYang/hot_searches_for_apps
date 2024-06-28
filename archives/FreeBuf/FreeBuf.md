@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 美联储数据并未遭窃；AirPods 最新固件曝出蓝牙漏洞](https://www.freebuf.com/news/404663.html)
 
++ [5G 连接存在漏洞，移动设备易被绕过或受到 DoS 攻击](https://www.freebuf.com/news/404737.html)
+
++ [TeamViewer 遭遇黑客攻击，企业网络被攻破](https://www.freebuf.com/news/404728.html)
+
