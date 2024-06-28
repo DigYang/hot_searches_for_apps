@@ -43,3 +43,7 @@
 
 + [欺骗的艺术：SMTP走私分析](https://www.freebuf.com/articles/web/403860.html)
 
++ [深入讨论代码审计：实战技巧与案例漏洞剖析](https://www.freebuf.com/articles/web/403667.html)
+
++ [FreeBuf早报 | 美联储数据并未遭窃；AirPods 最新固件曝出蓝牙漏洞](https://www.freebuf.com/news/404663.html)
+
