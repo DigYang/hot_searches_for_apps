@@ -129,3 +129,13 @@
 
 + [《艾尔登法环：黄金树幽影》Steam评价转为多半好评](https://www.3dmgame.com/news/202406/3898457.html)
 
++ [《战锤40K：星际战士2》公开B测取消：将专注优化打磨](https://www.3dmgame.com/news/202406/3898470.html)
+
++ [韩国机器人行政官员“自杀”：自己摔下楼梯之后失灵](https://www.3dmgame.com/news/202406/3898469.html)
+
++ [《燧石枪：黎明之围》进厂压盘 20分钟演示放出](https://www.3dmgame.com/news/202406/3898468.html)
+
++ [未来10年SNK想要成为全球十大发行商 在新加坡成立工作室](https://www.3dmgame.com/news/202406/3898467.html)
+
++ [《无限暖暖》GI实机公布 第三季度PS5测试](https://www.3dmgame.com/news/202406/3898465.html)
+
