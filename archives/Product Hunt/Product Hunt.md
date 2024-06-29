@@ -111,3 +111,5 @@
 
 + [Iago](https://www.producthunt.com/posts/iago-2)
 
++ [Glasp: Seamless Key Highlights to Notion](https://www.producthunt.com/posts/glasp-seamless-key-highlights-to-notion)
+
