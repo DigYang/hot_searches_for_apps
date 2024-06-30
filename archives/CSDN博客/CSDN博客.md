@@ -183,3 +183,5 @@
 
 + [在本地windows中利用wsl2部署docker应用](https://blog.csdn.net/m0_62177801/article/details/140082679)
 
++ [docker-mysql主从复制](https://blog.csdn.net/weixin_46466657/article/details/140064721)
+

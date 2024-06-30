@@ -175,3 +175,5 @@
 
 + [Netflix同性爱情日剧《灵魂伴侣》曝光首张剧照](https://www.3dmgame.com/news/202406/3898546.html)
 
++ [欧盟加大对AI巨头审查 OpenAI、微软与谷歌在列](https://www.3dmgame.com/news/202406/3898549.html)
+
