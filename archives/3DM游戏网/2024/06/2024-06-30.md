@@ -123,3 +123,9 @@
 
 + [《守望先锋》高级角色美术Ying Liu离开暴雪](https://www.3dmgame.com/news/202406/3898516.html)
 
++ [《DEATHWATCHERS》7月13日Steam抢测 合作恐怖探索](https://www.3dmgame.com/news/202406/3898524.html)
+
++ [2024年暑期档票房已经破20亿 这些电影你看了几部？](https://www.3dmgame.com/news/202406/3898525.html)
+
++ [Konami回应《合金装备3：重制版》差评：将认真对待](https://www.3dmgame.com/news/202406/3898523.html)
+

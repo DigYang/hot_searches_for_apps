@@ -73,3 +73,7 @@
 
 + [【鹿短短】重生之我在公园唱《稻香》](http://www.acfun.cn/v/ac44942004)
 
++ [每天一遍，功德再见。](http://www.acfun.cn/v/ac44938955)
+
++ [此刻Memories 绝美紫阳花～](http://www.acfun.cn/v/ac44939343)
+
