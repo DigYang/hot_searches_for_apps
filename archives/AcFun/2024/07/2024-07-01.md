@@ -85,3 +85,9 @@
 
 + [【东方】ヒトリシズカ FullMV【幽閉サテライト】](http://www.acfun.cn/v/ac44939073)
 
++ [初看还是斜刘海，再看已是地中海！★手机竖屏1198★](http://www.acfun.cn/v/ac44946476)
+
++ [【HJM每周秀】VS【HXD每周秀】vol.2](http://www.acfun.cn/v/ac44947747)
+
++ [【叁叁】小小鹿（一起去看天上的流星~）](http://www.acfun.cn/v/ac44947653)
+
