@@ -89,3 +89,7 @@
 
 + [Strawberry mood](https://dribbble.com/shots/)
 
++ [Quell Wordmark Logo Concepts](https://dribbble.com/shots/)
+
++ [Ghost Crystal Ball](https://dribbble.com/shots/)
+
