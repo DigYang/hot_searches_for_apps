@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | 个别网民正为间谍卫星“指路”；全球警方抓捕近4000网诈犯](https://www.freebuf.com/news/404890.html)
 
++ [OpenSSH漏洞预警：无需用户交互，可提权至 root](https://www.freebuf.com/news/404977.html)
+
++ [澳大利亚男子炮制虚假航空公司WIFI骗取乘客账户凭证](https://www.freebuf.com/news/404964.html)
+
