@@ -101,3 +101,11 @@
 
 + [计算机网络概述--自我学习用](https://blog.csdn.net/longer_net/article/details/140129620)
 
++ [人工智能--目标检测](https://blog.csdn.net/2302_76516899/article/details/140111951)
+
++ [【MySQL】数据库——主从复制和读写分离](https://blog.csdn.net/2401_83330816/article/details/139989597)
+
++ [Qt/C++编写地图应用/离线地图下载/路径规划/轨迹回放/海量点/坐标转换](https://blog.csdn.net/feiyangqingyun/article/details/140142134)
+
++ [课程设计——基于FPGA的双向移位寄存器](https://blog.csdn.net/BROKEN__Y/article/details/140110977)
+
