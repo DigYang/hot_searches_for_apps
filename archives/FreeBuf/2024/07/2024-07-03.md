@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | OpenSSH 遭遇新威胁；日本动漫游戏巨头 Kadokawa 承认数据泄露](https://www.freebuf.com/news/404997.html)
 
++ [攻防演练 | 如何做好一名优秀的蓝队（外网篇）](https://www.freebuf.com/articles/web/404494.html)
+
