@@ -211,3 +211,11 @@
 
 + [sofi menu illustrations and elements](https://dribbble.com/shots/)
 
++ [Code Yeti - logo design](https://dribbble.com/shots/)
+
++ [Finance Mobile App Component](https://dribbble.com/shots/)
+
++ [Articles Mobile App](https://dribbble.com/shots/)
+
++ [Millennium Falcon badge](https://dribbble.com/shots/)
+
