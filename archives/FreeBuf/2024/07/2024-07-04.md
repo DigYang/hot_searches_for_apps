@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | Xbox 在全球范围内关闭；国家漏洞库CNNVD通报OpenSSH漏洞](https://www.freebuf.com/news/405054.html)
 
++ [已发布补丁！微软披露 Rockwell PanelView Plus 两大漏洞](https://www.freebuf.com/news/405173.html)
+
++ [国际行动关闭了 593 台恶意 Cobalt Strike 服务器](https://www.freebuf.com/news/405155.html)
+
