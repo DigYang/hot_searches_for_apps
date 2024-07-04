@@ -109,3 +109,21 @@
 
 + [课程设计——基于FPGA的双向移位寄存器](https://blog.csdn.net/BROKEN__Y/article/details/140110977)
 
++ [AI音乐革命：创新的门槛降低与产业未来的挑战](https://blog.csdn.net/u014727709/article/details/140092594)
+
++ [【系统架构设计师】计算机组成与体系结构 ⑥ ( 磁盘管理 | 磁盘基本结构 | “ 磁盘 “ 的 立体结构 | “ 盘面 “ 的 结构 | 磁盘运行机制 | “ 磁头 “ 的 读取机制 )](https://blog.csdn.net/han1202012/article/details/140127802)
+
++ [Flink实战 - 搭建HA高可用集群](https://blog.csdn.net/weixin_43145550/article/details/140139013)
+
++ [iOS 视图实现渐变色背景](https://blog.csdn.net/hzgisme/article/details/139044290)
+
++ [从人工到自动化到AIOps再到ChatOps：大模型在运维领域的应用](https://blog.csdn.net/jdcdev_/article/details/140105517)
+
++ [Python中的爬虫实战：猫眼电影爬虫](https://blog.csdn.net/tbprice/article/details/140100123)
+
++ [docker liunx的底层逻辑是什么，docker 的原理是什么？怎么部署及应用，Docker的来龙去脉](https://blog.csdn.net/zhang9880000/article/details/140138724)
+
++ [5G(NR) NTN 卫星组网架构](https://blog.csdn.net/baidu_41616132/article/details/140121714)
+
++ [Monorepo（单体仓库）与 MultiRepo（多仓库）: Monorepo 单体仓库开发策略与实践指南](https://blog.csdn.net/m0_52827996/article/details/140148043)
+
