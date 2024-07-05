@@ -173,3 +173,5 @@
 
 + [IoT App Mobile IOS Design Concept](https://dribbble.com/shots/)
 
++ [HHC Living Brand Pattern](https://dribbble.com/shots/)
+
