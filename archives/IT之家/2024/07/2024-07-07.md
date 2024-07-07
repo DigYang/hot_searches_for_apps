@@ -35,3 +35,5 @@
 
 + [腾讯《王者荣耀》10v10 模式即将上线，新排位机制将与局内表现更挂钩](https://m.ithome.com/html/780102.htm)
 
++ [支持音视频通话与移动端互相转接，腾讯 QQ 更新 Windows 9.9.12、macOS 6.9.39、Linux 3.2.10 版本](https://m.ithome.com/html/780134.htm)
+
