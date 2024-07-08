@@ -125,3 +125,11 @@
 
 + [文件管理下：文件函数的学习](https://blog.csdn.net/2302_79964175/article/details/140243124)
 
++ [图像处理调试软件推荐](https://blog.csdn.net/bjcyck/article/details/140226395)
+
++ [【研究】债务周期看地产，大拐点来了吗？](https://blog.csdn.net/Gabriel100yi/article/details/140250859)
+
++ [Kafka第四篇——生产数据总体概括，源码解析分区策略，数据收集器，Sender发送线程，key值](https://blog.csdn.net/m0_74106420/article/details/139889232)
+
++ [迎接AI新时代：GPT-5即将登场的巨大变革与应用前瞻](https://blog.csdn.net/2202_76097976/article/details/140231265)
+
