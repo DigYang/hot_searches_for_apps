@@ -133,3 +133,5 @@
 
 + [迎接AI新时代：GPT-5即将登场的巨大变革与应用前瞻](https://blog.csdn.net/2202_76097976/article/details/140231265)
 
++ [【Elasticsearch】Elasticsearch倒排索引详解](https://blog.csdn.net/a1657054242/article/details/140257261)
+
