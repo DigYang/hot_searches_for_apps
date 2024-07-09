@@ -65,3 +65,51 @@
 
 + [Frannie's Coconut Kefir](https://dribbble.com/shots/)
 
++ [Logos created using AI ????](https://dribbble.com/shots/)
+
++ [Solokey Logo and App Icon Design](https://dribbble.com/shots/)
+
++ [Dinosaur + Tooth Logo](https://dribbble.com/shots/)
+
++ [Play Button and Toggle Switch Logo Concept](https://dribbble.com/shots/)
+
++ [Enode – Mobile screens](https://dribbble.com/shots/)
+
++ [Stay Mystic](https://dribbble.com/shots/)
+
++ [ITS](https://dribbble.com/shots/)
+
++ [AI Motion Animation](https://dribbble.com/shots/)
+
++ [Alien on vacation illustration](https://dribbble.com/shots/)
+
++ [Z2A Digital - Social Media](https://dribbble.com/shots/)
+
++ [NOOB energy 3D stylized loop animation](https://dribbble.com/shots/)
+
++ [Untitled UI v5.0](https://dribbble.com/shots/)
+
++ [Dennis](https://dribbble.com/shots/)
+
++ [Email Marketing Mobile App](https://dribbble.com/shots/)
+
++ [Galaxea - NFT Web3 Landing Page](https://dribbble.com/shots/)
+
++ [21/32 – Minnesota Chippers](https://dribbble.com/shots/)
+
++ [Dive - Crypto Wallet App](https://dribbble.com/shots/)
+
++ [FFTC Brand Identity](https://dribbble.com/shots/)
+
++ [Toubabo](https://dribbble.com/shots/)
+
++ [Passport - Web3 Loyalty App](https://dribbble.com/shots/)
+
++ [F&O Trading - Mobile App FinTech](https://dribbble.com/shots/)
+
++ [Harmony app design](https://dribbble.com/shots/)
+
++ [Glide - AI Meeting Dashboard](https://dribbble.com/shots/)
+
++ [Branding for Travel Platform](https://dribbble.com/shots/)
+
