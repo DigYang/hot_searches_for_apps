@@ -163,3 +163,5 @@
 
 + [Hiive50](https://www.producthunt.com/posts/hiive50)
 
++ [Audioscribe • AI-powered Record-to-Text](https://www.producthunt.com/posts/audioscribe-ai-powered-record-to-text)
+
