@@ -49,3 +49,5 @@
 
 + [FreeBuf早报 | 英国发布工控网络事件响应实践指南；哥伦比亚政府机构海量数据遭泄露](https://www.freebuf.com/news/405527.html)
 
++ [微软或将为子公司违规行为支付85亿美元罚款](https://www.freebuf.com/news/405594.html)
+
