@@ -43,3 +43,9 @@
 
 + [滥用云服务进行传播的恶意软件越来越多](https://www.freebuf.com/articles/network/405112.html)
 
++ [企业安全 | 云网边端一体化安全建设规划](https://www.freebuf.com/articles/403836.html)
+
++ [Atomic Red Team 模拟 Akira 勒索软件攻击](https://www.freebuf.com/articles/system/405375.html)
+
++ [FreeBuf早报 | 英国发布工控网络事件响应实践指南；哥伦比亚政府机构海量数据遭泄露](https://www.freebuf.com/news/405527.html)
+
