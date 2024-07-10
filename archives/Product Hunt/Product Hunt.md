@@ -165,3 +165,7 @@
 
 + [Audioscribe • AI-powered Record-to-Text](https://www.producthunt.com/posts/audioscribe-ai-powered-record-to-text)
 
++ [FranzAI](https://www.producthunt.com/posts/franzai)
+
++ [Raijin.ai](https://www.producthunt.com/posts/raijin-ai)
+
