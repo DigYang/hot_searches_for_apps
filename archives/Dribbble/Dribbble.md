@@ -181,3 +181,29 @@
 
 + [love is love](https://dribbble.com/shots/)
 
++ [Glossy Play App Icon](https://dribbble.com/shots/)
+
++ [Enode – Tablet screens](https://dribbble.com/shots/)
+
++ [Web Design](https://dribbble.com/shots/)
+
++ [Guardia home insurance logo design: umbrella + house](https://dribbble.com/shots/)
+
++ [Gepchat. Landing page.](https://dribbble.com/shots/)
+
++ [Litaliva](https://dribbble.com/shots/)
+
++ [Office & teamwork illustration pack ????????‍????](https://dribbble.com/shots/)
+
++ [TaiNet - Liquid Staking Token](https://dribbble.com/shots/)
+
++ [Flexify– Dashboard Widgets for a Project Management Platform](https://dribbble.com/shots/)
+
++ [Algo - CRM Hero Design](https://dribbble.com/shots/)
+
++ [Banking Website: animation](https://dribbble.com/shots/)
+
++ [Billbreeze website](https://dribbble.com/shots/)
+
++ [Food Tracker Concept App](https://dribbble.com/shots/)
+
