@@ -59,3 +59,5 @@
 
 + [三星 Galaxy Ring 智能戒指发布：提供强大健康监测功能，售价 3099 元](https://m.ithome.com/html/780949.htm)
 
++ [小米“暑促季”活动公布：覆盖手机、平板等产品，至高优惠 900 元，智能眼镜到手 499 元起](https://m.ithome.com/html/781077.htm)
+
