@@ -65,3 +65,7 @@
 
 + [深中通道暂时关闭海底隧道投光灯：部分驾驶员特意降低车速缓行观看和拍照](https://m.ithome.com/html/781156.htm)
 
++ [限量 2500 辆 / 13.98 万元起，一汽-大众 ID.4 CROZZ《神偷奶爸 4》联名萌趣版发布](https://m.ithome.com/html/780967.htm)
+
++ [Momenta 创始人曹旭东：中国范围内，端到端高阶智驾第一梯队和最在意的对手是华为](https://m.ithome.com/html/780956.htm)
+
