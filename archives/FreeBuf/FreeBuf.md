@@ -51,3 +51,5 @@
 
 + [替代传统物理密钥，谷歌高级保护计划迎来重大更新！](https://www.freebuf.com/news/405698.html)
 
++ [记一次Chatgpt挖掘任意用户登录漏洞](https://www.freebuf.com/articles/web/404896.html)
+

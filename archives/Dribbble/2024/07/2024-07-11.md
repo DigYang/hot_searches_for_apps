@@ -159,3 +159,11 @@
 
 + [Dauernd - Creative Design Agency Responsive Page Website](https://dribbble.com/shots/)
 
++ [Paradise Brew Werks Branding](https://dribbble.com/shots/)
+
++ [Crowded subway car](https://dribbble.com/shots/)
+
++ [New York poster](https://dribbble.com/shots/)
+
++ [Robot Parade](https://dribbble.com/shots/)
+
