@@ -83,3 +83,17 @@
 
 + [想吃干锅虾不用去饭店，大厨教你在家做，香辣过瘾，味道不输饭店](http://www.acfun.cn/v/ac45219944)
 
++ [卸甲，我让你卸甲！★手机竖屏1209★](http://www.acfun.cn/v/ac45225540)
+
++ [这首是来自金木先生点播的歌曲，“利世小姐，我从来没有恨过你”《Unravel》](http://www.acfun.cn/v/ac45260056)
+
++ [为了翻唱Starfall，我被迫cos了琪亚娜](http://www.acfun.cn/v/ac45259905)
+
++ [【从铮】暗礁（Cover 李雨）](http://www.acfun.cn/v/ac45245642)
+
++ [小猪跳水](http://www.acfun.cn/v/ac45259854)
+
++ [好家伙，用歌曲写科幻小说？——资博《避难所的愉快聚餐》Official MV](http://www.acfun.cn/v/ac45216306)
+
++ [傲慢 abracadabra](http://www.acfun.cn/v/ac44995048)
+
