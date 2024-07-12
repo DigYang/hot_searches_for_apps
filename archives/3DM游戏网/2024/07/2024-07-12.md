@@ -163,3 +163,21 @@
 
 + [《勇者斗恶龙3 HD-2D 重制版》主角关键艺术图分享](https://www.3dmgame.com/news/202407/3899413.html)
 
++ [《双截龙再临》全新预告和截图 画面精美人物细致！](https://www.3dmgame.com/news/202407/3899419.html)
+
++ [Splash Damage工作室发生裁员 正在开发《变形金刚》新作](https://www.3dmgame.com/news/202407/3899422.html)
+
++ [前《博德之门3》编剧谈“人熊战”创意：原本只是一句玩笑话](https://www.3dmgame.com/news/202407/3899420.html)
+
++ [经典恐怖电影《闪灵》女主角谢莉·杜瓦尔去世 享年75岁](https://www.3dmgame.com/news/202407/3899421.html)
+
++ [冰汽时代2《执政官101》第1集 9月20日发售](https://www.3dmgame.com/news/202407/3899423.html)
+
++ [《真人快打1》7月27日公布第二年更新内容 或联动终结者](https://www.3dmgame.com/news/202407/3899424.html)
+
++ [《星鸣特攻》BETA抢先体验将面向所有PS+会员开放](https://www.3dmgame.com/news/202407/3899416.html)
+
++ [传微软将在部分地区停止宣传Xbox主机 转向Game Pass](https://www.3dmgame.com/news/202407/3899417.html)
+
++ [《勇者斗恶龙3 HD-2D 重制版》新演示 游戏性满满](https://www.3dmgame.com/news/202407/3899418.html)
+
