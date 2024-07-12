@@ -129,3 +129,9 @@
 
 + [Laughlin Leather Co. Secondary Logo](https://dribbble.com/shots/)
 
++ [Sports](https://dribbble.com/shots/)
+
++ [The Beetle Backs - Metamorphosis](https://dribbble.com/shots/)
+
++ [Finance - Wall Street Journal](https://dribbble.com/shots/)
+
