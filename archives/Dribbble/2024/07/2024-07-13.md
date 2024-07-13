@@ -135,3 +135,15 @@
 
 + [Finance - Wall Street Journal](https://dribbble.com/shots/)
 
++ [Son of man](https://dribbble.com/shots/)
+
++ [Jmaclennan logo](https://dribbble.com/shots/)
+
++ [Product Design for Analytics SaaS](https://dribbble.com/shots/)
+
++ [corner](https://dribbble.com/shots/)
+
++ [Turbines](https://dribbble.com/shots/)
+
++ [Telematics Company SaaS Dashboard](https://dribbble.com/shots/)
+
