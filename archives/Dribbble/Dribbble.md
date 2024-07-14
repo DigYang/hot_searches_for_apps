@@ -191,3 +191,13 @@
 
 + [Course layouts](https://dribbble.com/shots/)
 
++ [DropForth logo branding](https://dribbble.com/shots/)
+
++ [Website for Insurance Company](https://dribbble.com/shots/)
+
++ [Creative Juice - AI Blogger Finance SaaS](https://dribbble.com/shots/)
+
++ [Solid Icons - Lookscout Design System](https://dribbble.com/shots/)
+
++ [Letter f + Run logo, Gym, Fitness, Sports Modern logo design](https://dribbble.com/shots/)
+
