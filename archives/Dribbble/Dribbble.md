@@ -131,3 +131,15 @@
 
 + [Coffee Branding / Drop Co](https://dribbble.com/shots/)
 
++ [Alien on vacation illustration](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Branding](https://dribbble.com/shots/)
+
++ [Paradise Brew Werks Branding](https://dribbble.com/shots/)
+
++ [safepark: hardware wallet, web3, crypto, app, dashboard](https://dribbble.com/shots/)
+
++ [Glyph Beer 50](https://dribbble.com/shots/)
+
++ [You cant win if you dont play!](https://dribbble.com/shots/)
+
