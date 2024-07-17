@@ -31,3 +31,7 @@
 
 + [双向卫星通信、龙骨转轴 2.0，小米 MIX Fold 4 折叠屏手机官宣，7 月 19 日发布](https://m.ithome.com/html/782053.htm)
 
++ [48 元半价清仓：紫米 10000mAh MINI 移动电源京东新低](https://m.ithome.com/html/782246.htm)
+
++ [取代 A4 / S4，全新奥迪 A5 / S5 系列车型发布：外观更运动，提供轻混系统](https://m.ithome.com/html/782230.htm)
+

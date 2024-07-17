@@ -151,3 +151,21 @@
 
 + [Ah-Ha](https://dribbble.com/shots/)
 
++ [Bevel Glass](https://dribbble.com/shots/)
+
++ [???? API keys](https://dribbble.com/shots/)
+
++ [Windows](https://dribbble.com/shots/)
+
++ [Spotify | All Ears on you 2](https://dribbble.com/shots/)
+
++ [Minimal sidebar navigation — Untitled UI](https://dribbble.com/shots/)
+
++ [Branding for  for supplements 1](https://dribbble.com/shots/)
+
++ [Mining Dashboard UI Elements](https://dribbble.com/shots/)
+
++ [Chocolate Branding & Packaging Design](https://dribbble.com/shots/)
+
++ [Mobile Website Design for Arist](https://dribbble.com/shots/)
+
