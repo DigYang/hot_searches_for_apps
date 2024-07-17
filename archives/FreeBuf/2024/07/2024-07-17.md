@@ -51,3 +51,5 @@
 
 + [FreeBuf早报 | AT&T被曝支付赎金以防被盗数据泄露；卡巴斯基关闭美国分部](https://www.freebuf.com/news/406139.html)
 
++ [1.1亿用户数据被窃后，AT&T向黑客支付了37万美元赎金](https://www.freebuf.com/news/406198.html)
+
