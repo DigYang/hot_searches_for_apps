@@ -111,3 +111,7 @@
 
 + [TalkTastic for macOS](https://www.producthunt.com/posts/talktastic-for-macos)
 
++ [Moonshine](https://www.producthunt.com/posts/moonshine)
+
++ [Jobright AI](https://www.producthunt.com/posts/jobright-ai-2)
+
