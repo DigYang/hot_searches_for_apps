@@ -25,3 +25,9 @@
 
 + [小米手环 9 独家合作支持 Switch《舞力全开》体感游戏](https://m.ithome.com/html/782318.htm)
 
++ [【IT之家众测】联想小新 Pad Pro 12.7 英寸（第二代）众测：限量 10 台](https://m.ithome.com/html/782343.htm)
+
++ [字节跳动败诉，欧盟法院裁定其为“看门人”](https://m.ithome.com/html/782435.htm)
+
++ [退出价格战，消息称大众丰田本田沃尔沃 7 月起降低优惠力度](https://m.ithome.com/html/782495.htm)
+
