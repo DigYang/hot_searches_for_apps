@@ -187,3 +187,23 @@
 
 + [Zendenta - Product Stock Received for SaaS Dental Clinic](https://dribbble.com/shots/)
 
++ [Skills up app responsive](https://dribbble.com/shots/)
+
++ [3D Illustrations For Somnia](https://dribbble.com/shots/)
+
++ [Solufacil](https://dribbble.com/shots/)
+
++ [DeFi project - 3d illustrations](https://dribbble.com/shots/)
+
++ [Core Dashboard Builder](https://dribbble.com/shots/)
+
++ [Cheetah Logo](https://dribbble.com/shots/)
+
++ [Web3Pulse - Website design of the crypto accounting platform](https://dribbble.com/shots/)
+
++ [Fishing App: animation](https://dribbble.com/shots/)
+
++ [Letter E](https://dribbble.com/shots/)
+
++ [On te road](https://dribbble.com/shots/)
+
