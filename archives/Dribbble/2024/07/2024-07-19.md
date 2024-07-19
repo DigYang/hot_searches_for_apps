@@ -161,3 +161,13 @@
 
 + [corner](https://dribbble.com/shots/)
 
++ [Agile - Task Management Dashboard](https://dribbble.com/shots/)
+
++ [Zendenta - Adding New Peripherals for a SaaS Dental Clinic](https://dribbble.com/shots/)
+
++ [Riddance - Packaging Design](https://dribbble.com/shots/)
+
++ [Dinamix Visual Identity](https://dribbble.com/shots/)
+
++ [Workedin: Job Board Mobile App - Submit Application ????](https://dribbble.com/shots/)
+
