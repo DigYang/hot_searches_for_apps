@@ -181,3 +181,23 @@
 
 + [Doggy](https://dribbble.com/shots/)
 
++ [Secured finance - design concept](https://dribbble.com/shots/)
+
++ [CLOTHES_X® - AI, AE & DICH™, Concept vol.1.5 •”24](https://dribbble.com/shots/)
+
++ [Case Study: Arist Website Design](https://dribbble.com/shots/)
+
++ [Property Management Dashboard](https://dribbble.com/shots/)
+
++ [Anteon - Logo Design](https://dribbble.com/shots/)
+
++ [ABETKA](https://dribbble.com/shots/)
+
++ [NOOB energy 3D stylized loop animation 2](https://dribbble.com/shots/)
+
++ [slothUI - World's Laziest Design System - Popup Onboarding UIUX](https://dribbble.com/shots/)
+
++ [Ballenger Bridge - Wedding website [live version]](https://dribbble.com/shots/)
+
++ [Meta Pastry logo design](https://dribbble.com/shots/)
+
