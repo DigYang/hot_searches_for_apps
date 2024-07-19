@@ -157,3 +157,7 @@
 
 + [Tarot card #19 - The Sun - Daily Vector Art](https://dribbble.com/shots/)
 
++ [safepark: hardware wallet, web3, crypto, app, dashboard](https://dribbble.com/shots/)
+
++ [corner](https://dribbble.com/shots/)
+
