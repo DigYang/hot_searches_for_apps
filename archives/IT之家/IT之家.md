@@ -55,3 +55,5 @@
 
 + [网易 Filmly 播放器上线 WebDAV 功能，可灵活添加更多平台](https://m.ithome.com/html/783204.htm)
 
++ [（更新：国区外可领）苹果 App Store 游戏喜加一：原价 6.99 美元 iOS / iPadOS 塔防游戏《王国保卫战》免费领](https://m.ithome.com/html/783237.htm)
+
