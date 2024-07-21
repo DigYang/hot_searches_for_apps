@@ -125,3 +125,11 @@
 
 + [《SNK VS. CAPCOM SVC CHAOS》推出](https://www.3dmgame.com/news/202407/3900025.html)
 
++ [凯文·里安将成为《饿狼传说：狼之城》参战角色](https://www.3dmgame.com/news/202407/3900037.html)
+
++ [《Roots of Yggdrasil》9月登陆Steam 卡牌建设探索](https://www.3dmgame.com/news/202407/3900036.html)
+
++ [《华纳大乱斗》第二赛季：武士杰克和阴间大法师加入](https://www.3dmgame.com/news/202407/3900035.html)
+
++ [《Shadow of Pharos》PC免费发布 沉浸式恐怖探索](https://www.3dmgame.com/news/202407/3900034.html)
+
