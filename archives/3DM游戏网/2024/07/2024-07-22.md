@@ -117,3 +117,13 @@
 
 + [电竞世界杯《DOTA2》项目 GG 3：0 Liquid夺冠](https://www.3dmgame.com/news/202407/3900071.html)
 
++ [《牧场奇谭》免费登陆Steam 视觉恐怖新游](https://www.3dmgame.com/news/202407/3900075.html)
+
++ [《铁拳8》新DLC角色公布 “三岛平八”再次复活](https://www.3dmgame.com/news/202407/3900076.html)
+
++ [《双城之战2》曝黑默丁格全新片段 11月播出](https://www.3dmgame.com/news/202407/3900072.html)
+
++ [《星球大战：亡命之徒》拥有育碧有史以来最高营销预算](https://www.3dmgame.com/news/202407/3900073.html)
+
++ [华纳兄弟新版《龙卷风》破记录 北美首周末8050万美元空降冠军](https://www.3dmgame.com/news/202407/3900074.html)
+
