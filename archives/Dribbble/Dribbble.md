@@ -208,3 +208,13 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Gamma - Task Management Website](https://dribbble.com/shots/)
 
++ [F&O Trading - Trinkerr - FinTech](https://dribbble.com/shots/)
+
++ [The National - London, UK Poster](https://dribbble.com/shots/)
+
++ [Radio](https://dribbble.com/shots/)
+
++ [Burger + French fries illustration](https://dribbble.com/shots/)
+
++ [Puma Golf Fair Isle Pattern](https://dribbble.com/shots/)
+
