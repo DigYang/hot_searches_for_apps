@@ -113,3 +113,7 @@
 
 + [SNK正在开发《龙虎之拳》新作和ARPG《侍魂》](https://www.3dmgame.com/news/202407/3900066.html)
 
++ [《星刃》实体版在日本售出超11万份 大家都爱油腻师姐](https://www.3dmgame.com/news/202407/3900070.html)
+
++ [电竞世界杯《DOTA2》项目 GG 3：0 Liquid夺冠](https://www.3dmgame.com/news/202407/3900071.html)
+
