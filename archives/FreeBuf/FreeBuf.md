@@ -63,3 +63,5 @@
 
 + [漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新](https://www.freebuf.com/vuls/380521.html)
 
++ [倒计时2天 | 红蓝军攻防与数据安全论坛 · 北京站](https://www.freebuf.com/fevents/406771.html)
+
