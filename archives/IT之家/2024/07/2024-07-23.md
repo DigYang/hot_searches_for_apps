@@ -41,3 +41,5 @@
 
 + [苹果明年手机规格曝光：iPhone SE 4 首配 OLED 屏幕、iPhone 17 Pro / Max 首配 12GB 内存 + 4800 万像素三摄](https://m.ithome.com/html/783567.htm)
 
++ [番茄小说被曝要求网文作者同意将作品用于训练 AI，引发作者联合抵制](https://m.ithome.com/html/783561.htm)
+
