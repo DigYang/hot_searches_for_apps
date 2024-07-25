@@ -164,3 +164,7 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Stickers for DreamVault](https://dribbble.com/shots/)
 
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
