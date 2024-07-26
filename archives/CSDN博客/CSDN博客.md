@@ -127,3 +127,7 @@
 
 + [Docker 安全及日志管理(包含SSL证书)](https://blog.csdn.net/weixin_62922268/article/details/140690167)
 
++ [Mybatis实现多表查询](https://blog.csdn.net/m0_74212034/article/details/140698610)
+
++ [记录linux本地部署Langchain-chatchat-v0.3+Xinference+qwen-chat 1.5-72B](https://blog.csdn.net/qq_39067449/article/details/140689425)
+
