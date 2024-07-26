@@ -107,3 +107,21 @@
 
 + [微信小程序实现聊天界面，发送功能](https://blog.csdn.net/weixin_44912902/article/details/140653704)
 
++ [数据开发/数仓工程师上手指南(一)数仓概念总览](https://blog.csdn.net/master_hunter/article/details/140659421)
+
++ [基于微信小程序+SpringBoot+Vue的校园综合服务平台设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/140678847)
+
++ [SpringBoot中优化if-else语句的七种方法实战](https://blog.csdn.net/qq_26664043/article/details/140575069)
+
++ [【在Linux世界中追寻伟大的One Piece】Linux进程概念](https://blog.csdn.net/weixin_74809706/article/details/140672742)
+
++ [Redis的使用场景——热点数据缓存](https://blog.csdn.net/qq_59099003/article/details/140700120)
+
++ [SSL VPN详细概述](https://blog.csdn.net/qq_67758645/article/details/140681811)
+
++ [【CI/CD】docker + Nginx自动化构建部署](https://blog.csdn.net/weixin_52418790/article/details/140663373)
+
++ [【yolov8】|小目标优化|：增加CA机制 运行成功](https://blog.csdn.net/zw_van/article/details/140622230)
+
++ [vue大屏展示组件库datav](https://blog.csdn.net/m0_46613429/article/details/140654564)
+
