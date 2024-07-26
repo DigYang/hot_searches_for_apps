@@ -131,3 +131,5 @@
 
 + [记录linux本地部署Langchain-chatchat-v0.3+Xinference+qwen-chat 1.5-72B](https://blog.csdn.net/qq_39067449/article/details/140689425)
 
++ [.NET Core中如何集成RabbitMQ](https://blog.csdn.net/nndsb/article/details/140680688)
+
