@@ -180,3 +180,13 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Social UI](https://dribbble.com/shots/)
 
++ [Nexacard - Digital Bank Card Company Landing Page Website](https://dribbble.com/shots/)
+
++ [Foxchain: Cryptocurrency Exchange Mobile App - Homepage ????](https://dribbble.com/shots/)
+
++ [Zendenta - Splash and Home Screens in the Patient Mobile App](https://dribbble.com/shots/)
+
++ [Travel in France](https://dribbble.com/shots/)
+
++ [Pricing — Untitled UI](https://dribbble.com/shots/)
+
