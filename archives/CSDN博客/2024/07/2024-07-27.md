@@ -181,3 +181,7 @@
 
 + [【前端】一文带你了解 HTML](https://blog.csdn.net/m0_61814277/article/details/140506121)
 
++ [从训练和推理阶段理解transformers、self-attention的本质是改变输入文本对应tokens的embedding及Mask机制](https://blog.csdn.net/u014439531/article/details/140701747)
+
++ [Postman中的API容错测试：构建健壮系统的秘诀](https://blog.csdn.net/2401_85342379/article/details/140700154)
+
