@@ -184,3 +184,9 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Analytics landing page — Untitled UI](https://dribbble.com/shots/)
 
++ [b infinity, crypto, brand identity, logo design](https://dribbble.com/shots/)
+
++ [Branding & Packaging Design for Planty](https://dribbble.com/shots/)
+
++ [Stardog logo](https://dribbble.com/shots/)
+
