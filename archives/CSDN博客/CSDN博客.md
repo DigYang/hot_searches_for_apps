@@ -157,3 +157,9 @@
 
 + [C#/WinFrom TCP通信+ 网线插拔检测+客服端异常掉线检测](https://blog.csdn.net/weixin_42714281/article/details/140670758)
 
++ [基于Python的河南省天气数据分析与空气质量预测研究【含数据抓取与数据库自动存储】](https://blog.csdn.net/weixin_47723732/article/details/140692754)
+
++ [lua 游戏架构 之 游戏 AI （七）ai_dead](https://blog.csdn.net/heyuchang666/article/details/140678800)
+
++ [基于微信小程序+SpringBoot+Vue的美食推荐平台(带1w+文档)](https://blog.csdn.net/qq_21888965/article/details/140690164)
+
