@@ -168,3 +168,19 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Lost Fox Inn Secondary Logo](https://dribbble.com/shots/)
 
++ [Yakoda Ripple Wordmark (Animation)](https://dribbble.com/shots/)
+
++ [Breakfast friends](https://dribbble.com/shots/)
+
++ [Crypto screen](https://dribbble.com/shots/)
+
++ [Hire your next designer on Dribbble](https://dribbble.com/shots/)
+
++ [Twelve South Pins](https://dribbble.com/shots/)
+
++ [Sales Admin Mobile App](https://dribbble.com/shots/)
+
++ [prep](https://dribbble.com/shots/)
+
++ [Analytics landing page — Untitled UI](https://dribbble.com/shots/)
+
