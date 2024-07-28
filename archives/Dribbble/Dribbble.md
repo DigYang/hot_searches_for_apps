@@ -192,3 +192,15 @@ Artistic Window](https://dribbble.com/shots/)
 
 + [Zenity instagram post design](https://dribbble.com/shots/)
 
++ [Onboarding Visual UI](https://dribbble.com/shots/)
+
++ [NFT logos](https://dribbble.com/shots/)
+
++ [Meditation App Case Study](https://dribbble.com/shots/)
+
++ [Protectgurad logo](https://dribbble.com/shots/)
+
++ [Ai Skincare website design landing page](https://dribbble.com/shots/)
+
++ [Semex - Logo & Logo Design](https://dribbble.com/shots/)
+
