@@ -33,3 +33,5 @@
 
 + [支持 AI 扩图，华为 Pura 70 Pro 手机获推鸿蒙 HarmonyOS 4.2.0.172 更新](https://m.ithome.com/html/784655.htm)
 
++ [暴雪《炉石传说》国服回归消息确认 7 月 28 日 11 时公布](https://m.ithome.com/html/784662.htm)
+
