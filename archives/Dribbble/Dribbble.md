@@ -49,3 +49,27 @@
 
 + [Lost Fox Inn Secondary Logo](https://dribbble.com/shots/)
 
++ ["The Lute Player" - Homage art](https://dribbble.com/shots/)
+
++ [Logo design ideas for a dress house fashion](https://dribbble.com/shots/)
+
++ [Illustration for Outside Voices](https://dribbble.com/shots/)
+
++ [The Tamed Tiger Label Illustration](https://dribbble.com/shots/)
+
++ [The National - London, UK Poster](https://dribbble.com/shots/)
+
++ [????????????](https://dribbble.com/shots/)
+
++ [Color Lush 'Revisit' (2024)](https://dribbble.com/shots/)
+
++ [Grundens: Full Preview](https://dribbble.com/shots/)
+
++ [Illustrations for animation for J. Hardy](https://dribbble.com/shots/)
+
++ [Cool Story Bro](https://dribbble.com/shots/)
+
++ [St. John the Beloved Brand Application](https://dribbble.com/shots/)
+
++ [Dinosaur](https://dribbble.com/shots/)
+
