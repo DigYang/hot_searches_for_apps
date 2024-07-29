@@ -193,3 +193,7 @@
 
 + [Crossbar, fitness tracker logo design: C, arena, stopwatch timer](https://dribbble.com/shots/)
 
++ [MADE logotype - 3 ways](https://dribbble.com/shots/)
+
++ [*MM Vol.VI](https://dribbble.com/shots/)
+
