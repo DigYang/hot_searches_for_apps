@@ -135,3 +135,7 @@
 
 + [【人工智能】如何选择AI绘画工具？Midjourney VS Stable Diffusion](https://blog.csdn.net/2201_75539691/article/details/140701628)
 
++ [红杉资本视角：大公司在AI领域的投资策略与市场影响](https://blog.csdn.net/u012842807/article/details/140701224)
+
++ [鸿蒙开发—黑马云音乐之Music页面](https://blog.csdn.net/m0_74748236/article/details/140780723)
+
