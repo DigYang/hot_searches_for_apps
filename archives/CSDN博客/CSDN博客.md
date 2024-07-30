@@ -129,3 +129,7 @@
 
 + [Flink-CDC解析（第47天）](https://blog.csdn.net/syhiiu/article/details/140697517)
 
++ [【Python数值分析】革命：引领【数学建模】新时代的插值与拟合前沿技术](https://blog.csdn.net/2303_77720864/article/details/140766528)
+
++ [【C#】.net core 6.0 webapi 使用core版本的NPOI的Excel读取数据以及保存数据](https://blog.csdn.net/lmy_520/article/details/140771537)
+
