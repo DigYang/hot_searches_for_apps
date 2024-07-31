@@ -47,3 +47,5 @@
 
 + [FreeBuf早报 | 欧洲中央银行完成银行业网络压力测试；黎巴嫩卫生部数据泄露](https://www.freebuf.com/news/407363.html)
 
++ [打破纪录！某财富 50 强公司向勒索组织支付 7500 万美元赎金](https://www.freebuf.com/news/407383.html)
+
