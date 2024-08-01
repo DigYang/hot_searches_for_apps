@@ -161,3 +161,23 @@
 
 + [AKQA Perspectives](https://dribbble.com/shots/)
 
++ [Nexacard - Digital Bank Card Responsive Page Website](https://dribbble.com/shots/)
+
++ [ArchArt. - Architecture Agency Website](https://dribbble.com/shots/)
+
++ [Travel Companion Mobile App - Activity Type Search ????](https://dribbble.com/shots/)
+
++ [Bento Cards: SimpleList](https://dribbble.com/shots/)
+
++ [Beauty Store Mobile App](https://dribbble.com/shots/)
+
++ [Generista [Figma Plugin]](https://dribbble.com/shots/)
+
++ [Zendenta - Dental Clinic Search and Results in Patient App](https://dribbble.com/shots/)
+
++ [The Lab - Wordmark](https://dribbble.com/shots/)
+
++ [Nature Backs T-Shirt Illustration](https://dribbble.com/shots/)
+
++ [Boffi - Luxury Minimalist Modern Interior Design - Main Page](https://dribbble.com/shots/)
+
