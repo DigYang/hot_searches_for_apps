@@ -111,3 +111,17 @@
 
 + [《伊洛纳》续作《Elin》11月开启抢先体验](https://www.3dmgame.com/news/202408/3900805.html)
 
++ [国产恐怖游戏《无归》无法如期发售 因Steam审核缓慢](https://www.3dmgame.com/news/202408/3900812.html)
+
++ [编造AC影黑人武士故事的教授：育碧选弥助当主角不明智](https://www.3dmgame.com/news/202408/3900811.html)
+
++ [安西教练走错片场？动画《坂本日常》发布正式预告](https://www.3dmgame.com/news/202408/3900810.html)
+
++ [《时空幻境：周年纪念版》销量惨淡 制作人太伤心](https://www.3dmgame.com/news/202408/3900809.html)
+
++ [宝可梦GO Plus+公开概念视频皮卡丘陪玩陪睡](https://www.3dmgame.com/news/202408/3900808.html)
+
++ [Suda51暗示《杀手7》有望推出续作或重制版](https://www.3dmgame.com/news/202408/3900807.html)
+
++ [《女神异闻录5》官方设定集成为亚马逊销冠](https://www.3dmgame.com/news/202408/3900806.html)
+
