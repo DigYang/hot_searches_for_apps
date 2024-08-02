@@ -193,3 +193,21 @@
 
 + [Argggh!](https://dribbble.com/shots/)
 
++ [Platform for a Pharmaceutical Company Database](https://dribbble.com/shots/)
+
++ [Sales dashboard panel](https://dribbble.com/shots/)
+
++ [Folio - Crypto wallet for everything onchain](https://dribbble.com/shots/)
+
++ [Redesign Logo Plaid](https://dribbble.com/shots/)
+
++ [Zendenta - Dental Treatment Booking Flow in Patient Mobile App](https://dribbble.com/shots/)
+
++ [Slap logo](https://dribbble.com/shots/)
+
++ [VO or OV](https://dribbble.com/shots/)
+
++ [Bookstore Website](https://dribbble.com/shots/)
+
++ [Stock investment app](https://dribbble.com/shots/)
+
