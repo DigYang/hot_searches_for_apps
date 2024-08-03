@@ -53,3 +53,7 @@
 
 + [上汽大众 2024 款途观 X 上市：酷黑运动风格套件，售价 25.08 万元](https://m.ithome.com/html/785930.htm)
 
++ [购买充电宝认准“CCC”标识，移动电源新国标正式强制实施](https://m.ithome.com/html/786026.htm)
+
++ [Jeff Pu：明年四款苹果 iPhone 17 机型都将配备 2400 万像素前置摄像头](https://m.ithome.com/html/785954.htm)
+
