@@ -49,3 +49,5 @@
 
 + [FreeBuf 周报 | DigiCert 大规模撤销 TLS 证书；俄银行遭乌克兰大规模网络攻击](https://www.freebuf.com/news/407688.html)
 
++ [某个OA系统的代码审计](https://www.freebuf.com/defense/406809.html)
+
