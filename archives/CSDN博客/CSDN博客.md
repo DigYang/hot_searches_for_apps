@@ -139,3 +139,9 @@
 
 + [为什么需要合成数据进行机器学习](https://blog.csdn.net/gongdiwudu/article/details/140898619)
 
++ [第十九届全国大学生智能汽车竞赛 | 技术报告 - 清华鼠鼠](https://blog.csdn.net/zhuoqingjoking97298/article/details/140886143)
+
++ [5.6软件工程-运维](https://blog.csdn.net/weixin_39291021/article/details/140889492)
+
++ [计算机网络-http协议和https的加密原理](https://blog.csdn.net/weixin_48344647/article/details/140891474)
+
