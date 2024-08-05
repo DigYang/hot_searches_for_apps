@@ -199,3 +199,5 @@
 
 + [slothUI - World's Laziest Design System - Onboarding Flow UIUX](https://dribbble.com/shots/)
 
++ [New 1/2 size Badge](https://dribbble.com/shots/)
+
