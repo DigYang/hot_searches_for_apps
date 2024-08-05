@@ -37,3 +37,5 @@
 
 + [吉利公布 2024 款领克 01 八月购车政策：厂补最高 3 万元 + 国补 1.5 万元](https://m.ithome.com/html/786165.htm)
 
++ [苹果秋季新品曝光：2024 款 M4 芯片 MacBook Pro、Mac mini 和 iMac 将至](https://m.ithome.com/html/786189.htm)
+
