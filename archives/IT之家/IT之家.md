@@ -33,3 +33,5 @@
 
 + [国家安全部：“文件传输助手”“AI 写作小程序”可能有失泄密风险](https://m.ithome.com/html/786135.htm)
 
++ [小米汽车：主动安全 AEB 功能默认开启，手动关闭仅在当前上电周期生效](https://m.ithome.com/html/786181.htm)
+

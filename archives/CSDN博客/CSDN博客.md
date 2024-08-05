@@ -145,3 +145,15 @@
 
 + [用PyTorch 从零开始构建 BitNet 1.58bit](https://blog.csdn.net/m0_46510245/article/details/140911935)
 
++ [MySQL-分库分表](https://blog.csdn.net/m0_73902080/article/details/140902110)
+
++ [【微服务】Spring Cloud 服务网关之Zuul](https://blog.csdn.net/jinxinxin1314/article/details/140915064)
+
++ [【杂谈】-MQTT与HTTP在物联网中的比较：为什么MQTT是更好的选择](https://blog.csdn.net/wujuxKkoolerter/article/details/140910851)
+
++ [机器学习 第9章-聚类](https://blog.csdn.net/m0_62094120/article/details/140904399)
+
++ [软件设计之HTML5](https://blog.csdn.net/thm19990903/article/details/140888641)
+
++ [技术周总结 2024.07.29 ~ 08.04周日(MyBatis, 极限编程)](https://blog.csdn.net/xinkuaile/article/details/140841268)
+
