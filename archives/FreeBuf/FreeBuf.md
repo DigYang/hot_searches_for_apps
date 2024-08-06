@@ -47,3 +47,7 @@
 
 + [FreeBuf早报 | CrowdStrike拒为企业损失买单；黑客可用HDMI线捕获用户密码](https://www.freebuf.com/news/407828.html)
 
++ [Apache OFBiz 曝出严重漏洞，允许预身份验证 RCE](https://www.freebuf.com/news/407869.html)
+
++ [Gartner安全运营成熟度曲线：XDR、SOAR 泡沫破裂；EDR、SIEM 进入生产成熟期](https://www.freebuf.com/news/407888.html)
+
