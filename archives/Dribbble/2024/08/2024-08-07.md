@@ -179,3 +179,11 @@
 
 + [Delivery Mobile iOS App Design Concept](https://dribbble.com/shots/)
 
++ [Pricing Page Concept for CMS Web App](https://dribbble.com/shots/)
+
++ [Play me only capy songs!](https://dribbble.com/shots/)
+
++ [Command+K search menu — Untitled UI](https://dribbble.com/shots/)
+
++ [Amada™ - Logo & Branding for Business and Consulting Firm](https://dribbble.com/shots/)
+
