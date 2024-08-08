@@ -119,3 +119,11 @@
 
 + [爱好者将经典RPG《辐射2》移植到任天堂Switch](https://www.3dmgame.com/news/202408/3901338.html)
 
++ [《无主之地》真人电影翻车了？首批影评出炉](https://www.3dmgame.com/news/202408/3901341.html)
+
++ [EA发布视频介绍《EA SPORTS FC 25》职业生涯模式](https://www.3dmgame.com/news/202408/3901340.html)
+
++ [巨型猫咪保卫家园《怪兽快跑》发售日确定](https://www.3dmgame.com/news/202408/3901339.html)
+
++ [《英灵乱战》联动《无主之地》新增4名可操作角色](https://www.3dmgame.com/news/202408/3901337.html)
+
