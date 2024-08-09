@@ -49,3 +49,5 @@
 
 + [警惕：新型网络钓鱼利用 Google Drawings 和 WhatsApp 短链接窃取信息](https://www.freebuf.com/news/408175.html)
 
++ [古早漏洞“再现”！谷歌、Safari、火狐等主流浏览器数百万用户受到潜在攻击](https://www.freebuf.com/news/408169.html)
+
