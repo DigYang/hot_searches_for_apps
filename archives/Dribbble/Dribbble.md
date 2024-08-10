@@ -130,3 +130,23 @@
 
 + [Lilo and Stitch](https://dribbble.com/shots/)
 
++ [DownShift Logotype](https://dribbble.com/shots/)
+
++ [American Madonna](https://dribbble.com/shots/)
+
++ [Bento Beatitudes | 2](https://dribbble.com/shots/)
+
++ [Let AI blow your mind!](https://dribbble.com/shots/)
+
++ [South America](https://dribbble.com/shots/)
+
++ [End is Near](https://dribbble.com/shots/)
+
++ [Good Things Take Time. Time Takes Good Things.](https://dribbble.com/shots/)
+
++ [Halftone illustrations](https://dribbble.com/shots/)
+
++ [Icecream](https://dribbble.com/shots/)
+
++ [Nike Sneaker Illustration????????](https://dribbble.com/shots/)
+
