@@ -139,3 +139,7 @@
 
 + [PaperTalk](https://www.producthunt.com/posts/papertalk)
 
++ [WorkWeave](https://www.producthunt.com/posts/workweave)
+
++ [Salesify](https://www.producthunt.com/posts/salesify)
+
