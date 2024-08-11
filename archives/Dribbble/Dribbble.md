@@ -136,3 +136,11 @@
 
 + [Big eye](https://dribbble.com/shots/)
 
++ [Fuse logo](https://dribbble.com/shots/)
+
++ [Tosa Ken](https://dribbble.com/shots/)
+
++ [Taxi Booking Mobile iOS App](https://dribbble.com/shots/)
+
++ [Cod & Co Fish and Chips Branding Design by Marka Works](https://dribbble.com/shots/)
+
