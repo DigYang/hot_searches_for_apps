@@ -279,3 +279,17 @@
 
 + [《盗日求生》Steam抢先体验 生存恐怖战术撤离射击](https://www.3dmgame.com/news/202408/3901744.html)
 
++ [超迷你游戏机Thumby Color开启众筹 酷似GBA微缩版](https://www.3dmgame.com/news/202408/3901754.html)
+
++ [历史首次！小米平板跃居全球第四：出货暴增138%](https://www.3dmgame.com/news/202408/3901753.html)
+
++ [不落后中美！印度：我们要快实现载人登陆月球 这是最新时间表](https://www.3dmgame.com/news/202408/3901752.html)
+
++ [科大讯飞回应和华为合作终止：信息不实 和华为一直保持着良好的合作关系](https://www.3dmgame.com/news/202408/3901751.html)
+
++ [小米15 Ultra影像机能首曝 2亿像素潜望狂堆料](https://www.3dmgame.com/news/202408/3901750.html)
+
++ [艰难的决定！英特尔全球裁员1.75万人：赔偿细节揭晓 有人赔近400万元](https://www.3dmgame.com/news/202408/3901749.html)
+
++ [敖厂长再次锐评《黑神话：悟空》：优化翻车概率20%](https://www.3dmgame.com/news/202408/3901748.html)
+
