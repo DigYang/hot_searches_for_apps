@@ -111,3 +111,26 @@
 
 + [Feeling like a Puppet](https://dribbble.com/shots/)
 
++ [Shape Studies: 083](https://dribbble.com/shots/)
+
++ ["You love to sing"
+つづく](https://dribbble.com/shots/)
+
++ [Harley-Davidson Homecoming 2024 Posters](https://dribbble.com/shots/)
+
++ [Emorabilia Vol. I](https://dribbble.com/shots/)
+
++ [Essay contest](https://dribbble.com/shots/)
+
++ [Gulls & Friends.](https://dribbble.com/shots/)
+
++ [The blue](https://dribbble.com/shots/)
+
++ [Development Illustration](https://dribbble.com/shots/)
+
++ [Beauty](https://dribbble.com/shots/)
+
++ [Working Relief Wordmark](https://dribbble.com/shots/)
+
++ [Good Things Take Time. Time Takes Good Things.](https://dribbble.com/shots/)
+
