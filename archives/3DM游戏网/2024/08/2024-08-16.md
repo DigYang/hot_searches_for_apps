@@ -241,3 +241,9 @@
 
 + [Key社视觉小说《虚拟月球之子》8月30日登陆Steam 支持中文](https://www.3dmgame.com/news/202408/3902002.html)
 
++ [《宝可梦 GO》玩家为抓闪光基拉祈登顶最高峰冒纳开亚山 官方盛赞极具标志性](https://www.3dmgame.com/news/202408/3902006.html)
+
++ [《博德之门3》发行总裁声援黑曜石总监：想玩他的新作](https://www.3dmgame.com/news/202408/3902005.html)
+
++ [瑞幸官宣《黑神话：悟空》联动饮品 将于8月19日上线](https://www.3dmgame.com/news/202408/3902004.html)
+
