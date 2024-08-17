@@ -43,3 +43,9 @@
 
 + [极氪汽车法务部澄清：未与任何个人或机构合作对撞测试](https://m.ithome.com/html/789064.htm)
 
++ [盘点 10 个已经消失的奥运项目](https://m.ithome.com/html/789142.htm)
+
++ [12+512G 立减 500 元：Redmi K70E 手机 1699 元京东百亿补贴](https://m.ithome.com/html/789077.htm)
+
++ [《黑神话：悟空》PS5 版实机演示发布：帧率流畅、打击爽快，游戏 8 月 20 日发售](https://m.ithome.com/html/789166.htm)
+
