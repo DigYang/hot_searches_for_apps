@@ -45,3 +45,7 @@
 
 + [HTTP协议网络安全攻击解析](https://www.freebuf.com/articles/ics-articles/407335.html)
 
++ [攻防演练 | HW实战中钓鱼全流程梳理](https://www.freebuf.com/defense/374161.html)
+
++ [后门病毒伪装PDF文档，利用钓鱼邮件实现远控](https://www.freebuf.com/articles/endpoint/408557.html)
+
