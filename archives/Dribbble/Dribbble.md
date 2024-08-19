@@ -223,3 +223,9 @@
 
 + [Letter P+J, Project Management Logo and Branding](https://dribbble.com/shots/)
 
++ [Permonk - design concept](https://dribbble.com/shots/)
+
++ [Finance Dashboard: animation](https://dribbble.com/shots/)
+
++ [Ticket service logo design](https://dribbble.com/shots/)
+
