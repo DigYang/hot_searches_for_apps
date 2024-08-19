@@ -237,3 +237,7 @@
 
 + [Natural AI video reader UI](https://dribbble.com/shots/)
 
++ [Digital Ampersand Logo Animation](https://dribbble.com/shots/)
+
++ [Morely](https://dribbble.com/shots/)
+
