@@ -265,3 +265,5 @@
 
 + [在发售七年后，《死亡细胞》最终更新现已上线](https://www.3dmgame.com/news/202408/3902197.html)
 
++ [网友买《黑神话》不知道怎么激活 发图求助后被盗Key](https://www.3dmgame.com/news/202408/3902201.html)
+
