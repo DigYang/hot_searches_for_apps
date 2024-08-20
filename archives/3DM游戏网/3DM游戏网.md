@@ -361,3 +361,11 @@
 
 + [开发商Game Freak：正在开发超越宝可梦系列的杰作](https://www.3dmgame.com/news/202312/3884955.html)
 
++ [《黑神话：悟空》RTX 4090测试 4K最高画质也扛不住](https://www.3dmgame.com/news/202408/3902296.html)
+
++ [《黑神话：悟空》销量超450万套 总销售额超15亿元](https://www.3dmgame.com/news/202408/3902295.html)
+
++ [《黑神话：悟空》Steam峰值超200万 国内玩家占9成](https://www.3dmgame.com/news/202408/3902293.html)
+
++ [黑神话公司员工疯狂被挖登上热搜 员工标注自己不找工作](https://www.3dmgame.com/news/202408/3902294.html)
+
