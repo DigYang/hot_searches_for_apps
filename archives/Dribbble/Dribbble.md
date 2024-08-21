@@ -241,3 +241,11 @@
 
 + [Proud Spartan Warrior logo](https://dribbble.com/shots/)
 
++ [D&D Icon Library](https://dribbble.com/shots/)
+
++ [6Throne badges](https://dribbble.com/shots/)
+
++ [Task tracker icon set](https://dribbble.com/shots/)
+
++ [Function Icons](https://dribbble.com/shots/)
+
