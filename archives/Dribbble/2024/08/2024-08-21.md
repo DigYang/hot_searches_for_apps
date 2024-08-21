@@ -193,3 +193,25 @@
 
 + [Cactus Country Merch](https://dribbble.com/shots/)
 
++ [Real Estate Website Design Concept](https://dribbble.com/shots/)
+
++ [Tennis Branding Exploration](https://dribbble.com/shots/)
+
++ [Health Tracker – Dashboard UI/UX Design](https://dribbble.com/shots/)
+
++ [Rizzle UI/UX Design [Case Study]](https://dribbble.com/shots/)
+
++ [Winner, sports bets, tips and betting platform logo design](https://dribbble.com/shots/)
+
++ [Car Rent AI Assistant Dashboard](https://dribbble.com/shots/)
+
++ [Fashion Product -  Sales Management Dashboard](https://dribbble.com/shots/)
+
++ [Tooth Character Expression????](https://dribbble.com/shots/)
+
++ [Animated Sticker](https://dribbble.com/shots/)
+
++ [BAHF | Brand identity for football brand](https://dribbble.com/shots/)
+
++ [cptx.bio: Programmable DNA Therapeutics | About Us Page UIUX](https://dribbble.com/shots/)
+

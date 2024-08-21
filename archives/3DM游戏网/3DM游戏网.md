@@ -249,3 +249,15 @@
 
 + [《We Harvest Shadows》Steam试玩发布 农场恐怖寓言](https://www.3dmgame.com/news/202408/3902366.html)
 
++ [《黑神话》让老外玩家感慨 孙悟空是中国不是日本的](https://www.3dmgame.com/news/202408/3902378.html)
+
++ [《索尼克×夏特 世代重启》现已发布两部最新预告片！夏特新力量即将显露真容](https://www.3dmgame.com/news/202408/3902377.html)
+
++ [踏入叠合界 《无名九使 觉醒》即将在10月18日上市](https://www.3dmgame.com/news/202408/3902376.html)
+
++ [最高收36.3%！欧盟披露对华电动汽车反补贴最终调查结果草案](https://www.3dmgame.com/news/202408/3902375.html)
+
++ [街机卡游《高达 A·B》新卡被质疑抄袭 万代承认并致歉](https://www.3dmgame.com/news/202408/3902374.html)
+
++ [“撞车王”《艾诺提亚：失落之歌》科隆展发布新预告](https://www.3dmgame.com/news/202408/3902373.html)
+
