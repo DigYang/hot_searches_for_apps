@@ -97,3 +97,9 @@
 
 + [Bistrot](https://dribbble.com/shots/)
 
++ [MeStar Logo Design (Unused concept)](https://dribbble.com/shots/)
+
++ [A Bit Salty](https://dribbble.com/shots/)
+
++ [OId dead whiskey things](https://dribbble.com/shots/)
+
