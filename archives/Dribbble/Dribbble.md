@@ -237,3 +237,11 @@
 
 + [Eye + medal](https://dribbble.com/shots/)
 
++ [Search Results Design & Interaction](https://dribbble.com/shots/)
+
++ [Landing Page for a Financial App](https://dribbble.com/shots/)
+
++ [Groundswell Logo](https://dribbble.com/shots/)
+
++ [SFL - Frameless Windows Company Minimalist Aesthetic Website](https://dribbble.com/shots/)
+
