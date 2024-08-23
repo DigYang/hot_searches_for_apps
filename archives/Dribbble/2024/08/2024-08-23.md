@@ -245,3 +245,5 @@
 
 + [akka logo concept](https://dribbble.com/shots/)
 
++ [thursday (client work)](https://dribbble.com/shots/)
+
