@@ -191,3 +191,19 @@
 
 + [Growth](https://dribbble.com/shots/)
 
++ [bunny sketches](https://dribbble.com/shots/)
+
++ [Syncra - AI Artificial Intelligence Voice Landing Page Website](https://dribbble.com/shots/)
+
++ [TDA - Fintech Platform](https://dribbble.com/shots/)
+
++ [Verified Play logo design: RGB play icon + check mark](https://dribbble.com/shots/)
+
++ [Riddance_Brand expression](https://dribbble.com/shots/)
+
++ [Passport - Web3 Loyalty App](https://dribbble.com/shots/)
+
++ [layer, logo design, branding](https://dribbble.com/shots/)
+
++ [Apartment Investment Mobile App - Property Detail ????](https://dribbble.com/shots/)
+
