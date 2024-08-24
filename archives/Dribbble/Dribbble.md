@@ -208,3 +208,19 @@
 
 + [P logo](https://dribbble.com/shots/)
 
++ [Cyclops - Influencer Details Dashboard](https://dribbble.com/shots/)
+
++ [Proup - Logo Design](https://dribbble.com/shots/)
+
++ [logo and brand identity](https://dribbble.com/shots/)
+
++ [Restins Tech Logo](https://dribbble.com/shots/)
+
++ [PureUnity | Ecommerce Website | Orbix Studio](https://dribbble.com/shots/)
+
++ [papaya Logotype](https://dribbble.com/shots/)
+
++ [M logotype](https://dribbble.com/shots/)
+
++ [axion - tech startup logo design](https://dribbble.com/shots/)
+
