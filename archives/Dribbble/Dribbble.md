@@ -149,3 +149,11 @@
 
 + [Sophia's Tea Branding and Packaging Design / Tea Branding](https://dribbble.com/shots/)
 
++ [IP Image Design](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Master Logo](https://dribbble.com/shots/)
+
++ [It's easy being green.](https://dribbble.com/shots/)
+
++ [Lone Star Beer Merch](https://dribbble.com/shots/)
+
