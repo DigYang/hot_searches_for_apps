@@ -53,3 +53,7 @@
 
 + [漏洞分析 | Inxedu 后台文件上传致远程命令执行漏洞](https://www.freebuf.com/vuls/406301.html)
 
++ [渗透实战 | 一次代码审计拿下目标站点](https://www.freebuf.com/vuls/404481.html)
+
++ [GWPSan：一款基于数据采样的二进制代码动态安全检测框架](https://www.freebuf.com/sectool/408900.html)
+
