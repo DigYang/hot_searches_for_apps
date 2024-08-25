@@ -183,3 +183,7 @@
 
 + [国产武侠单机《天命奇御二》PS5版现已发售](https://www.3dmgame.com/news/202407/3898884.html)
 
++ [2024年暑期档电影票房破110亿！《抓娃娃》遥遥领先](https://www.3dmgame.com/news/202408/3902623.html)
+
++ [《Marko: Beyond Brave》Steam试玩发布 银河恶魔城新游](https://www.3dmgame.com/news/202408/3902622.html)
+
