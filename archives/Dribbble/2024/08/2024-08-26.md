@@ -163,3 +163,5 @@
 
 + [Data Display Design Component](https://dribbble.com/shots/)
 
++ [Figma Logo Animation](https://dribbble.com/shots/)
+
