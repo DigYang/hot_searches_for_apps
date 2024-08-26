@@ -209,3 +209,11 @@
 
 + [nest logo design: crib & heart for baby products and furniture](https://dribbble.com/shots/)
 
++ [Thunder web portfolio](https://dribbble.com/shots/)
+
++ [Restaurant logo](https://dribbble.com/shots/)
+
++ [Tepia - web design](https://dribbble.com/shots/)
+
++ [Wordmarks and Logotypes](https://dribbble.com/shots/)
+
