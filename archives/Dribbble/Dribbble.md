@@ -229,3 +229,9 @@
 
 + [Modern NX Logo - Futuristic and Sleek Design // Logo For Sale](https://dribbble.com/shots/)
 
++ [Halftone illustrations - Busy at work](https://dribbble.com/shots/)
+
++ [E-Commerce - Components](https://dribbble.com/shots/)
+
++ [VOUM App design elements](https://dribbble.com/shots/)
+
