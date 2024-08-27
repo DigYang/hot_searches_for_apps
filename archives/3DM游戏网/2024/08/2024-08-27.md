@@ -165,3 +165,31 @@
 
 + [《合金装备3：重制版》制作人谈伤势将影响主角性能](https://www.3dmgame.com/news/202408/3902718.html)
 
++ [日恐新游《暗夜-S邸-》开启众筹 2025年夏季发售](https://www.3dmgame.com/news/202408/3902729.html)
+
++ [《泰坦之旅2》30分钟实机上手视频 虚幻5引擎、2024年冬季抢先体验](https://www.3dmgame.com/news/202408/3902730.html)
+
++ [PS官网显示《乐高地平线大冒险》将于11月14日发售](https://www.3dmgame.com/news/202408/3902731.html)
+
++ [《明末：渊虚之羽》保证在2025年发售 玩家期待！](https://www.3dmgame.com/news/202408/3902732.html)
+
++ [Roguelite动作冒险游戏《铁锤守卫英雄传2》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202408/3902733.html)
+
++ [《分裂之门2》开发者确认：如果玩家想要会增加更多阵营](https://www.3dmgame.com/news/202408/3902734.html)
+
++ [传索尼正开发一个未知《血源》游戏](https://www.3dmgame.com/news/202408/3902721.html)
+
++ [《塞琳的难熬之夜》正式版发售 帮美女逃出生天](https://www.3dmgame.com/news/202408/3902722.html)
+
++ [网传PS5 Pro仍将于2024年推出 售价可能是600美元](https://www.3dmgame.com/news/202408/3902723.html)
+
++ [《回收中心模拟器》序章免费发布 学习垃圾回收生意](https://www.3dmgame.com/news/202408/3902724.html)
+
++ [《星球大战：亡命之徒》AI系统被批太蠢 敌人就像瞎子](https://www.3dmgame.com/news/202408/3902725.html)
+
++ [奇幻经营模拟游戏《酒馆带老板》11月6日发售 支持中文](https://www.3dmgame.com/news/202408/3902726.html)
+
++ [《冰汽时代2》新预告短片暗示游戏首发或包含Mod支持](https://www.3dmgame.com/news/202408/3902727.html)
+
++ [《太鼓达人：咚咚雷音祭》登陆主机和PC 11月7日发售](https://www.3dmgame.com/news/202408/3902728.html)
+

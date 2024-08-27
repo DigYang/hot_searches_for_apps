@@ -133,3 +133,7 @@
 
 + [浏览器发送HTTP请求的过程](https://blog.csdn.net/m0_68744965/article/details/141430691)
 
++ [OpenHarmony标准设备应用开发实战（一）——HelloWorld](https://blog.csdn.net/u012165769/article/details/141535122)
+
++ [FPGA开发——使用verilog实现异步FIFO](https://blog.csdn.net/weixin_63553972/article/details/141573137)
+
