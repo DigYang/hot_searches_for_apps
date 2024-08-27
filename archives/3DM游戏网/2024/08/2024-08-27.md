@@ -193,3 +193,13 @@
 
 + [《太鼓达人：咚咚雷音祭》登陆主机和PC 11月7日发售](https://www.3dmgame.com/news/202408/3902728.html)
 
++ [Bloober解释为何选择《寂静岭2》而不是一代来重制](https://www.3dmgame.com/news/202408/3902736.html)
+
++ [生化危机之父三上真司：暂时不想再做生存恐怖游戏了](https://www.3dmgame.com/news/202408/3902739.html)
+
++ [V社新作《Deadlock》测试表现不错：玩家峰值近9万人](https://www.3dmgame.com/news/202408/3902738.html)
+
++ [《False Mall》登陆Steam 类8番出口惊悚解谜](https://www.3dmgame.com/news/202408/3902737.html)
+
++ [iPhone 16系列官宣9月10日发布 首款AI iPhone将登场](https://www.3dmgame.com/news/202408/3902735.html)
+
