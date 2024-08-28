@@ -117,3 +117,7 @@
 
 + [TheySaid](https://www.producthunt.com/posts/theysaid)
 
++ [Quit Snus Addiction](https://www.producthunt.com/posts/quit-snus-addiction)
+
++ [Mida.so](https://www.producthunt.com/posts/mida-so)
+
