@@ -181,3 +181,19 @@
 
 + [Zendenta - Patient Plan Agreement for Medical Checkups](https://dribbble.com/shots/)
 
++ [Zenpulse - Running Mobile App](https://dribbble.com/shots/)
+
++ [Smartify - Smart Home App](https://dribbble.com/shots/)
+
++ [Restaurant Website](https://dribbble.com/shots/)
+
++ [Wookies - Digital Marketing Agency](https://dribbble.com/shots/)
+
++ [neurokaire: AI Neurology Precision Medicine - Mobile Overview UI](https://dribbble.com/shots/)
+
++ [App Store Screenshot - Finsave](https://dribbble.com/shots/)
+
++ [Fitlife - Landing Page](https://dribbble.com/shots/)
+
++ [E-Wallet Dashboard](https://dribbble.com/shots/)
+
