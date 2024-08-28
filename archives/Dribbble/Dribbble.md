@@ -143,3 +143,9 @@
 
 + [Farm](https://dribbble.com/shots/)
 
++ [Microsoft Word Consideration imagery](https://dribbble.com/shots/)
+
++ [Stained Glass](https://dribbble.com/shots/)
+
++ [Website Design for Self Storage Solutions](https://dribbble.com/shots/)
+
