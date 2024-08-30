@@ -55,3 +55,5 @@
 
 + [攻击者冒充VPN提供商对员工发起攻击，超130家公司已“中招”](https://www.freebuf.com/news/409821.html)
 
++ [启明星辰2024半年报：营收15.74亿，亏损1.82亿](https://www.freebuf.com/news/409840.html)
+
