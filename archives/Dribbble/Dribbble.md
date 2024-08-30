@@ -149,3 +149,15 @@
 
 + [Sign in – SimpleSocial](https://dribbble.com/shots/)
 
++ [Mexico City Stickers](https://dribbble.com/shots/)
+
++ [Macy's holiday gift cards](https://dribbble.com/shots/)
+
++ [Seated Character](https://dribbble.com/shots/)
+
++ [Whisking you back to the good old days!](https://dribbble.com/shots/)
+
++ [Gig Poster - Dengue Fever](https://dribbble.com/shots/)
+
++ [Fox mark](https://dribbble.com/shots/)
+

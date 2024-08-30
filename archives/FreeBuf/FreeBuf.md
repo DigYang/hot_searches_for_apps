@@ -53,3 +53,5 @@
 
 + [FreeBuf早报 | 45台自动售卖机中40台索取个人信息；CrowdStrike与英伟达宣布合作](https://www.freebuf.com/news/409760.html)
 
++ [攻击者冒充VPN提供商对员工发起攻击，超130家公司已“中招”](https://www.freebuf.com/news/409821.html)
+
