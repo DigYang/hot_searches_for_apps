@@ -103,3 +103,11 @@
 
 + [计算机网络第一章【新】](https://blog.csdn.net/zheshiyangyang/article/details/141660800)
 
++ [【人工智能】Transformers之Pipeline（十四）：问答（question-answering）](https://blog.csdn.net/weixin_48007632/article/details/141725376)
+
++ [Python网络爬虫模拟登录与验证解析](https://blog.csdn.net/sinat_30844883/article/details/141599750)
+
++ [【Docker】个人笔记](https://blog.csdn.net/HeartHurt6/article/details/141625893)
+
++ [CSRF 概念及防护机制](https://blog.csdn.net/qiongjingpang9161/article/details/141636444)
+
