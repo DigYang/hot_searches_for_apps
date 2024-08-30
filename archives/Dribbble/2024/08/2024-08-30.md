@@ -217,3 +217,19 @@
 
 + [Icons for a Non Alcoholic Bottle Shop](https://dribbble.com/shots/)
 
++ [Volvo S90 Recharge](https://dribbble.com/shots/)
+
++ [3D Web Animation for SaaS Website Banner](https://dribbble.com/shots/)
+
++ [Owl Logo](https://dribbble.com/shots/)
+
++ [ForgeX - Manufacturing Pitch Deck](https://dribbble.com/shots/)
+
++ [GearLeaf  Eco-Tech, logo ????⚙️](https://dribbble.com/shots/)
+
++ [EdTech Mobile App](https://dribbble.com/shots/)
+
++ [Man and heart](https://dribbble.com/shots/)
+
++ [Klaboard - Task Management Dashboard](https://dribbble.com/shots/)
+
