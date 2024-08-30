@@ -141,3 +141,11 @@
 
 + [Knead That Dough Brand Identity](https://dribbble.com/shots/)
 
++ [Bubble tea loyalty card and packaging design |  Mascot logo](https://dribbble.com/shots/)
+
++ [Elema](https://dribbble.com/shots/)
+
++ [AR Reactor Training App: A Safe Way to Practice Dangerous Things](https://dribbble.com/shots/)
+
++ [Sign in – SimpleSocial](https://dribbble.com/shots/)
+
