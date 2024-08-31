@@ -41,3 +41,5 @@
 
 + [市场监管总局督导阿里巴巴集团控股有限公司完成三年整改](https://m.ithome.com/html/792329.htm)
 
++ [2025 款比亚迪宋 L EV 上市：续航 550km~662km，18.98 万元起](https://m.ithome.com/html/792294.htm)
+
