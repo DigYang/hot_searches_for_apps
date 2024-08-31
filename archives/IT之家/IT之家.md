@@ -33,3 +33,5 @@
 
 + [苹果 iPhone 16 Pro 渲染图再曝，新古铜色亮相](https://m.ithome.com/html/792435.htm)
 
++ [极氪 7X“豪华大五座”SUV 开启预订：23.99 万元起，9 月 20 日上市交付](https://m.ithome.com/html/792201.htm)
+
