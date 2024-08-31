@@ -121,3 +121,23 @@
 
 + [《使命召唤：黑色行动6》多人Beta抢先体验现已上线](https://www.3dmgame.com/news/202408/3903082.html)
 
++ [《空洞骑士：丝之歌》页面更新让玩家空欢喜一场](https://www.3dmgame.com/news/202408/3903097.html)
+
++ [《无主之地4》新概念图及细节 最多样化最美丽游戏](https://www.3dmgame.com/news/202408/3903096.html)
+
++ [冒险游戏《恐龙》Steam页面上线 支持中文](https://www.3dmgame.com/news/202408/3903095.html)
+
++ [暴雪前总裁：主机永远不会死 索尼独占策略很成功](https://www.3dmgame.com/news/202408/3903094.html)
+
++ [《博德之门3》发行总监认为游戏定价应该更高一些](https://www.3dmgame.com/news/202408/3903092.html)
+
++ [传闻：华纳正在开发《新蝙蝠侠》设定《企鹅人》游戏](https://www.3dmgame.com/news/202408/3903093.html)
+
++ [AVG游戏《人类终结之日——2074》Steam页面上线 明年发售](https://www.3dmgame.com/news/202408/3903090.html)
+
++ [坂口博信：《最终幻想》系列的核心要素是故事和世界](https://www.3dmgame.com/news/202408/3903089.html)
+
++ [《绝地潜兵2》Steam已多半差评 极左社区总监被开除](https://www.3dmgame.com/news/202408/3903088.html)
+
++ [iPhone 16 Pro新渲染图：全新古铜配色 神似土豪金](https://www.3dmgame.com/news/202408/3903091.html)
+
