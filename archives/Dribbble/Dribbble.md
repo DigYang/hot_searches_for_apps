@@ -183,3 +183,35 @@
 
 + [Sombrero Flag & Anthem](https://dribbble.com/shots/)
 
++ [Crypto Dashboard Design for Trading & Portfolio Management App](https://dribbble.com/shots/)
+
++ [S and stitch](https://dribbble.com/shots/)
+
++ [Pricing UI](https://dribbble.com/shots/)
+
++ [Solar website design Landing page](https://dribbble.com/shots/)
+
++ [debt (client work)](https://dribbble.com/shots/)
+
++ [glare logo, spark logo design](https://dribbble.com/shots/)
+
++ [Mose Logo Design](https://dribbble.com/shots/)
+
++ [home mark negative space real estate logo](https://dribbble.com/shots/)
+
++ [AiTravel | Dashboard Analytics Solution | 3D Motion](https://dribbble.com/shots/)
+
++ [e-wallet, pay, digital wallet, crypto, NFT, blockchain](https://dribbble.com/shots/)
+
++ [Product Design for Crypto Platform](https://dribbble.com/shots/)
+
++ [UI-UX for an Analytics SaaS ✦ Admetric](https://dribbble.com/shots/)
+
++ [Crypto Defi Landing Page design.](https://dribbble.com/shots/)
+
++ [Leadpay logo design](https://dribbble.com/shots/)
+
++ [Flourish - Self-care Services website Design](https://dribbble.com/shots/)
+
++ [Financial Dashboard](https://dribbble.com/shots/)
+
