@@ -223,3 +223,11 @@
 
 + [《细胞分裂：断罪》《细胞分裂：黑名单》《星球大战：亡命之徒》处决动画对比](https://www.3dmgame.com/news/202409/3903237.html)
 
++ [《优米雅的炼金工房》明年3月21日发售 支持中文](https://www.3dmgame.com/news/202409/3903242.html)
+
++ [传Xbox第一方游戏《宣誓》试玩印象很不好](https://www.3dmgame.com/news/202409/3903241.html)
+
++ [《黑神话》开发团队只有140人 国外推主狂赞太高效](https://www.3dmgame.com/news/202409/3903239.html)
+
++ [三上真司完全反对游戏审查 规则由不玩游戏的人制定](https://www.3dmgame.com/news/202409/3903240.html)
+
