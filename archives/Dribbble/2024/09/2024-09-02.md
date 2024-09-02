@@ -227,3 +227,27 @@
 
 + [Page & Leaf](https://dribbble.com/shots/)
 
++ [M Logo Design Monogram - People, Community, Coins](https://dribbble.com/shots/)
+
++ [Star House Logo Concept // For Sale](https://dribbble.com/shots/)
+
++ [Church / faith-related logos from the portfolio](https://dribbble.com/shots/)
+
++ [Shineo Animation Sound Design](https://dribbble.com/shots/)
+
++ [3D Mascot For Somnia](https://dribbble.com/shots/)
+
++ [Prodmast - Manufacturing Landing Page](https://dribbble.com/shots/)
+
++ [Financial Web App](https://dribbble.com/shots/)
+
++ [UI-UX for a 3D Editor ✦ Meshio](https://dribbble.com/shots/)
+
++ [icons](https://dribbble.com/shots/)
+
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [Ai illustrations Tasks](https://dribbble.com/shots/)
+
++ [Audio Podcast](https://dribbble.com/shots/)
+
