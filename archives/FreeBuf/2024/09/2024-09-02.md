@@ -51,3 +51,5 @@
 
 + [Java代码审计实战篇：超详细分享文件上传](https://www.freebuf.com/vuls/407781.html)
 
++ [AI大语言模型越狱注入攻击案例分析及综合防范策略](https://www.freebuf.com/articles/paper/409395.html)
+
