@@ -53,3 +53,5 @@
 
 + [尽快更新！Zyxel 路由器曝出 OS 命令注入漏洞，影响多个版本](https://www.freebuf.com/news/410154.html)
 
++ [美国一AI公司因非法收集面部数据被罚超3000万欧元](https://www.freebuf.com/news/410169.html)
+
