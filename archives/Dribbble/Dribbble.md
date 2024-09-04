@@ -53,3 +53,51 @@
 
 + [Sun home](https://dribbble.com/shots/)
 
++ [Dream shoes](https://dribbble.com/shots/)
+
++ [Canela en Polvo Logo Design](https://dribbble.com/shots/)
+
++ [Cats Exhibition in Lyon](https://dribbble.com/shots/)
+
++ [Glowing Home screen for Natural AI](https://dribbble.com/shots/)
+
++ [Pointed Pony](https://dribbble.com/shots/)
+
++ [Heretic - Turing Pattern Machine](https://dribbble.com/shots/)
+
++ [Dandelion Advent Calendar 2024](https://dribbble.com/shots/)
+
++ [s✨ck my flower](https://dribbble.com/shots/)
+
++ [Pizza](https://dribbble.com/shots/)
+
++ [LUMA - Onboarding App Illustrations](https://dribbble.com/shots/)
+
++ [Lizard sketch](https://dribbble.com/shots/)
+
++ [Secret Coffee Society Tertiary Logo](https://dribbble.com/shots/)
+
++ [Coffee Co Logo Concept](https://dribbble.com/shots/)
+
++ [Brain Mag. Cover](https://dribbble.com/shots/)
+
++ [Ai illustrations Tasks](https://dribbble.com/shots/)
+
++ [Wave Tree Sketch Pattern](https://dribbble.com/shots/)
+
++ [Mexico City Stickers](https://dribbble.com/shots/)
+
++ [Mexico City Stickers. Vol.2](https://dribbble.com/shots/)
+
++ [Spice up your kitchen with a dash of nostalgia](https://dribbble.com/shots/)
+
++ [Website Animation for Golf Tourism Clubs Network](https://dribbble.com/shots/)
+
++ [Mortgages](https://dribbble.com/shots/)
+
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
++ [The Small-City Draw](https://dribbble.com/shots/)
+
++ [Lockups](https://dribbble.com/shots/)
+
