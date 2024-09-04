@@ -207,3 +207,13 @@
 
 + [《方舟生存飞升》新DLC《畸变》9月5日震撼上线，揭开神秘深渊的终极秘密](https://www.3dmgame.com/news/202409/3903361.html)
 
++ [战术第一人称射击游戏《匕首指令》公布首个预告 将登录Steam平台](https://www.3dmgame.com/news/202409/3903370.html)
+
++ [《命运2》外挂制造商上诉被驳回 仍需赔偿430万美元](https://www.3dmgame.com/news/202409/3903371.html)
+
++ [《英雄联盟：双城之战》第二季海报及前导预告 冬季上映](https://www.3dmgame.com/news/202409/3903372.html)
+
++ [猫咪叙事冒险《冒牌猫谜》登陆Steam 主机版开发中](https://www.3dmgame.com/news/202409/3903373.html)
+
++ [《赛博朋克2077》新桌游开启众筹 10分钟达成目标](https://www.3dmgame.com/news/202409/3903374.html)
+
