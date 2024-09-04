@@ -317,3 +317,9 @@
 
 + [OpenAI宣布启动GPT Next计划 AI性能有望提高100倍](https://www.3dmgame.com/news/202409/3903423.html)
 
++ [育碧确认双重暗杀回归《刺客信条：影》](https://www.3dmgame.com/news/202409/3903426.html)
+
++ [《我的世界》真人电影首支预告 2025年4月上映](https://www.3dmgame.com/news/202409/3903427.html)
+
++ [韩剧《来自地狱的法官》前导预告 朴信惠首度挑战恶女](https://www.3dmgame.com/news/202409/3903424.html)
+
