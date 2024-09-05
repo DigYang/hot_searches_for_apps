@@ -169,3 +169,25 @@
 
 + [Macy's holiday gift cards](https://dribbble.com/shots/)
 
++ [Schedulr Task Management Website](https://dribbble.com/shots/)
+
++ [Cool Whip](https://dribbble.com/shots/)
+
++ [Tiimi - Job Creation Flow: Hiring Stages in a SaaS HR Management](https://dribbble.com/shots/)
+
++ [Massive Noir - Character Illustration](https://dribbble.com/shots/)
+
++ [Nuon - Logo design](https://dribbble.com/shots/)
+
++ [Minimal Soft Geometric Poster](https://dribbble.com/shots/)
+
++ [Stickers for Stash](https://dribbble.com/shots/)
+
++ [Landon Elliott Album Release Show Poster](https://dribbble.com/shots/)
+
++ [Travel App Website](https://dribbble.com/shots/)
+
++ [Health Anxiety](https://dribbble.com/shots/)
+
++ [White wolf](https://dribbble.com/shots/)
+
