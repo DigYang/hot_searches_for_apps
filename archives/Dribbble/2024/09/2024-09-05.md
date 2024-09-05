@@ -161,3 +161,11 @@
 
 + [Knead That Dough Social Communication Design](https://dribbble.com/shots/)
 
++ [Bonta Gelato Illustrations](https://dribbble.com/shots/)
+
++ [Degenerates](https://dribbble.com/shots/)
+
++ [Geometric Man With Hat Logo](https://dribbble.com/shots/)
+
++ [Macy's holiday gift cards](https://dribbble.com/shots/)
+
