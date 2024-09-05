@@ -107,3 +107,7 @@
 
 + [猴子烫嘴硬唱：Bling-Bang-Bang-Born【咄咄睡觉】](http://www.acfun.cn/v/ac46194837)
 
++ [是a站让你变成这样的吗？](http://www.acfun.cn/v/ac46211495)
+
++ [[黑神话:悟空]布袋戏味儿闽南话配音-by俠搞瞎搞](http://www.acfun.cn/v/ac46207543)
+
