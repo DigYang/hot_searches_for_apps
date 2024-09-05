@@ -141,3 +141,5 @@
 
 + [Hoody AI](https://www.producthunt.com/posts/hoody-ai)
 
++ [Competitor Analysis](https://www.producthunt.com/posts/competitor-analysis)
+
