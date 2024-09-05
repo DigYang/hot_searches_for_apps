@@ -135,3 +135,9 @@
 
 + [ToyPal](https://www.producthunt.com/posts/toypal)
 
++ [Petters](https://www.producthunt.com/posts/petters)
+
++ [Sprig AI Product Experience Platform](https://www.producthunt.com/posts/sprig-ai-product-experience-platform)
+
++ [Hoody AI](https://www.producthunt.com/posts/hoody-ai)
+
