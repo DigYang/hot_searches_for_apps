@@ -155,3 +155,11 @@
 
 + [索尼暗示PS5 Pro？30周年纪念活动或将发布新主机](https://www.3dmgame.com/news/202409/3903534.html)
 
++ [动画剧集《漩涡》正式预告 伊藤润二原作改编](https://www.3dmgame.com/news/202409/3903544.html)
+
++ [《黑神话》Steam收入8.8亿美元 平均游玩时间达27小时](https://www.3dmgame.com/news/202409/3903543.html)
+
++ [《妖精的尾巴2》发布星灵魔导士露西战斗视频](https://www.3dmgame.com/news/202409/3903541.html)
+
++ [亚马逊动画《秘密关卡》仍保留《星鸣特攻》特集](https://www.3dmgame.com/news/202409/3903542.html)
+
