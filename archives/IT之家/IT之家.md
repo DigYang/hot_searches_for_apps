@@ -39,3 +39,9 @@
 
 + [突然关闭考勤系统，消息称上汽大通启动大规模裁员](https://m.ithome.com/html/793865.htm)
 
++ [2016 年电影《西游记之孙悟空三打白骨精》宣布 9 月 14 日重映，豆瓣评分 5.6](https://m.ithome.com/html/793927.htm)
+
++ [荣耀赵明回应华为三折新机和 Magic V3 外观相似：任何关于华为抄袭荣耀的说法都是瞎扯](https://m.ithome.com/html/793923.htm)
+
++ [今晚国内油价下调，加满一箱 92 号汽油将少花 4 元](https://m.ithome.com/html/793732.htm)
+
