@@ -135,3 +135,9 @@
 
 + [Bacteria](https://dribbble.com/shots/)
 
++ ["Hippocampus" - Daily art, NFT art](https://dribbble.com/shots/)
+
++ [Cirquetickets Logo](https://dribbble.com/shots/)
+
++ [Jojo's noodle](https://dribbble.com/shots/)
+
