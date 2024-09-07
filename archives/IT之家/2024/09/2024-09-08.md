@@ -25,3 +25,9 @@
 
 + [领克 Z10 上市 24 小时大定订单突破 5000 台，限时 19.68 万元起](https://m.ithome.com/html/794154.htm)
 
++ [消息称华为 Mate XT 三折叠手机采用真皮后壳，后置 50MP + 13MP + 潜望镜头](https://m.ithome.com/html/794242.htm)
+
++ [安克推 100W 超小型氮化镓充电头：体积接近 AirPods Pro，售价 45 美元](https://m.ithome.com/html/794129.htm)
+
++ [消息称超一半外卖骑手不愿意交社保，62.6% 在京全职者平均劳动时长 10 小时](https://m.ithome.com/html/794199.htm)
+
