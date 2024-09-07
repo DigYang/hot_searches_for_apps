@@ -191,3 +191,5 @@
 
 + [Wise Rabbit Infographic](https://dribbble.com/shots/)
 
++ [Classic Study](https://dribbble.com/shots/)
+
