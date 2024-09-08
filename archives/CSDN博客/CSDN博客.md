@@ -153,3 +153,11 @@
 
 + [【机器学习】自然语言处理中的Transformer模型：深度解析与前沿发展](https://blog.csdn.net/2301_79181030/article/details/141941562)
 
++ [【自动驾驶】汽车智能驾驶计算芯片](https://blog.csdn.net/CSSUST/article/details/141904247)
+
++ [【网络安全】密码学概述](https://blog.csdn.net/weixin_45627039/article/details/141961735)
+
++ [7.统一网关-Gateway](https://blog.csdn.net/xinhang10/article/details/141958454)
+
++ [网络层_计算机网络](https://blog.csdn.net/liu_shibo/article/details/141996264)
+
