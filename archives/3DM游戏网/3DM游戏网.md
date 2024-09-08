@@ -169,3 +169,5 @@
 
 + [布欧篇登场 《七龙珠 电光炸裂！ZERO》角色预告片](https://www.3dmgame.com/news/202409/3903679.html)
 
++ [《一鹅当先》PC版公开B测启动 PS5版问题调试中](https://www.3dmgame.com/news/202409/3903687.html)
+
