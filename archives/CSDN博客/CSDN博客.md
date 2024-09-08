@@ -147,3 +147,9 @@
 
 + [【机器学习】深度学习的现实应用——从图像识别到自然语言处理](https://blog.csdn.net/m0_52827996/article/details/141926947)
 
++ [Elasticsearch：无状态世界中的数据安全](https://blog.csdn.net/UbuntuTouch/article/details/141996740)
+
++ [如何读.Net Framework 的源码?](https://blog.csdn.net/zhaotianff/article/details/142006585)
+
++ [【机器学习】自然语言处理中的Transformer模型：深度解析与前沿发展](https://blog.csdn.net/2301_79181030/article/details/141941562)
+
