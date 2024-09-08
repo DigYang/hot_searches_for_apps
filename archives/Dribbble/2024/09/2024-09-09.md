@@ -49,3 +49,45 @@
 
 + [Sleeping Hamster](https://dribbble.com/shots/)
 
++ [Jojo's noodle](https://dribbble.com/shots/)
+
++ [blue ???? stones](https://dribbble.com/shots/)
+
++ [Data visualization card preview](https://dribbble.com/shots/)
+
++ [Grountwork Branding](https://dribbble.com/shots/)
+
++ [Landon Elliott Album Release Show Poster](https://dribbble.com/shots/)
+
++ [Workin on my beach bod ????](https://dribbble.com/shots/)
+
++ [HotDog logo + illustration](https://dribbble.com/shots/)
+
++ [Brain Mag. Cover](https://dribbble.com/shots/)
+
++ [Monsters](https://dribbble.com/shots/)
+
++ [Wave Tree Sketch Pattern](https://dribbble.com/shots/)
+
++ [Page & Leaf](https://dribbble.com/shots/)
+
++ [Hey Heinzel Branded Graphic #1](https://dribbble.com/shots/)
+
++ [Dandelion Advent Calendar 2024](https://dribbble.com/shots/)
+
++ [Canyon & Cacti ????](https://dribbble.com/shots/)
+
++ [RPG CARD • Metafy](https://dribbble.com/shots/)
+
++ [Propeller Heads: Full Preview](https://dribbble.com/shots/)
+
++ [Geometric Man With Hat Logo](https://dribbble.com/shots/)
+
++ [Classic Study](https://dribbble.com/shots/)
+
++ [Initial Concepts for a Modern Kebab Restaurant](https://dribbble.com/shots/)
+
++ [Mortgages](https://dribbble.com/shots/)
+
++ [Geometric Cat Logo](https://dribbble.com/shots/)
+
