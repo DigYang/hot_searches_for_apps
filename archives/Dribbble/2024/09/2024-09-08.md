@@ -195,3 +195,13 @@
 
 + [money icons (client work)](https://dribbble.com/shots/)
 
++ [UI/UX for a IoT Product ✦ Cace](https://dribbble.com/shots/)
+
++ [Player || Gaming Marketplace](https://dribbble.com/shots/)
+
++ [EV Charging Station Booking Dashboard](https://dribbble.com/shots/)
+
++ [Data Connection - UI Cards](https://dribbble.com/shots/)
+
++ [Meme Coin Landing Page Design](https://dribbble.com/shots/)
+
