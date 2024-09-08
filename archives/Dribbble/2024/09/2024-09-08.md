@@ -205,3 +205,7 @@
 
 + [Meme Coin Landing Page Design](https://dribbble.com/shots/)
 
++ [Fundrs - Finance Investor Dashboard](https://dribbble.com/shots/)
+
++ [Logo & Brand Identity for Proficient Studio](https://dribbble.com/shots/)
+
