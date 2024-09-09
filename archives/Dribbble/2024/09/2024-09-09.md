@@ -155,3 +155,15 @@
 
 + [s✨ck my flower](https://dribbble.com/shots/)
 
++ [Chocolate Dorado Branding and Packaging Design](https://dribbble.com/shots/)
+
++ [UI/UX for an Education Product ✦ Mentio](https://dribbble.com/shots/)
+
++ [Seagull's Space](https://dribbble.com/shots/)
+
++ [Tiimi - Manpower Planning in a SaaS HR Management System](https://dribbble.com/shots/)
+
++ [Smart Oil ERP x Dashboard](https://dribbble.com/shots/)
+
++ [Guides](https://dribbble.com/shots/)
+
