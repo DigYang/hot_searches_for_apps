@@ -231,3 +231,5 @@
 
 + [Daycap Wordmarks Archive](https://dribbble.com/shots/)
 
++ [Mulligan's Grooming Co. Mascot](https://dribbble.com/shots/)
+
