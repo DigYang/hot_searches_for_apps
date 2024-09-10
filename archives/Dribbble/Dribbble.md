@@ -218,3 +218,15 @@
 
 + [Personal Brand - pfp](https://dribbble.com/shots/)
 
++ [DP](https://dribbble.com/shots/)
+
++ [Creative Market Logo Redesign Concept](https://dribbble.com/shots/)
+
++ [Jumping Tiger Logo](https://dribbble.com/shots/)
+
++ [Task Management Mobile App](https://dribbble.com/shots/)
+
++ [Blaster Dashboards](https://dribbble.com/shots/)
+
++ [GourmetGrove - Mobile App UI Design](https://dribbble.com/shots/)
+
