@@ -71,3 +71,11 @@
 
 + [无天霸气登场逼佛祖退位：是你自己走，还是我送你走《西游记后传》P3](http://www.acfun.cn/v/ac46229200)
 
++ [这就是雷音寺](http://www.acfun.cn/v/ac46229023)
+
++ [【ACFUN声唱云参赛2024】ワインレッドの心](http://www.acfun.cn/v/ac46227848)
+
++ [耐口王](http://www.acfun.cn/v/ac46229521)
+
++ [小熊猫打滚被发现了](http://www.acfun.cn/v/ac46229500)
+
