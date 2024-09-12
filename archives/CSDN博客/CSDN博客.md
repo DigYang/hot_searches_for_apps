@@ -147,3 +147,15 @@
 
 + [前端网络请求库：Axios](https://blog.csdn.net/m0_61619549/article/details/142058351)
 
++ [探索深度学习的奥秘：从理论到实践的奇幻之旅](https://blog.csdn.net/weixin_73295475/article/details/142144235)
+
++ [单片机拍照_将采集的RGB图像封装为BMP格式保存到SD卡](https://blog.csdn.net/xiaolong1126626497/article/details/142135778)
+
++ [网络安全（黑客技术）—2024自学手册](https://blog.csdn.net/web22050702/article/details/142097696)
+
++ [【计网】从零开始认识网络socket](https://blog.csdn.net/JLX_1/article/details/142141130)
+
++ [Linux网络——socket编程与UDP实现服务器与客户机通信](https://blog.csdn.net/ye_yumo/article/details/142147539)
+
++ [uni-app开发微信小程序](https://blog.csdn.net/Min_nna/article/details/142137611)
+
