@@ -45,3 +45,5 @@
 
 + [如何使用大型语言模型（LLMs）自动检测BOLA漏洞](https://www.freebuf.com/articles/web/408918.html)
 
++ [Java反序列化 | CC链专题](https://www.freebuf.com/articles/web/409069.html)
+
