@@ -251,3 +251,17 @@
 
 + [《真三国无双：起源》新情报和实机将于9月26日公布](https://www.3dmgame.com/news/202409/3904086.html)
 
++ [黄牛试图倒卖PS5光驱 索尼内部人士：不会缺供应别被坑](https://www.3dmgame.com/news/202409/3904105.html)
+
++ [策略探索游戏《钻核公司》现已推出抢先体验版 获得好评](https://www.3dmgame.com/news/202409/3904106.html)
+
++ [《异变麻将》Steam页面上线 另类创新玩法](https://www.3dmgame.com/news/202409/3904104.html)
+
++ [《潜行者2》全新截图 夜色虽美但行动要注意](https://www.3dmgame.com/news/202409/3904103.html)
+
++ [《夜族崛起》Steam 限时免费游玩进行中](https://www.3dmgame.com/news/202409/3904102.html)
+
++ [《无限试驾：太阳王冠》已在Steam正式发售 总体评价为褒贬不一](https://www.3dmgame.com/news/202409/3904101.html)
+
++ [纪念《托尼霍克职业滑板》系列25周年 滑板巨星托尼·霍克正在与动视谈判](https://www.3dmgame.com/news/202409/3904100.html)
+
