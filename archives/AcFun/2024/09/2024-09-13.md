@@ -121,3 +121,15 @@
 
 + [失去同伴的小鸟，紧贴我的手才有安全感](http://www.acfun.cn/v/ac46243438)
 
++ [【AC独家】翻唱《321对不起》](http://www.acfun.cn/v/ac46246861)
+
++ [江湖大佬，帮会红人 《九龙冰室》我始终做不了正常人](http://www.acfun.cn/v/ac46245658)
+
++ [这就是双胞胎的快乐吗？欢乐八点档-1041](http://www.acfun.cn/v/ac46245869)
+
++ [两个男人的浪漫烛光晚餐](http://www.acfun.cn/v/ac46247133)
+
++ [跨专业能不能考日本研究生啊？ 娄老师 不看不是人 今天说说说什么了](http://www.acfun.cn/v/ac46246735)
+
++ [☆Green Eyes☆](http://www.acfun.cn/v/ac46243560)
+
