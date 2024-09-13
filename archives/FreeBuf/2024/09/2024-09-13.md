@@ -49,3 +49,5 @@
 
 + [新型 Vo1d 恶意软件曝光，超130万台安卓电视设备已中招](https://www.freebuf.com/news/410913.html)
 
++ [WordPress GiveWP 插件远程命令执行漏洞0day(CVE-2024-5932)](https://www.freebuf.com/vuls/409941.html)
+
