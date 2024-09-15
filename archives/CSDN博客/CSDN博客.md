@@ -137,3 +137,9 @@
 
 + [外包干了半年，快要废了。。。](https://blog.csdn.net/YJT1002/article/details/142209977)
 
++ [o1 发布后 Sam Altman 最新访谈：AI 发展不仅没有放缓，而且我们对未来几年已经胜券在握](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/142259933)
+
++ [SpringBoot整合ES搜索引擎 实现网站热搜词及热度计算](https://blog.csdn.net/lilinhai548/article/details/142268241)
+
++ [【HTML】元素的分类（块元素、行内元素、行内块元素）](https://blog.csdn.net/qq_57567877/article/details/137080702)
+
