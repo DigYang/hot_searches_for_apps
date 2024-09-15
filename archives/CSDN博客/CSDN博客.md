@@ -131,3 +131,9 @@
 
 + [孙怡带你深度学习（1）--神经网络](https://blog.csdn.net/m0_74896766/article/details/142235273)
 
++ [JVM 调优篇7 调优案例1-堆空间的优化解决](https://blog.csdn.net/u011066470/article/details/142265939)
+
++ [芯片架构介绍 (X86 , ARM, RISC-V) [0x02]](https://blog.csdn.net/qq_46817570/article/details/142264014)
+
++ [外包干了半年，快要废了。。。](https://blog.csdn.net/YJT1002/article/details/142209977)
+
