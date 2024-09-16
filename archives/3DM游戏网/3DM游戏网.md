@@ -129,3 +129,5 @@
 
 + [中式恐怖《乌合之众》Steam页面上线 支持简体中文](https://www.3dmgame.com/news/202409/3904275.html)
 
++ [百度联盟大会发布首个智能体联盟解决方案](https://www.3dmgame.com/news/202409/3904278.html)
+
