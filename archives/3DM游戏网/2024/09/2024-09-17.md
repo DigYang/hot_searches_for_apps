@@ -145,3 +145,7 @@
 
 + [未来的游戏PC推想 日本大学发明发光会冷却物质](https://www.3dmgame.com/news/202409/3904316.html)
 
++ [意大利称查获价值5000万欧元“小霸王”主机和游戏](https://www.3dmgame.com/news/202409/3904325.html)
+
++ [传言称Meta Quest 3S即将取消3.5毫米耳机插孔](https://www.3dmgame.com/news/202409/3904324.html)
+
