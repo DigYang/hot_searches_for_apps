@@ -147,3 +147,7 @@
 
 + [《最后生还者2》重制版与原版对比视频 快来看差别](https://www.3dmgame.com/news/202401/3886306.html)
 
++ [国产银河恶魔城游戏《觉醒异刃》10月22日发售](https://www.3dmgame.com/news/202409/3904364.html)
+
++ [SEGA开启Steam如龙审判之眼系列促销活动](https://www.3dmgame.com/news/202409/3904363.html)
+
