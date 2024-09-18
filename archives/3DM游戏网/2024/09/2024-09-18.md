@@ -195,3 +195,19 @@
 
 + [新《战地》2025年初举行大规模测试 内侧已超过一年](https://www.3dmgame.com/news/202409/3904373.html)
 
++ [发布9年后 PC版《GTA5》终于添加反作弊功能](https://www.3dmgame.com/news/202409/3904388.html)
+
++ [拳头卡普空前员工组建新动漫游戏工作室 首款作品明年发售](https://www.3dmgame.com/news/202409/3904394.html)
+
++ [《模拟人生》官宣制作真人电影 亚马逊米高梅负责制作](https://www.3dmgame.com/news/202409/3904392.html)
+
++ [《勇敢小骑士》现已发售，二维三维随意转换，小骑士也能玩出大花样！](https://www.3dmgame.com/news/202409/3904393.html)
+
++ [RPG肉鸽游戏《Wildkeepers Rising》Steam页面 发售日待定](https://www.3dmgame.com/news/202409/3904391.html)
+
++ [《变形金刚：起源》终极预告 视觉与情感盛宴将上演](https://www.3dmgame.com/news/202409/3904390.html)
+
++ [育碧推出硬性规定：全体员工每周必须在办公室工作至少3天](https://www.3dmgame.com/news/202409/3904389.html)
+
++ [《波斯王子：失落的王冠》全新剧情DLC“面具阴影”现已正式发售](https://www.3dmgame.com/news/202409/3904387.html)
+
