@@ -167,3 +167,31 @@
 
 + [《死神：魂魄觉醒》十番队队长日番谷冬狮郎角色预告](https://www.3dmgame.com/news/202409/3904366.html)
 
++ [《米奇17号》发首支预告 《寄生虫》导演自编自导](https://www.3dmgame.com/news/202409/3904379.html)
+
++ [《守望先锋2》登录Xbox Game Pass 还将提供独家福利](https://www.3dmgame.com/news/202409/3904385.html)
+
++ [《刺客信条：影》新爆料汇总 弥助潜行刺杀敌人时会发声](https://www.3dmgame.com/news/202409/3904386.html)
+
++ [《血百合轮回》登陆Steam 克苏鲁主题恐怖冒险](https://www.3dmgame.com/news/202409/3904382.html)
+
++ [规模宏大！新《战地》将由四家工作室联合开发](https://www.3dmgame.com/news/202409/3904384.html)
+
++ [《时光3：永耀之境》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202409/3904383.html)
+
++ [《自由战争：复刻版》正式公布 预计2025年1月9日发售](https://www.3dmgame.com/news/202409/3904380.html)
+
++ [Netflix制作的动画电影《猎魔人：深海女妖》放出全新预告 延期至2025年上映](https://www.3dmgame.com/news/202409/3904381.html)
+
++ [角色扮演游戏《Starlight Re:Volver》Steam页面开放 发行日期待定](https://www.3dmgame.com/news/202409/3904378.html)
+
++ [《荒野守护者崛起》Steam上线 幻想风肉鸽射击](https://www.3dmgame.com/news/202409/3904376.html)
+
++ [《星空》DLC剧情发生在一个星球上 完全手工打造](https://www.3dmgame.com/news/202409/3904375.html)
+
++ [《文明7》七大文明新细节 埃及希腊玛雅罗马等](https://www.3dmgame.com/news/202409/3904377.html)
+
++ [EA免费游戏《滑板》2025年初开启抢先体验 主机测试今秋开始](https://www.3dmgame.com/news/202409/3904374.html)
+
++ [新《战地》2025年初举行大规模测试 内侧已超过一年](https://www.3dmgame.com/news/202409/3904373.html)
+

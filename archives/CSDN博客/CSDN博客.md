@@ -151,3 +151,15 @@
 
 + [基于NLP的对话系统开发：从零构建智能客服机器人](https://blog.csdn.net/weixin_41859354/article/details/142318325)
 
++ [《微信小程序实战（2） · 组件封装》](https://blog.csdn.net/syb513812/article/details/142320574)
+
++ [使用 Java Deeplearning4j 和 Imagen 训练动物图像生成模型全流程指南](https://blog.csdn.net/lilinhai548/article/details/142317886)
+
++ [工厂模式，策略模式，代理模式，单例模式在项目中的应用](https://blog.csdn.net/m0_73966521/article/details/142315845)
+
++ [Android OkHttp源码分析（一）：为什么OkHttp的请求速度很快？为什么可以高扩展？为什么可以高并发](https://blog.csdn.net/qq_40853919/article/details/142308502)
+
++ [一天认识一个硬件之显示器](https://blog.csdn.net/m0_73230228/article/details/142174515)
+
++ [介绍一些免费 的 html 5模版网站 和配色 网站](https://blog.csdn.net/tomxjc/article/details/142308361)
+
