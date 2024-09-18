@@ -145,3 +145,9 @@
 
 + [GPT如何理解人类语言：从向量化到智能涌现](https://blog.csdn.net/qq_51447436/article/details/142317102)
 
++ [【机器学习-监督学习】朴素贝叶斯](https://blog.csdn.net/Morse_Chen/article/details/142186453)
+
++ [用计算思维解决知识原理的事](https://blog.csdn.net/flykid1971/article/details/142302123)
+
++ [基于NLP的对话系统开发：从零构建智能客服机器人](https://blog.csdn.net/weixin_41859354/article/details/142318325)
+
