@@ -83,3 +83,17 @@
 
 + [logo design letter R brand identity](https://dribbble.com/shots/)
 
++ [abstract logo, digital maeketing, fintech](https://dribbble.com/shots/)
+
++ [UI Kit for Crypto Dashboard Website](https://dribbble.com/shots/)
+
++ [DC - Luxury Elegant Aesthetic Metal Portfolio Website Design](https://dribbble.com/shots/)
+
++ [Griffin Badge](https://dribbble.com/shots/)
+
++ [Online Casino - Mobile Design](https://dribbble.com/shots/)
+
++ [Best E Real Estate Logo](https://dribbble.com/shots/)
+
++ [Yonova™ - Health Care Branding](https://dribbble.com/shots/)
+
