@@ -29,3 +29,11 @@
 
 + [“致敬诺基亚 N9”HMD Skyline 手机上架京东国际：骁龙 7s Gen 2 + 12G + 256G 售 2999 元](https://m.ithome.com/html/797362.htm)
 
++ [《惊变 28 年》将成为首部基于苹果 iPhone 拍摄的好莱坞大片，2025 年 6 月北美上映](https://m.ithome.com/html/797420.htm)
+
++ [小米 Redmi Note 14 Pro 四款配色、Pro+ 三款配色公布，下周发布](https://m.ithome.com/html/797322.htm)
+
++ [限量 2010 辆，比亚迪腾势 Z9 GT 首发版车型已全部售罄](https://m.ithome.com/html/797440.htm)
+
++ [iQOO 官宣 Z9 Turbo+ 手机搭载 1.5K 144Hz 护眼屏，TCL 华星最新发光材料](https://m.ithome.com/html/797326.htm)
+
