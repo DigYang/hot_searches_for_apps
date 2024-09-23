@@ -97,3 +97,13 @@
 
 + [☕️ Roseco - Landing Page](https://dribbble.com/shots/)
 
++ [Cryptora – Crypto Mobile Application](https://dribbble.com/shots/)
+
++ [Task & Project Management](https://dribbble.com/shots/)
+
++ [Logo Design | Easy Task Management Solution](https://dribbble.com/shots/)
+
++ [D letter logo, logo design, branding logo](https://dribbble.com/shots/)
+
++ [medical logo, hospital logo, minimalist logo, logo design](https://dribbble.com/shots/)
+
