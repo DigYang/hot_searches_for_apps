@@ -221,3 +221,37 @@
 
 + [卡牌角色扮演游戏《暗色天空》现已在Steam平台正式推出](https://www.3dmgame.com/news/202409/3904931.html)
 
++ [NEOWIZ《匹诺曹的谎言》官方周边线上开业…推出IP周边商品](https://www.3dmgame.com/news/202409/3904948.html)
+
++ [养成类肉鸽游戏《DRAPLINE》Steam页面上线 支持简中](https://www.3dmgame.com/news/202409/3904950.html)
+
++ [任天堂使用AI版权工具 清除互联网上的马里奥AI生成图片](https://www.3dmgame.com/news/202409/3904949.html)
+
++ [《Wittle Mistakes》Steam上线 高能婴儿动作闯关](https://www.3dmgame.com/news/202409/3904945.html)
+
++ [《怪物猎人 荒野》PC配置公布 最低配置GTX1660S等](https://www.3dmgame.com/news/202409/3904946.html)
+
++ [泄露指出《刺客信条：影》将拥有可自定义的房屋建造系统](https://www.3dmgame.com/news/202409/3904947.html)
+
++ [《微软飞行模拟2024》Steam页面上线 11月19日推出](https://www.3dmgame.com/news/202409/3904942.html)
+
++ [生存恐怖合作新游《永恒寒冬》现已上线Steam和Epic商店 支持中文](https://www.3dmgame.com/news/202409/3904943.html)
+
++ [《遗迹2》最新DLC“黑暗地平线”现已正式发售](https://www.3dmgame.com/news/202409/3904944.html)
+
++ [世嘉将与DC合作 推出《正义联盟》版《刺猬索尼克》漫画](https://www.3dmgame.com/news/202409/3904934.html)
+
++ [《崩坏：星穹铁道》走近星穹——「灵砂：去哪里买能闻到香味的手机？」](https://www.3dmgame.com/news/202409/3904935.html)
+
++ [《真人快打1》DLC上线 新故事启动新角色参战](https://www.3dmgame.com/news/202409/3904936.html)
+
++ [KK官方对战平台主播专访：魔兽RPG，8090后的专属娱乐避风港！](https://www.3dmgame.com/news/202409/3904937.html)
+
++ [KK官方对战平台新图推荐！超难超爽的解压神作，打工人摸鱼必备！](https://www.3dmgame.com/news/202409/3904938.html)
+
++ [蒸汽平台鉴赏家大会：440余款游戏震撼登场 年度奖项公布](https://www.3dmgame.com/news/202409/3904939.html)
+
++ [列文虎克玩家发现《绝地潜兵2》开场动画重大错误 游戏总监坦言两年多来并未注意到](https://www.3dmgame.com/news/202409/3904940.html)
+
++ [提前泄露 《暗喻幻想》试玩Demo上线韩服Xbox商店](https://www.3dmgame.com/news/202409/3904941.html)
+
