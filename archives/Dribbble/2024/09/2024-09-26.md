@@ -157,3 +157,7 @@
 
 + [Stones - wordmark logotype logo design for a web series.](https://dribbble.com/shots/)
 
++ [Unused Logo for an Autonomous Driving Company](https://dribbble.com/shots/)
+
++ [Maximalist - Logo Design](https://dribbble.com/shots/)
+
