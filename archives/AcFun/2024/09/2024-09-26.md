@@ -81,3 +81,7 @@
 
 + [你们要的亮丝](http://www.acfun.cn/v/ac46295247)
 
++ [【莱柠15岁生日作＋】天才般的15岁偶像アイドル/ YOASOBI /推しの子＜双振幅混跳＞](http://www.acfun.cn/v/ac46295749)
+
++ [CZ75气动抛壳，但只要198](http://www.acfun.cn/v/ac46296269)
+
