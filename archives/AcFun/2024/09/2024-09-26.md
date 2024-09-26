@@ -135,3 +135,7 @@
 
 + [究极生命的完美之路-《异形：夺命舰》后时间线梳理【达奇】](http://www.acfun.cn/v/ac46297723)
 
++ [轻轻踹醒沉睡的心灵](http://www.acfun.cn/v/ac46299498)
+
++ [hjm秋哥秀vol.6](http://www.acfun.cn/v/ac46298973)
+
