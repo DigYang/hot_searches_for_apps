@@ -77,3 +77,7 @@
 
 + [游戏王 简中 SD47 青眼白龙最新预组——青眼之光临！开盒！](http://www.acfun.cn/v/ac46291638)
 
++ [ACER 还 得 谢 谢 我 呢](http://www.acfun.cn/v/ac46296585)
+
++ [你们要的亮丝](http://www.acfun.cn/v/ac46295247)
+
