@@ -107,3 +107,15 @@
 
 + [赛博黄金“黑暗之魂”系列5折促销 魂三134元](https://www.3dmgame.com/news/202409/3905177.html)
 
++ [原手游《蕾斯莱莉娅娜的炼金工房》同设定新游公布](https://www.3dmgame.com/news/202409/3905182.html)
+
++ [《幻想水浒传1&2 HD合集》预告片介绍增强图形等](https://www.3dmgame.com/news/202409/3905181.html)
+
++ [80s动漫风街机式太空战斗游戏《Rogue Flight》公布](https://www.3dmgame.com/news/202409/3905183.html)
+
++ [《AI LIMIT 无限机兵》限时试玩10/14-21上线](https://www.3dmgame.com/news/202409/3905180.html)
+
++ [《星鸣特攻》赔了4亿不叫事？SIE为第一方游戏扩招DEI人士](https://www.3dmgame.com/news/202409/3905179.html)
+
++ [育碧《星战》工作室将很快转移到《全境封锁3》上](https://www.3dmgame.com/news/202409/3905178.html)
+
