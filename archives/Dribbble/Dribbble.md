@@ -61,3 +61,9 @@
 
 + [Odeur Branding and Packaging Design](https://dribbble.com/shots/)
 
++ [DM monogram](https://dribbble.com/shots/)
+
++ [A Skateboarding Landing Page Design Template](https://dribbble.com/shots/)
+
++ [Hivemide - Web Design for SaaS](https://dribbble.com/shots/)
+
