@@ -109,3 +109,21 @@
 
 + [卡普空暗示《逆转裁判》系列新作正在筹备中](https://www.3dmgame.com/news/202409/3905230.html)
 
++ [韩国模拟游戏《inZOI》全新预告 猫猫好可爱！](https://www.3dmgame.com/news/202409/3905241.html)
+
++ [4280元！《仙剑奇侠传七》雕像天魔女-魁予开定](https://www.3dmgame.com/news/202409/3905240.html)
+
++ [陶德承认：给《星空》弄数千颗星球 是最大错误](https://www.3dmgame.com/news/202409/3905239.html)
+
++ [《直到黎明：重制版》PS5版文件体积曝光](https://www.3dmgame.com/news/202409/3905238.html)
+
++ [《天使之王：梅塔特隆的飞升》HD复刻版将登陆PS5](https://www.3dmgame.com/news/202409/3905237.html)
+
++ [PS之父称当时索尼每个人都认为PlayStation会失败](https://www.3dmgame.com/news/202409/3905236.html)
+
++ [陶德：B社游戏规模越来越大 是因为团队倾注大量创造力](https://www.3dmgame.com/news/202409/3905235.html)
+
++ [索尼：PS5 Pro是一个全套产品 给玩家带来非凡价值](https://www.3dmgame.com/news/202409/3905234.html)
+
++ [派对运动游戏《乐一通：疯狂运动世界》上市](https://www.3dmgame.com/news/202409/3905233.html)
+
