@@ -127,3 +127,21 @@
 
 + [派对运动游戏《乐一通：疯狂运动世界》上市](https://www.3dmgame.com/news/202409/3905233.html)
 
++ [现在是去码头整点薯条的时间 海鸥恶搞游戏《格兰德》现已推出试玩Demo](https://www.3dmgame.com/news/202409/3905248.html)
+
++ [《死或生：女神璀璨假期》新截图 美女很可爱性感](https://www.3dmgame.com/news/202409/3905249.html)
+
++ [《死亡搁浅2》更多游戏画面公布 艾丽·范宁将饰演“Tomorrow”](https://www.3dmgame.com/news/202409/3905250.html)
+
++ [动作冒险游戏《REYNATIS》现已正式推出 Steam平台获多半好评](https://www.3dmgame.com/news/202409/3905245.html)
+
++ [《怪物猎人：荒野》桃毛兽王将回归 好高傲好欠揍](https://www.3dmgame.com/news/202409/3905247.html)
+
++ [《葬送的芙莉莲》第二季官宣制作 播出时间待定](https://www.3dmgame.com/news/202409/3905246.html)
+
++ [嘲笑亚裔 SBI铁杆记者侮辱《对马岛之鬼》男主名字](https://www.3dmgame.com/news/202409/3905242.html)
+
++ [《合金装备3》重制版与原版对比：画面进化 效果更逼真](https://www.3dmgame.com/news/202409/3905243.html)
+
++ [《贪婪之秋2：垂死世界》正在改进战斗和角色定制这两大重要主题](https://www.3dmgame.com/news/202409/3905244.html)
+
