@@ -113,3 +113,13 @@
 
 + [Atlus新作RPG《暗喻幻想》将于年底推出漫画](https://www.3dmgame.com/news/202409/3905290.html)
 
++ [索尼加大投资地平线系列 寄希望于《地平线OL》](https://www.3dmgame.com/news/202409/3905297.html)
+
++ [彭博社记者：Xbox目前太混乱 计划每年都在变](https://www.3dmgame.com/news/202409/3905296.html)
+
++ [外媒揣测PS5 Pro销量或不佳 甚至都没有被黄牛盯上](https://www.3dmgame.com/news/202409/3905295.html)
+
++ [腾讯《三角洲行动》真人宣传片 威龙出动使命必达](https://www.3dmgame.com/news/202409/3905294.html)
+
++ [育碧称《星球大战：亡命之徒》销量不佳 是因为玩家期望过高](https://www.3dmgame.com/news/202409/3905293.html)
+
