@@ -219,3 +219,7 @@
 
 + [魔兽争霸回来了！KK官方对战平台发布王座计划，50万奖金池上不封顶！](https://www.3dmgame.com/news/202409/3905341.html)
 
++ [从来没见过！英伟达显卡无敌独占88% Intel不幸归零](https://www.3dmgame.com/news/202409/3905347.html)
+
++ [《怪物猎人》与芬达乐器合作 推出雄火龙主题电吉他](https://www.3dmgame.com/news/202409/3905346.html)
+
