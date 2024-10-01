@@ -193,3 +193,9 @@
 
 + [脑机接口成功控制Vision Pro 运行一年无严重不良反应](https://www.3dmgame.com/news/202410/3905399.html)
 
++ [《星空》DLC“破碎空间”褒贬不一 好评率仅43%](https://www.3dmgame.com/news/202410/3905402.html)
+
++ [10月上旬Xbox Game Pass名单公布 《师父》领衔](https://www.3dmgame.com/news/202410/3905403.html)
+
++ [吉田直树想让《最终幻想16》登陆Xbox平台](https://www.3dmgame.com/news/202410/3905401.html)
+
