@@ -131,3 +131,9 @@
 
 + [《死亡搁浅2》获玩家称赞 女角色和脸模一样美](https://www.3dmgame.com/news/202410/3905365.html)
 
++ [Nexon美国进行少量裁员：计划重组欧美开发部门](https://www.3dmgame.com/news/202410/3905372.html)
+
++ [《使命召唤：黑色行动6》玩家呼声很高的一项功能回归](https://www.3dmgame.com/news/202410/3905371.html)
+
++ [《刺客信条：影》开发者早就提出应延期 高层不同意](https://www.3dmgame.com/news/202410/3905370.html)
+
