@@ -137,3 +137,9 @@
 
 + [《刺客信条：影》开发者早就提出应延期 高层不同意](https://www.3dmgame.com/news/202410/3905370.html)
 
++ [Epic起诉三星：自动拦截功能妨碍应用市场竞争](https://www.3dmgame.com/news/202410/3905374.html)
+
++ [《合金装备3：重制版》场景过渡将比原版更平滑](https://www.3dmgame.com/news/202410/3905373.html)
+
++ [《纸嫁衣6千秋魇》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202410/3905375.html)
+
