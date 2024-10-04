@@ -243,3 +243,7 @@
 
 + [传英伟达将在11月停供RTX 4080 Super系列](https://www.3dmgame.com/news/202410/3905544.html)
 
++ [彭博社：腾讯和育碧创始人Guillemot家族考虑收购育碧](https://www.3dmgame.com/news/202410/3905548.html)
+
++ [《变形金刚：起源》上映8天 国内票房终破亿](https://www.3dmgame.com/news/202410/3905547.html)
+
