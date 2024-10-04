@@ -193,3 +193,5 @@
 
 + [《忍者神龟：斯普林特的命运》PC版11/6推出](https://www.3dmgame.com/news/202410/3905519.html)
 
++ [Saber开发《降世神通：最后的气宗》3A动作RPG](https://www.3dmgame.com/news/202410/3905522.html)
+
