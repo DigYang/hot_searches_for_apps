@@ -195,3 +195,15 @@
 
 + [Saber开发《降世神通：最后的气宗》3A动作RPG](https://www.3dmgame.com/news/202410/3905522.html)
 
++ [《寂静岭2：重制版》角色概念图曝光 国外网友：没用这些可惜了](https://www.3dmgame.com/news/202410/3905527.html)
+
++ [《直到黎明》重制版片尾彩蛋暗示续作剧情可能性](https://www.3dmgame.com/news/202410/3905528.html)
+
++ [Konami计划将《合金装备》系列保存到未来50年](https://www.3dmgame.com/news/202410/3905526.html)
+
++ [《寂静岭2》对比视频 新版玛利亚被批脸部缺乏情感](https://www.3dmgame.com/news/202410/3905525.html)
+
++ [《战神：诸神黄昏》闭嘴MOD让阿特柔斯把嘴闭上](https://www.3dmgame.com/news/202410/3905524.html)
+
++ [阵容刷新 苹果今年将发布搭载M4芯片的新款Mac机型](https://www.3dmgame.com/news/202410/3905523.html)
+
