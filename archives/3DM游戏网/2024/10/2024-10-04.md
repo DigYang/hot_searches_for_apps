@@ -207,3 +207,5 @@
 
 + [阵容刷新 苹果今年将发布搭载M4芯片的新款Mac机型](https://www.3dmgame.com/news/202410/3905523.html)
 
++ [《塞尔达传说：智慧的再现》制作名单里没有宫本茂](https://www.3dmgame.com/news/202410/3905529.html)
+
