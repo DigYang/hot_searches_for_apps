@@ -181,3 +181,7 @@
 
 + [Swift并发笔记](https://blog.csdn.net/Mamong/article/details/142632533)
 
++ [记录一次病毒启动脚本](https://blog.csdn.net/GW569453350game/article/details/142697781)
+
++ [【Web】portswigger 服务端原型污染 labs 全解](https://blog.csdn.net/uuzeray/article/details/142699802)
+
