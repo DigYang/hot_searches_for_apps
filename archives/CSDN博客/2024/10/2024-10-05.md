@@ -147,3 +147,9 @@
 
 + [【FFmpeg 深度解析】：全方位视频合成](https://blog.csdn.net/qq_34272964/article/details/142644509)
 
++ [《深度学习》OpenCV 背景建模 原理及案例解析](https://blog.csdn.net/qq_64603703/article/details/142678511)
+
++ [Unity组件大全之 2D物理 |（68）Rigidbody 2D 刚体](https://blog.csdn.net/UnityBoy/article/details/142496933)
+
++ [微信原生小程序](https://blog.csdn.net/gopher9511/article/details/142704039)
+
