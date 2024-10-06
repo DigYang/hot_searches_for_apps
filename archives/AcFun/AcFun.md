@@ -137,3 +137,9 @@
 
 + [恐怖鬼屋！金戈的秘密！？个人剧情解释《神奇数字马戏团》第三集](http://www.acfun.cn/v/ac46347771)
 
++ [【锅锅x位位子】magnet](http://www.acfun.cn/v/ac46349413)
+
++ [—FULL MOON—【满月】黑天鹅](http://www.acfun.cn/v/ac46349433)
+
++ [科普科普](http://www.acfun.cn/v/ac46345927)
+
