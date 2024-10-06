@@ -213,3 +213,11 @@
 
 + [经典日恐新作《翌日-忌夜的噬灵超市》10月10日登陆PS4/NS](https://www.3dmgame.com/news/202410/3905613.html)
 
++ [《要战便战》登陆Steam 好评城堡攻防即时战斗](https://www.3dmgame.com/news/202410/3905623.html)
+
++ [谷歌将为为安卓推出盗窃检测锁定功能 AI识别偷抢](https://www.3dmgame.com/news/202410/3905621.html)
+
++ [厨房管理游戏《末日等待》宣布10月24日发售 支持中文](https://www.3dmgame.com/news/202410/3905622.html)
+
++ [唯一一个公开社交媒体的V社员工表示自己这样太傻了](https://www.3dmgame.com/news/202410/3905620.html)
+
