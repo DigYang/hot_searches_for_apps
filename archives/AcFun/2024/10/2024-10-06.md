@@ -143,3 +143,11 @@
 
 + [科普科普](http://www.acfun.cn/v/ac46345927)
 
++ [【国庆】Ai越来越懂Acer了！！！欢乐八点档-1064](http://www.acfun.cn/v/ac46348529)
+
++ [水刑、灌肠、模拟下葬！美国《酷刑报告》披露CIA酷刑折磨恐怖分子【墨菲】](http://www.acfun.cn/v/ac46349614)
+
++ [【东方】システム・フレイヤ【蓬莱人形 Ver. MMD】](http://www.acfun.cn/v/ac46348745)
+
++ [【怜兔x萤子】Near◆I m Near . I love you.](http://www.acfun.cn/v/ac46347319)
+
