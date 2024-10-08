@@ -137,3 +137,9 @@
 
 + [TypeScript：装饰器](https://blog.csdn.net/ChinaDragon10/article/details/142617468)
 
++ [【AI大模型】深入Transformer架构：编码器部分的实现与解析（下）](https://blog.csdn.net/2301_76820214/article/details/142706635)
+
++ [linux信号 | 信号的补充知识](https://blog.csdn.net/strive_mianyang/article/details/142735978)
+
++ [深入探索Vue3组合式API](https://blog.csdn.net/weixin_74009702/article/details/142726867)
+
