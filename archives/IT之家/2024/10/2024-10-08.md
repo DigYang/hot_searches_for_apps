@@ -31,3 +31,7 @@
 
 + [小米 SU7 Ultra 原型车意外现身官方 App，量产版明年一季度发布](https://m.ithome.com/html/800447.htm)
 
++ [比亚迪回应“向员工发放利润奖”：情况属实](https://m.ithome.com/html/800486.htm)
+
++ [消息称 vivo X200 Pro 手机独享 200Mp 大底潜望镜等配置，全系机型支持长焦微距](https://m.ithome.com/html/800448.htm)
+

@@ -143,3 +143,15 @@
 
 + [深入探索Vue3组合式API](https://blog.csdn.net/weixin_74009702/article/details/142726867)
 
++ [Github优质项目推荐 - 第五期](https://blog.csdn.net/qq_43657722/article/details/142735541)
+
++ [如何在 Kubernetes 上部署 Spark](https://blog.csdn.net/i042416/article/details/142748196)
+
++ [RabbitMQ事务模块](https://blog.csdn.net/weixin_72953218/article/details/141999876)
+
++ [vue2路由和vue3路由区别及原理](https://blog.csdn.net/qq_25416827/article/details/142746748)
+
++ [基于SpringBoot民宿预订系统小程序【附源码】](https://blog.csdn.net/2402_84112588/article/details/142748811)
+
++ [基于SpringBoot+Vue+Uniapp的校史馆微信小程序设计与实现(源码+论文+PPT+部署文档教程等)](https://blog.csdn.net/qq_45714272/article/details/142747433)
+
