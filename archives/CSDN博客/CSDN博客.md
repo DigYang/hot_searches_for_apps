@@ -155,3 +155,9 @@
 
 + [基于SpringBoot+Vue+Uniapp的校史馆微信小程序设计与实现(源码+论文+PPT+部署文档教程等)](https://blog.csdn.net/qq_45714272/article/details/142747433)
 
++ [【MySQL必知会】事务](https://blog.csdn.net/jupangMZ/article/details/142745519)
+
++ [YOLO11改进|注意力机制篇|引入大核可分离卷积注意力块LSKA](https://blog.csdn.net/A1983Z/article/details/142737858)
+
++ [计算机网络：物理层 —— 数据的传输方式](https://blog.csdn.net/Zachyy/article/details/142741702)
+
