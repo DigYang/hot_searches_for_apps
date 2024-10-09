@@ -153,3 +153,11 @@
 
 + [世嘉《忍shinobi》将拍电影版 《惊天营救》导演执导](https://www.3dmgame.com/news/202410/3905796.html)
 
++ [《命运2》新章节“怨魂”发布预告片 章节1内容现已推出](https://www.3dmgame.com/news/202410/3905808.html)
+
++ [动作肉鸽游戏《护林猿神》宣布10月22日开启EA](https://www.3dmgame.com/news/202410/3905809.html)
+
++ [中世纪背景策略建造塔防游戏《边境开拓者》现已在Steam平台推出试玩Demo](https://www.3dmgame.com/news/202410/3905810.html)
+
++ [世嘉联动痛飞机公开 女神异闻录索尼克涂装客机惊艳亮相](https://www.3dmgame.com/news/202410/3905811.html)
+
