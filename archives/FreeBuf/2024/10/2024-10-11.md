@@ -51,3 +51,7 @@
 
 + [Django-DOS漏洞分析&复现（CVE-2024-41989）](https://www.freebuf.com/vuls/412186.html)
 
++ [黑客利用YouTube 平台传播复杂的恶意软件](https://www.freebuf.com/news/412529.html)
+
++ [伊朗黑客使用ChatGPT策划ICS攻击](https://www.freebuf.com/news/412521.html)
+
