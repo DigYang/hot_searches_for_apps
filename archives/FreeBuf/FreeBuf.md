@@ -55,3 +55,5 @@
 
 + [伊朗黑客使用ChatGPT策划ICS攻击](https://www.freebuf.com/news/412521.html)
 
++ [Veeam曝出关键漏洞，勒索团伙趁火打劫利用RCE攻击全球企业](https://www.freebuf.com/news/412525.html)
+
