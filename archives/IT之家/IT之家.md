@@ -51,3 +51,9 @@
 
 + [因未满足投资承诺，苹果 iPhone 16 在印尼面临销售禁令](https://m.ithome.com/html/801511.htm)
 
++ [1.5K 无挖孔全面屏实测曝光：量产机下个月亮相，努比亚首发](https://m.ithome.com/html/801408.htm)
+
++ [USB 启动盘制作工具 Rufus 4.6 Beta 版发布，可绕过 Win11 24H2 兼容性检查](https://m.ithome.com/html/801515.htm)
+
++ [微信 iOS 版 8.0.53 最新官方正式版下载发布](https://m.ithome.com/html/801587.htm)
+
