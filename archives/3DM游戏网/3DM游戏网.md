@@ -117,3 +117,7 @@
 
 + [《罪恶王权》开发团队全新学园RPG项目启动](https://www.3dmgame.com/news/202410/3906218.html)
 
++ [《寂静岭2：重制版》数字艺术图展示角色变化 女主变化太大](https://www.3dmgame.com/news/202410/3906223.html)
+
++ [治愈系动物沙盒RPG《荆棘谷​》公布玩法视频](https://www.3dmgame.com/news/202410/3906222.html)
+
